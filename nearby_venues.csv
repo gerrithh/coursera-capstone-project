@@ -1,0 +1,1316 @@
+,name,categories,lat,lng,id,Stadtbezirk,Stadtteil
+0,Al-Dar,Syrian Restaurant,52.375288459382894,9.746799578704696,4b79a35af964a52060072fe3,Mitte,Mitte
+1,Aspera,Turkish Restaurant,52.37632404941346,9.74842422525218,5308f3ff11d2fafb95ea29ef,Mitte,Mitte
+2,Sushi-Do,Sushi Restaurant,52.374703720835235,9.745103933700891,4b7fe29af964a520734230e3,Mitte,Mitte
+3,wok n' joy,Vietnamese Restaurant,52.376928,9.751786,57c02040cd10129f93469f9c,Mitte,Mitte
+4,Tomo Sushi,Sushi Restaurant,52.378944280463664,9.750228690070665,4d9d97b05c33a35d372404a1,Mitte,Mitte
+5,zurück zum glück,Café,52.377119868390885,9.754948733199203,4b83fcb7f964a520ce1931e3,Mitte,Mitte
+6,Arc en Ciel,Chinese Restaurant,52.375324139297746,9.746256687200543,4c813a69dc018cfa7fa6c36c,Mitte,Mitte
+7,Ristorante Rossini,Italian Restaurant,52.37625012428073,9.747155559822811,4e46b7c4a809fb2fa3eeda33,Mitte,Mitte
+8,Block House,Steakhouse,52.374482427279034,9.74487841129303,56d0e479cd10af7328c8e9c0,Mitte,Mitte
+9,Staatsoper Hannover,Opera House,52.37345080085405,9.740817546844482,4b5a4066f964a52097b728e3,Mitte,Mitte
+10,L'Osteria,Trattoria/Osteria,52.37421440441493,9.744877316824674,4f872ed4e4b0767178c22c84,Mitte,Mitte
+11,Shakespeare,Pub,52.37324425462111,9.749858661464527,4b7c57f9f964a520ae8d2fe3,Mitte,Mitte
+12,Künstlerhaus Hannover,Art Gallery,52.372759925237524,9.743205678096274,4e00cdd51495692a4bb6ee30,Mitte,Mitte
+13,Cumberlandsche Galerie,Theater,52.373287048411825,9.743274450302124,4d02bb65dc45a09338e1dfc6,Mitte,Mitte
+14,Pâtisserie Elysée,Pastry Shop,52.37500314384688,9.742984771728514,4b892da1f964a520252132e3,Mitte,Mitte
+15,Oscar's Bar,Cocktail Bar,52.3715077677445,9.741151991948229,4b885c8df964a52019f231e3,Mitte,Mitte
+16,Crowne Plaza Hannover,Hotel,52.3765934,9.7471507,4b82cc0ef964a5209ae530e3,Mitte,Mitte
+17,Opernplatz,Plaza,52.3731803819112,9.740057463140577,4c823bccdc018cfa49f0cc6c,Mitte,Mitte
+18,heimW,Café,52.373971529585205,9.743295907974243,4b812dbef964a5207f9930e3,Mitte,Mitte
+19,Da Andrea,Italian Restaurant,52.376240175579916,9.754033654339397,4b98e273f964a5203b5435e3,Mitte,Mitte
+20,GOP Varieté-Theater,Performing Arts Venue,52.37306099915645,9.739039576912536,4b85688ef964a520e45b31e3,Mitte,Mitte
+21,Café Mezzo,Café,52.38075,9.745274,4b6d8285f964a5202d792ce3,Mitte,Mitte
+22,Kröpcke,Plaza,52.37451081170728,9.738628256082164,4b7bf43ff964a52098752fe3,Mitte,Mitte
+23,Kino am Raschplatz,Indie Movie Theater,52.378712764685844,9.743070602416992,4bedc0d5946c0f4735e0a263,Mitte,Mitte
+24,Kreipe's Coffee Time,Coffee Shop,52.37403047962073,9.741225242614746,4bf949f1b182c9b6caa5785a,Mitte,Mitte
+25,Schauspielhaus,Theater,52.37302471517209,9.743999050443334,4b7af768f964a520ed482fe3,Mitte,Mitte
+26,Weinstube Leonardo,Italian Restaurant,52.372581182440726,9.743965349818804,4d06078aa268548139b6bfbd,Mitte,Mitte
+27,Kastens Hotel Luisenhof,Hotel,52.37448094336911,9.74073815451376,4b8af1b1f964a5208a8a32e3,Mitte,Mitte
+28,Jack the Ripper's,Irish Pub,52.374332,9.738075,4b773bdef964a520458a2ee3,Mitte,Mitte
+29,Apple Hannover,Electronics Store,52.3750567,9.7396059,532d8e6a498ecc032301b64a,Mitte,Mitte
+30,dean&david,Salad Place,52.37218098136091,9.73831143448726,521b46f111d242c07c72542e,Mitte,Mitte
+31,Nespresso Boutique,Coffee Shop,52.37245314314598,9.74008434121361,4d6d13da125eb60c92f92f4e,Mitte,Mitte
+32,Kulturzentrum Pavillon,Music Venue,52.380419542018174,9.745151996612549,4b633182f964a52094692ae3,Mitte,Mitte
+33,Seestern,Seafood Restaurant,52.37519490238478,9.737189972579749,4ddcf23ad22df17199097ea9,Mitte,Mitte
+34,Bäcker Göing,Bakery,52.37640565303788,9.756473511487755,526ce2c311d2c0a1abad22cd,Mitte,Mitte
+35,Monkey's Club,Nightclub,52.3793332335155,9.744363900131571,4f9f3c8be4b04fd542aaf22a,Mitte,Mitte
+36,KUHnstWERK,Burger Joint,52.37093146997918,9.73770903263825,57ff4ec5d67c5a46ac50cd48,Mitte,Mitte
+37,Bistro Stromboli,Italian Restaurant,52.377947504051356,9.76088416911938,4c039ab1f423a5939b6cd016,Mitte,Mitte
+38,Tokio Sushi,Sushi Restaurant,52.37756146142231,9.742298530452521,4baa3767f964a52040543ae3,Mitte,Mitte
+39,Lister Meile,Pedestrian Plaza,52.384070442239896,9.74682104170031,4d789a67db7c5481502f33f2,Mitte,Mitte
+40,WORMLAND Hannover,Men's Store,52.3741143,9.7376583,4be8015188ed2d7f664ccb1d,Mitte,Mitte
+41,Speiserei,German Restaurant,52.374628,9.752229,59db4598fdb9a77e1f9a70a8,Mitte,Mitte
+42,My Way,Cocktail Bar,52.376838584763476,9.73794466624195,4cdda5b0c4f6a35d74c2c46c,Mitte,Mitte
+43,i.SHOP,Grocery Store,52.37657352467039,9.736828536215208,4e303bd914953296330c56b2,Mitte,Mitte
+44,Kreipe's Coffee Time,Coffee Shop,52.383505857863554,9.74645544335479,4baddc99f964a520236e3be3,Mitte,Mitte
+45,Pommesglück,Friterie,52.37505195570465,9.739167470860943,50f803ace4b09b9b5e78504e,Mitte,Mitte
+46,KINDAI Restaurant,Sushi Restaurant,52.36930726615503,9.751127587748387,531e1993498e912dfac32629,Mitte,Mitte
+47,Eliniko,Greek Restaurant,52.37027684139699,9.759066486453433,4b7304cef964a5202a962de3,Mitte,Mitte
+48,Mary's,French Restaurant,52.374259,9.740668,54647174498e67b981d32aed,Mitte,Mitte
+49,Bavarium,Bavarian Restaurant,52.37204906030355,9.739653468132017,4b77f44df964a52007b02ee3,Mitte,Mitte
+50,Sakura Sushi,Sushi Restaurant,52.3773238248603,9.737754916240055,4cebf343e888f04d6416556b,Mitte,Mitte
+51,Warm Up,Cocktail Bar,52.378226676572176,9.74310895457789,4f3ab0c6e4b0f48edbf8db91,Mitte,Mitte
+52,Parfümerie Liebe,Cosmetics Shop,52.37301887497129,9.737881383009345,4c92273951d9b1f75f5f8646,Mitte,Mitte
+53,Machwitz Coffee Bar,Coffee Shop,52.37160333767138,9.737092097180225,4c4998703013a593ee93f1e2,Mitte,Mitte
+54,Jim Block,Burger Joint,52.37385284920403,9.739565136457601,4e492451b61c03d0cd2e853a,Mitte,Mitte
+55,Ernst-August-Denkmal („Unterm Schwanz“),Outdoor Sculpture,52.37619507531763,9.740677453547574,4b71a0c1f964a52019522de3,Mitte,Mitte
+56,dean&david,Salad Place,52.37735136062691,9.742100248571527,568fc51d498ec7434c1d1cf7,Mitte,Mitte
+57,New Saigon,Vietnamese Restaurant,52.373624,9.735344,4e0330f3aeb798576578a4f7,Mitte,Mitte
+58,Block House,Steakhouse,52.36794183537129,9.744567275047302,4b51bd4ff964a520ff5327e3,Mitte,Mitte
+59,Tesoro,Italian Restaurant,52.3703728519318,9.759825102350565,51d69be6498e19414b8ac449,Mitte,Mitte
+60,Reimanns Eck,German Restaurant,52.38229253116144,9.745323657989502,4bbce001a0a0c9b680eb1a0f,Mitte,Mitte
+61,Balzac Coffee,Coffee Shop,52.376509584877454,9.739240407943726,4d2883b2068e8cfa3533c64c,Mitte,Mitte
+62,Ecco!,Deli / Bodega,52.38433838499479,9.74673527584872,4b4436b3f964a520bff225e3,Mitte,Mitte
+63,Francesca & Fratelli,Pizza Place,52.37245498573143,9.736004948313548,56195737498e2a8bbb42a30b,Mitte,Mitte
+64,25 Music,Record Shop,52.381616,9.744368,4d13904a9844b60cbac8c3d4,Mitte,Mitte
+65,Zara,Clothing Store,52.37306311191952,9.736913114775664,4bbf0fe0f353d13aebf97d10,Mitte,Mitte
+66,El País,Tapas Restaurant,52.38168499158771,9.748454286904627,4c0bc90a7e3fc92836c0f582,Mitte,Mitte
+67,Darry’s Donuts,Donut Shop,52.37713179552461,9.737663269042969,504706b6e4b092e662a18bcb,Mitte,Mitte
+68,Al-Hayat,Falafel Restaurant,52.380888,9.744244,4c06b6f28b4520a183d68597,Mitte,Mitte
+69,Theater am Aegi,Theater,52.36781081712642,9.743188619613646,4b7d3ef9f964a52078b42fe3,Mitte,Mitte
+70,Seven Sundays,Breakfast Spot,52.371194,9.738992,5b361f10b6eedb00390763d4,Mitte,Mitte
+71,Ernst-August-Galerie,Shopping Mall,52.377387,9.738191,4b6ac23df964a52027df2be3,Mitte,Mitte
+72,Aegidienkirche,Historic Site,52.36941104375509,9.739288556954778,4bf83989d4cdb71301ba84fe,Mitte,Mitte
+73,6 Sinne,Cocktail Bar,52.37460179183236,9.735374644094362,50c1dbebe4b0abeb9e93e986,Mitte,Mitte
+74,SAUSALITOS,Mexican Restaurant,52.37972026139469,9.74368676004815,579275f8498e0802f6bca701,Mitte,Mitte
+75,Kumkapi,Seafood Restaurant,52.376092412148786,9.735264846987395,4d9e1ead7958f04d3ee625fa,Mitte,Mitte
+76,Wurst-Basar,Sausage Shop,52.37719666352795,9.741823435973352,4c2309869a67a5937a76dd87,Mitte,Mitte
+77,Weinbar gegenüber,Wine Bar,52.369984767958876,9.737782429561772,4b48f341f964a520fd5e26e3,Mitte,Mitte
+78,Hindenburg Klassik,Italian Restaurant,52.374888151548674,9.763188942717633,4bd8575c0b779c7447df06a0,Mitte,Mitte
+79,Starbucks,Coffee Shop,52.377054,9.737621,4b54a66ff964a520d3c427e3,Mitte,Mitte
+80,Schöne Aussichten 360grad,Beach Bar,52.37071359985194,9.737623022185025,4bbc71bc3de8c9b6b8ee9aad,Mitte,Mitte
+81,Prager Hof,Eastern European Restaurant,52.37527784043182,9.755843287881195,4c7b96c33badb1f782325554,Mitte,Mitte
+82,Dunkin',Donut Shop,52.376684656839466,9.740440720237757,54d9ff43498e1a387b021feb,Mitte,Mitte
+83,Colosseum,Ice Cream Shop,52.37643854717262,9.740989735055598,4b92654bf964a52090f633e3,Mitte,Mitte
+84,Hotel Königshof am Funkturm,Hotel,52.380498130572136,9.742330312728882,4ba2818bf964a5203cff37e3,Mitte,Mitte
+85,Backyard Shop,Clothing Store,52.376465,9.736927,4c2e28073a4d0f47b013e586,Mitte,Mitte
+86,Kurt16,Restaurant,52.37700652873893,9.735821241891404,5007ae1d011c79529978025e,Mitte,Mitte
+87,Buchhandlung Decius,Bookstore,52.37114,9.736962,4c5675f92308be9afb03576c,Mitte,Mitte
+88,SFU - Sachen Für Unterwegs,Sporting Goods Shop,52.373828254300875,9.734764986670747,4da6b42d4b22cb9c5c136cff,Mitte,Mitte
+89,Wonder Waffel,Dessert Shop,52.376826,9.736774,5814ae5bd67c397387d3359e,Mitte,Mitte
+90,Balzac Coffee,Coffee Shop,52.371111910090676,9.736538102498189,4b73ed04f964a5205cc02de3,Mitte,Mitte
+91,Cafe Lucas,Café,52.36933483108503,9.750685554039688,4d207b995acaa35d7a2cc835,Mitte,Mitte
+92,Amici Miei,Italian Restaurant,52.38024744730372,9.744213024235492,4c6c22746af58cfa11ed8517,Mitte,Mitte
+93,Rossmann,Drugstore,52.37761831903886,9.742332171902515,528b8f70498ec85f24e2bff0,Mitte,Mitte
+94,REWE,Supermarket,52.37724465207579,9.739237196625822,4dd7b62fae60680f150cde98,Mitte,Mitte
+95,Back-Factory,Bakery,52.37740501331761,9.742119967789323,4ba72d72f964a520798439e3,Mitte,Mitte
+96,EDEKA Wucherpfennig,Supermarket,52.38143317,9.75396139,4b487bb8f964a520054e26e3,Mitte,Mitte
+97,Sonnenspielplatz,Playground,52.380950012042945,9.757672548294067,4c80f444d92ea093a5fe3b72,Mitte,Mitte
+98,Tiffany's,Italian Restaurant,52.376281,9.753276,4bb330fe2397b7136ec837b3,Mitte,Mitte
+99,Vapiano,Italian Restaurant,52.374390847286016,9.73512974694793,505ea7ee7ab4aa8c17b024b0,Mitte,Mitte
+100,Teestübchen,Tea Room,52.372593,9.732367,4b76bcf8f964a520b55b2ee3,Mitte,Calenberger Neustadt
+101,Craft Bier Bar,Beer Bar,52.372299,9.732284,56043370498e8dec23a0584f,Mitte,Calenberger Neustadt
+102,The Harp,Irish Pub,52.36794183537129,9.720851182937622,4c23aee4b7b8a593f5403be8,Mitte,Calenberger Neustadt
+103,Leibnizhaus,Student Center,52.371459529960454,9.73233640193939,4e04abf562e1b12875a98d26,Mitte,Calenberger Neustadt
+104,Trattoria Piu,Trattoria/Osteria,52.37410907954568,9.727503061294556,4d76ca406675236a50bea4b2,Mitte,Calenberger Neustadt
+105,hof:geflüster,Café,52.3724110987739,9.732027681810935,558841a5498e9629ee260343,Mitte,Calenberger Neustadt
+106,Ballhof Zwei,Theater,52.37283836360928,9.733355641365051,51226ed4e4b078ac9af0d3e7,Mitte,Calenberger Neustadt
+107,Pfannkuchenhaus,Pub,52.370018,9.727002,4c72ba3313228cfaa7d72b65,Mitte,Calenberger Neustadt
+108,Curry Culum,Fast Food Restaurant,52.37137604597419,9.723296332458089,4dda2bc21838b8561d296f5e,Mitte,Calenberger Neustadt
+109,Altstadt,Neighborhood,52.37188739893889,9.73391000946924,51965dd2498ebc044193b84b,Mitte,Calenberger Neustadt
+110,bona‘me,Kurdish Restaurant,52.373443,9.730111,5d518ce24f05f80008b3e74f,Mitte,Calenberger Neustadt
+111,Capitol,Music Venue,52.36834205275971,9.720443487167358,4b559fb5f964a52082e927e3,Mitte,Calenberger Neustadt
+112,Markthalle,Food Court,52.370370540057436,9.736171734667163,4b33316df964a5200a1825e3,Mitte,Calenberger Neustadt
+113,Kilimanjaro,African Restaurant,52.37268788581014,9.733609218462211,52754d04498e009007bfc474,Mitte,Calenberger Neustadt
+114,Hochhaus-Lichtspiele,Indie Movie Theater,52.37700440392415,9.732024570076993,4ce2b67269136dcb3c1cf1e6,Mitte,Calenberger Neustadt
+115,Altes Rathaus,Historic Site,52.37136127413828,9.736021757125854,4ba477c4f964a520f99e38e3,Mitte,Calenberger Neustadt
+116,KUHnstWERK,Burger Joint,52.37093146997918,9.73770903263825,57ff4ec5d67c5a46ac50cd48,Mitte,Calenberger Neustadt
+117,Neues Rathaus,City Hall,52.367335053857246,9.73738431930542,4b7e851af964a520aef02fe3,Mitte,Calenberger Neustadt
+118,Café Konrad,Café,52.37242282587558,9.733716561616738,4b290f26f964a520f99724e3,Mitte,Calenberger Neustadt
+119,Maschpark,Park,52.36642855096776,9.736933708190918,4bd1ab37462cb7132693da07,Mitte,Calenberger Neustadt
+120,dean&david,Salad Place,52.37218098136091,9.73831143448726,521b46f111d242c07c72542e,Mitte,Calenberger Neustadt
+121,Francesca & Fratelli,Pizza Place,52.36981865551878,9.724492408144082,5802a84cd67c1565be9385c2,Mitte,Calenberger Neustadt
+122,Tandure,Turkish Restaurant,52.36749999923411,9.720787905244736,4ba10368f964a520e08e37e3,Mitte,Calenberger Neustadt
+123,Ballhof Eins,Theater,52.37230124588068,9.73262071609497,4e0600dcae60a90eabbfb91f,Mitte,Calenberger Neustadt
+124,Sushi Bar Gim,Sushi Restaurant,52.373147,9.724387,4b9a9b21f964a520bac535e3,Mitte,Calenberger Neustadt
+125,Mi Pueblito Mexicano,Mexican Restaurant,52.37081431273319,9.726070761680603,4f5280b9e4b0ef967184c126,Mitte,Calenberger Neustadt
+126,Waterloo Biergarten,Beer Garden,52.36838290358174,9.731641225706426,4baa4b1cf964a520de5b3ae3,Mitte,Calenberger Neustadt
+127,Happy Döner,Doner Restaurant,52.367904,9.720646,4c9e0e0f0e9bb1f7301ae35f,Mitte,Calenberger Neustadt
+128,Dublin Inn,Irish Pub,52.371122184057946,9.735469222068787,4bd451eca8b3a5933d896b5f,Mitte,Calenberger Neustadt
+129,Eismanufaktur Frioli,Ice Cream Shop,52.368237950754725,9.71451954727639,4fd32c49e4b0aa9a72193183,Mitte,Calenberger Neustadt
+130,Schateke,Pub,52.371657224206686,9.732820977255033,4bd07f3a462cb7135c73d807,Mitte,Calenberger Neustadt
+131,New Saigon,Vietnamese Restaurant,52.373624,9.735344,4e0330f3aeb798576578a4f7,Mitte,Calenberger Neustadt
+132,Cafe Glocksee,Rock Club,52.37169452964308,9.720481600131537,4b8aca51f964a520318132e3,Mitte,Calenberger Neustadt
+133,Bronco's,Nightclub,52.36757972877005,9.719631532347766,4b6ddd1af964a520b5962ce3,Mitte,Calenberger Neustadt
+134,GOP Varieté-Theater,Performing Arts Venue,52.37306099915645,9.739039576912536,4b85688ef964a520e45b31e3,Mitte,Calenberger Neustadt
+135,Duke Burger,Burger Joint,52.376635759531375,9.729417822090154,56af9c12498eabd741b308b3,Mitte,Calenberger Neustadt
+136,Machwitz Coffee Bar,Coffee Shop,52.37160333767138,9.737092097180225,4c4998703013a593ee93f1e2,Mitte,Calenberger Neustadt
+137,Nanking,Chinese Restaurant,52.37623,9.72957,4ba22b05f964a520dbe037e3,Mitte,Calenberger Neustadt
+138,Francesca & Fratelli,Pizza Place,52.37245498573143,9.736004948313548,56195737498e2a8bbb42a30b,Mitte,Calenberger Neustadt
+139,MarktCafé,Café,52.367358391761904,9.71420131623745,4bb7174446d4a593d716c7c0,Mitte,Calenberger Neustadt
+140,Brauhaus Ernst August,Brewery,52.373055,9.734606,4b79a40ef964a5209e072fe3,Mitte,Calenberger Neustadt
+141,IhmeRauschen,Wine Bar,52.37074917542834,9.713406073404476,4bdc9e53c79cc928a36287e9,Mitte,Calenberger Neustadt
+142,Seestern,Seafood Restaurant,52.37519490238478,9.737189972579749,4ddcf23ad22df17199097ea9,Mitte,Calenberger Neustadt
+143,Jack the Ripper's,Irish Pub,52.374332,9.738075,4b773bdef964a520458a2ee3,Mitte,Calenberger Neustadt
+144,Karadeniz Lokantasi,Turkish Restaurant,52.375102,9.733381,568e95b738fa7ef449f90be4,Mitte,Calenberger Neustadt
+145,Lindener Marktplatz,Plaza,52.36705745467738,9.714531898498535,4cb981947148f04d73f0d6ab,Mitte,Calenberger Neustadt
+146,COMIX,Comic Shop,52.37794417998371,9.732637311823938,4be51ac55254d13a277f60e1,Mitte,Calenberger Neustadt
+147,11a,German Restaurant,52.370506570955015,9.713469414896228,4b8967caf964a520163332e3,Mitte,Calenberger Neustadt
+148,Kröpcke,Plaza,52.37451081170728,9.738628256082164,4b7bf43ff964a52098752fe3,Mitte,Calenberger Neustadt
+149,Ballhofplatz,Plaza,52.372586622865846,9.732649222580687,4f92eb55e4b03330a9eecee4,Mitte,Calenberger Neustadt
+150,Oscar's Bar,Cocktail Bar,52.3715077677445,9.741151991948229,4b885c8df964a52019f231e3,Mitte,Calenberger Neustadt
+151,Opernplatz,Plaza,52.3731803819112,9.740057463140577,4c823bccdc018cfa49f0cc6c,Mitte,Calenberger Neustadt
+152,Broyhanhaus Hannover,German Restaurant,52.37177,9.734152,4d431a73f81e8cfaa27cfb56,Mitte,Calenberger Neustadt
+153,Kenibo Ramen Bar,Ramen Restaurant,52.37179228375282,9.7331131073411,59f21555c9f9074b4f549537,Mitte,Calenberger Neustadt
+154,WORMLAND Hannover,Men's Store,52.3741143,9.7376583,4be8015188ed2d7f664ccb1d,Mitte,Calenberger Neustadt
+155,und der böse Wolf,Pub,52.36761853691269,9.715712070465088,4b56ec67f964a5206c1f28e3,Mitte,Calenberger Neustadt
+156,MOCA,Coffee Shop,52.37725773950719,9.732451582596761,4bd56f545631c9b6e206a430,Mitte,Calenberger Neustadt
+157,Erol Bäckerei & Imbiss,Falafel Restaurant,52.37641155256589,9.729733147034322,4b754bfff964a520fa042ee3,Mitte,Calenberger Neustadt
+158,LUX,Nightclub,52.368071047546394,9.720461034749906,5091785ee4b0e6b4437d2d5a,Mitte,Calenberger Neustadt
+159,Café Safran,Café,52.3740931599467,9.718944665439366,4b81a131f964a520e4b330e3,Mitte,Calenberger Neustadt
+160,Lindener Lehmofen,Turkish Restaurant,52.36688907014812,9.716190365534846,4f54b49be4b0195da64dd2f5,Mitte,Calenberger Neustadt
+161,Urfa Sofrasi,Turkish Restaurant,52.37598825,9.73392364,4fe5d879e4b067dfbe50edff,Mitte,Calenberger Neustadt
+162,Pho 3 Mien,Vietnamese Restaurant,52.378459869030905,9.733854194030503,4d7c83f76b0dcbff3c39b989,Mitte,Calenberger Neustadt
+163,Nespresso Boutique,Coffee Shop,52.37245314314598,9.74008434121361,4d6d13da125eb60c92f92f4e,Mitte,Calenberger Neustadt
+164,V17,Coffee Shop,52.364049,9.717476,5603e76b498e2c9abda720e7,Mitte,Calenberger Neustadt
+165,i.SHOP,Grocery Store,52.37657352467039,9.736828536215208,4e303bd914953296330c56b2,Mitte,Calenberger Neustadt
+166,Parfümerie Liebe,Cosmetics Shop,52.37301887497129,9.737881383009345,4c92273951d9b1f75f5f8646,Mitte,Calenberger Neustadt
+167,Zara,Clothing Store,52.37306311191952,9.736913114775664,4bbf0fe0f353d13aebf97d10,Mitte,Calenberger Neustadt
+168,Havana Club,Nightclub,52.374839397160265,9.731799960136414,4bf73c635efe2d7fdcbb6834,Mitte,Calenberger Neustadt
+169,Café Kränzchen,Café,52.37332887064093,9.73324079534274,4cc0348c1c6c6dcb9995735e,Mitte,Calenberger Neustadt
+170,SFU - Sachen Für Unterwegs,Sporting Goods Shop,52.373828254300875,9.734764986670747,4da6b42d4b22cb9c5c136cff,Mitte,Calenberger Neustadt
+171,6 Sinne,Cocktail Bar,52.37460179183236,9.735374644094362,50c1dbebe4b0abeb9e93e986,Mitte,Calenberger Neustadt
+172,Efendi Bey,Pastry Shop,52.375404,9.730962,4efc8f9477c822653f7ac57c,Mitte,Calenberger Neustadt
+173,Apple Hannover,Electronics Store,52.3750567,9.7396059,532d8e6a498ecc032301b64a,Mitte,Calenberger Neustadt
+174,Balzac Coffee,Coffee Shop,52.371111910090676,9.736538102498189,4b73ed04f964a5205cc02de3,Mitte,Calenberger Neustadt
+175,Weinbar gegenüber,Wine Bar,52.369984767958876,9.737782429561772,4b48f341f964a520fd5e26e3,Mitte,Calenberger Neustadt
+176,Bavarium,Bavarian Restaurant,52.37204906030355,9.739653468132017,4b77f44df964a52007b02ee3,Mitte,Calenberger Neustadt
+177,Parga,Greek Restaurant,52.36621168785832,9.714433948640856,4ba12637f964a520859c37e3,Mitte,Calenberger Neustadt
+178,Buchhandlung Decius,Bookstore,52.37114,9.736962,4c5675f92308be9afb03576c,Mitte,Calenberger Neustadt
+179,Bistro bei Jacqueline,Café,52.37181702505902,9.712327654233814,4d1878e7cc216ea8454176d3,Mitte,Calenberger Neustadt
+180,Schöne Aussichten 360grad,Beach Bar,52.37071359985194,9.737623022185025,4bbc71bc3de8c9b6b8ee9aad,Mitte,Calenberger Neustadt
+181,Kumkapi,Seafood Restaurant,52.376092412148786,9.735264846987395,4d9e1ead7958f04d3ee625fa,Mitte,Calenberger Neustadt
+182,Waffel Dream,Dessert Shop,52.37651292515361,9.72863688461075,57863cf6498e431760831254,Mitte,Calenberger Neustadt
+183,Aegidienkirche,Historic Site,52.36941104375509,9.739288556954778,4bf83989d4cdb71301ba84fe,Mitte,Calenberger Neustadt
+184,Seven Sundays,Breakfast Spot,52.371194,9.738992,5b361f10b6eedb00390763d4,Mitte,Calenberger Neustadt
+185,Duke Burger,Burger Joint,52.371255,9.712646,5884e34838730349af2d4a4b,Mitte,Calenberger Neustadt
+186,Pommesglück,Friterie,52.37505195570465,9.739167470860943,50f803ace4b09b9b5e78504e,Mitte,Calenberger Neustadt
+187,Balzac Coffee,Coffee Shop,52.373724,9.735367,4fba1a9de4b078220a9dc32a,Mitte,Calenberger Neustadt
+188,Vapiano,Italian Restaurant,52.374390847286016,9.73512974694793,505ea7ee7ab4aa8c17b024b0,Mitte,Calenberger Neustadt
+189,idee. Creativmarkt,Arts & Crafts Store,52.374414185029714,9.734860162090495,4e86e2b15c5c567d6c15af1f,Mitte,Calenberger Neustadt
+190,Jim Block,Burger Joint,52.37385284920403,9.739565136457601,4e492451b61c03d0cd2e853a,Mitte,Calenberger Neustadt
+191,Mio Mio,Italian Restaurant,52.36531648494948,9.718644421644074,4c03c6ea3f03b71383065241,Mitte,Calenberger Neustadt
+192,denn's Biomarkt,Organic Grocery,52.3700416296668,9.73769543172707,4bb7093246d4a593270dc7c0,Mitte,Calenberger Neustadt
+193,Centrum,Bar,52.367140705504845,9.714365384692623,4b86caedf964a520bc9d31e3,Mitte,Calenberger Neustadt
+194,Mövenpick Café Kröpcke,Swiss Restaurant,52.374324431928635,9.738754127894047,4bd2acfb77b29c74ee3c8f82,Mitte,Calenberger Neustadt
+195,200 Ponies,Nightclub,52.377292946461516,9.732992725088023,4da10b86540ea1cd86b85fde,Mitte,Calenberger Neustadt
+196,Kurt16,Restaurant,52.37700652873893,9.735821241891404,5007ae1d011c79529978025e,Mitte,Calenberger Neustadt
+197,COS,Clothing Store,52.37386638563965,9.738400959428647,54048a59498e46786b50457e,Mitte,Calenberger Neustadt
+198,dm-drogerie markt,Drugstore,52.373351,9.7368631,4e3efdbc814ddc29c427bf85,Mitte,Calenberger Neustadt
+199,Görtz,Shoe Store,52.3738229,9.7368782,4caedf31db32f04defc0b24d,Mitte,Calenberger Neustadt
+200,Erlebnis-Zoo Hannover,Zoo,52.381441182309416,9.770686626434326,4b64386df964a520c6a42ae3,Mitte,Zoo
+201,Sambesi Expedition,Theme Park Ride / Attraction,52.38084686559283,9.768827855587006,4caf2c5f1463a1438b3e92a9,Mitte,Zoo
+202,Eilenriede,Forest,52.38622162083426,9.764184951782227,4b7654d9f964a52088482ee3,Mitte,Zoo
+203,Yukon Bay,Zoo Exhibit,52.37952558737207,9.77278411388397,4c025486f56c2d7f0f421b66,Mitte,Zoo
+204,Dschungelpalast,Zoo Exhibit,52.380612738629274,9.773481488227844,4c44698bf799e21ec2beada2,Mitte,Zoo
+205,Bistro Stromboli,Italian Restaurant,52.377947504051356,9.76088416911938,4c039ab1f423a5939b6cd016,Mitte,Zoo
+206,Joggingpfad Eilenriede,Track,52.38692063473127,9.775171279907225,4f6f5d14e4b0a235d8671b94,Mitte,Zoo
+207,zurück zum glück,Café,52.377119868390885,9.754948733199203,4b83fcb7f964a520ce1931e3,Mitte,Zoo
+208,Waldcafé Milchhäuschen,Café,52.38266188235419,9.760468872538219,4c5d5c682815c9280a83b467,Mitte,Zoo
+209,Stadtpark,Park,52.3740665046037,9.771480560302734,4dc53a1152b1e8f9f7cdb4ce,Mitte,Zoo
+210,Kuppelsaal,Concert Hall,52.37588461556317,9.76928544774579,4beaead36295c9b6b3078708,Mitte,Zoo
+211,Hindenburg Klassik,Italian Restaurant,52.374888151548674,9.763188942717633,4bd8575c0b779c7447df06a0,Mitte,Zoo
+212,Bäcker Göing,Bakery,52.37640565303788,9.756473511487755,526ce2c311d2c0a1abad22cd,Mitte,Zoo
+213,Sonnenspielplatz,Playground,52.380950012042945,9.757672548294067,4c80f444d92ea093a5fe3b72,Mitte,Zoo
+214,Luigi Amarone,Ice Cream Shop,52.37981853144867,9.772812115988927,5024ecb1e4b0817fcf685065,Mitte,Zoo
+215,Waldsonne,Snack Place,52.38084975617289,9.757985253204803,517123dfe4b0b0c4faf69785,Mitte,Zoo
+216,EDEKA Wucherpfennig,Supermarket,52.38143317,9.75396139,4b487bb8f964a520054e26e3,Mitte,Zoo
+217,Deins,Restaurant,52.375143330944915,9.770732906344737,5253ec3b11d280c5cfe5fe60,Mitte,Zoo
+218,EDEKA Frischemarkt Kasper,Supermarket,52.37552852489626,9.760383210169232,4bd5aa6a4e32d13a5f2fc180,Mitte,Zoo
+219,Erdmännchen,Zoo Exhibit,52.380702,9.768612,56ea92ef498ea46dad1be8d2,Mitte,Zoo
+220,Brodelburg,Playground,52.38192579828394,9.769999980926514,4bded665e75c0f4793f1c803,Mitte,Zoo
+221,Panorama am Zoo,Exhibit,52.38295395239992,9.770117998123169,5a391c0a35f9830b3b6648af,Mitte,Zoo
+222,Gorillaberg,Zoo Exhibit,52.38088452226126,9.771426916122435,4c8cdbd5f87e224b2e553805,Mitte,Zoo
+223,Mullewapp,Playground,52.3826277779292,9.771856736360292,4c727be957b6a1432f89c5cc,Mitte,Zoo
+224,Tante Millis Futtertrog,Gastropub,52.38270443690387,9.77207064628601,4e1eea97d22d7c148ce5db87,Mitte,Zoo
+225,Outback,Zoo Exhibit,52.38162669346765,9.772972183698597,4caf3c76562d224b36460c88,Mitte,Zoo
+226,Yukon Queen,Zoo Exhibit,52.37934548442879,9.773055016994476,4da0577f2305a35d032ccaaf,Mitte,Zoo
+227,DTV Hannover,Tennis Court,52.378393397110585,9.772406154950488,4e2f959db0fbdc2b65033d88,Mitte,Zoo
+228,H Congress Centrum,Tram Station,52.377108872130016,9.769211411476133,4f2cff79e4b0d411ba8c296c,Mitte,Zoo
+229,Congress Hotel am Stadtpark,Hotel,52.37513145339353,9.771020370074584,4c0a45f1bbc676b0a88049d5,Mitte,Zoo
+230,Restaurant Anesis,Mediterranean Restaurant,52.38295208786174,9.753266800545763,4b78472af964a5208bc12ee3,Mitte,Zoo
+231,Eilenriedestadion,Soccer Stadium,52.37656853152521,9.772789478302002,4dea2ea4fa76cc1b8add614a,Mitte,Zoo
+232,HCC Parkrestaurant,Restaurant,52.37542397004632,9.769900739192963,4ba36b00f964a520733b38e3,Mitte,Zoo
+233,Elisabetha Garni,Hotel,52.37795343987254,9.756929144415095,4f54fe3fe4b0195da6b064a1,Mitte,Zoo
+234,H Dreifaltigkeitskirche,Bus Stop,52.38194129353963,9.75343668231338,4c274982905a0f47219e6460,Mitte,Zoo
+235,Cafe Fofftein,Café,52.38266666898302,9.753448617061869,4d28876955a8b60cf12fcec0,Mitte,Zoo
+236,Wochenmarkt Zooviertel,Farmers Market,52.37428536803119,9.760887915073816,4bc449d2461576b08cad7f32,Mitte,Zoo
+237,Lister Meile,Pedestrian Plaza,52.384070442239896,9.74682104170031,4d789a67db7c5481502f33f2,Mitte,Oststadt
+238,Café Mezzo,Café,52.38075,9.745274,4b6d8285f964a5202d792ce3,Mitte,Oststadt
+239,Kreipe's Coffee Time,Coffee Shop,52.383505857863554,9.74645544335479,4baddc99f964a520236e3be3,Mitte,Oststadt
+240,Panea,Coffee Shop,52.385933,9.747951,562e7bd0498e84834b5d04b2,Mitte,Oststadt
+241,Kulturzentrum Pavillon,Music Venue,52.380419542018174,9.745151996612549,4b633182f964a52094692ae3,Mitte,Oststadt
+242,dean&david,Salad Place,52.38515361989487,9.7470729125535,550abe35498ebde0f6d8c153,Mitte,Oststadt
+243,Tomo Sushi,Sushi Restaurant,52.378944280463664,9.750228690070665,4d9d97b05c33a35d372404a1,Mitte,Oststadt
+244,Ecco!,Deli / Bodega,52.38433838499479,9.74673527584872,4b4436b3f964a520bff225e3,Mitte,Oststadt
+245,Vietal Kitchen,Vietnamese Restaurant,52.384762,9.747076,5a57a4579e0d54593eeaa2fe,Mitte,Oststadt
+246,Kino am Raschplatz,Indie Movie Theater,52.378712764685844,9.743070602416992,4bedc0d5946c0f4735e0a263,Mitte,Oststadt
+247,Reimanns Eck,German Restaurant,52.38229253116144,9.745323657989502,4bbce001a0a0c9b680eb1a0f,Mitte,Oststadt
+248,Pera,Café,52.38605624591889,9.747718655853532,4c95f9d682b56dcb9972ddaa,Mitte,Oststadt
+249,Cafe Lulu,Café,52.38590223881259,9.74975043358606,4beee7b83686c9b6aa2b256e,Mitte,Oststadt
+250,Monkey's Club,Nightclub,52.3793332335155,9.744363900131571,4f9f3c8be4b04fd542aaf22a,Mitte,Oststadt
+251,25 Music,Record Shop,52.381616,9.744368,4d13904a9844b60cbac8c3d4,Mitte,Oststadt
+252,Chois Restaurant,Korean Restaurant,52.385944,9.747567,4cb7334f9c7ba35d115c9706,Mitte,Oststadt
+253,Al-Dar,Syrian Restaurant,52.375288459382894,9.746799578704696,4b79a35af964a52060072fe3,Mitte,Oststadt
+254,Aspera,Turkish Restaurant,52.37632404941346,9.74842422525218,5308f3ff11d2fafb95ea29ef,Mitte,Oststadt
+255,Boca,Modern European Restaurant,52.387629579140935,9.741367653045215,52ffc102498ee62e3ee0f712,Mitte,Oststadt
+256,El País,Tapas Restaurant,52.38168499158771,9.748454286904627,4c0bc90a7e3fc92836c0f582,Mitte,Oststadt
+257,Al-Hayat,Falafel Restaurant,52.380888,9.744244,4c06b6f28b4520a183d68597,Mitte,Oststadt
+258,ASTOR Grand Cinema,Multiplex,52.380422,9.733257,5473c2a9498e423a41121cea,Mitte,Oststadt
+259,zurück zum glück,Café,52.377119868390885,9.754948733199203,4b83fcb7f964a520ce1931e3,Mitte,Oststadt
+260,Sushi-Do,Sushi Restaurant,52.374703720835235,9.745103933700891,4b7fe29af964a520734230e3,Mitte,Oststadt
+261,pflüger : kreativ ackern. / geropflueger.de,Advertising Agency,52.38684369463366,9.753187894821167,4f69d764e4b006351222638a,Mitte,Oststadt
+262,prizeotel Hannover-City,Hotel,52.38345728844402,9.737042105717567,534cea3a498e033ec393258d,Mitte,Oststadt
+263,Spektakel,Pub,52.385039,9.749646,4c0ba8b46071a593e284e132,Mitte,Oststadt
+264,wok n' joy,Vietnamese Restaurant,52.376928,9.751786,57c02040cd10129f93469f9c,Mitte,Oststadt
+265,Da Pino,Pizza Place,52.3892185518,9.74242286711984,4be94e76c5220f47cea4aaca,Mitte,Oststadt
+266,Meteora,Greek Restaurant,52.382075,9.737474,4c83d2b251ada1cd5c1a2910,Mitte,Oststadt
+267,Lokal Kaffeehaus,Coffee Shop,52.388305,9.749641,5bd1e5bba8792100394b63cf,Mitte,Oststadt
+268,Staatsoper Hannover,Opera House,52.37345080085405,9.740817546844482,4b5a4066f964a52097b728e3,Mitte,Oststadt
+269,Seestern,Seafood Restaurant,52.37519490238478,9.737189972579749,4ddcf23ad22df17199097ea9,Mitte,Oststadt
+270,My Way,Cocktail Bar,52.376838584763476,9.73794466624195,4cdda5b0c4f6a35d74c2c46c,Mitte,Oststadt
+271,Spielpark Wakitu,Playground,52.387793289682556,9.754492950596614,4cb02eaf39458cfa41b800a0,Mitte,Oststadt
+272,Tokio Sushi,Sushi Restaurant,52.37756146142231,9.742298530452521,4baa3767f964a52040543ae3,Mitte,Oststadt
+273,Kröpcke,Plaza,52.37451081170728,9.738628256082164,4b7bf43ff964a52098752fe3,Mitte,Oststadt
+274,i.SHOP,Grocery Store,52.37657352467039,9.736828536215208,4e303bd914953296330c56b2,Mitte,Oststadt
+275,Pho 3 Mien,Vietnamese Restaurant,52.378459869030905,9.733854194030503,4d7c83f76b0dcbff3c39b989,Mitte,Oststadt
+276,Ristorante Rossini,Italian Restaurant,52.37625012428073,9.747155559822811,4e46b7c4a809fb2fa3eeda33,Mitte,Oststadt
+277,Arc en Ciel,Chinese Restaurant,52.375324139297746,9.746256687200543,4c813a69dc018cfa7fa6c36c,Mitte,Oststadt
+278,Sakura Sushi,Sushi Restaurant,52.3773238248603,9.737754916240055,4cebf343e888f04d6416556b,Mitte,Oststadt
+279,EDEKA Segebrecht,Supermarket,52.38416932039699,9.746900129668285,4b7fe7eef964a520944330e3,Mitte,Oststadt
+280,Yomaro,Frozen Yogurt Shop,52.386802625710644,9.74880793008108,5521074c498eb3ef9e625b8e,Mitte,Oststadt
+281,Kaffee Kann Ich,Café,52.389911372476234,9.743424654006958,5065454ee4b0679aca4f4a0a,Mitte,Oststadt
+282,Plümecke,Pub,52.38963978732624,9.743219277407002,4b4771b1f964a5204b3226e3,Mitte,Oststadt
+283,Hotel Königshof am Funkturm,Hotel,52.380498130572136,9.742330312728882,4ba2818bf964a5203cff37e3,Mitte,Oststadt
+284,Warm Up,Cocktail Bar,52.378226676572176,9.74310895457789,4f3ab0c6e4b0f48edbf8db91,Mitte,Oststadt
+285,Apple Hannover,Electronics Store,52.3750567,9.7396059,532d8e6a498ecc032301b64a,Mitte,Oststadt
+286,Pâtisserie Elysée,Pastry Shop,52.37500314384688,9.742984771728514,4b892da1f964a520252132e3,Mitte,Oststadt
+287,Jack the Ripper's,Irish Pub,52.374332,9.738075,4b773bdef964a520458a2ee3,Mitte,Oststadt
+288,Adesso,Italian Restaurant,52.389180365963675,9.750246243033189,4be3f7a4d27a20a1b359935b,Mitte,Oststadt
+289,COMIX,Comic Shop,52.37794417998371,9.732637311823938,4be51ac55254d13a277f60e1,Mitte,Oststadt
+290,SAUSALITOS,Mexican Restaurant,52.37972026139469,9.74368676004815,579275f8498e0802f6bca701,Mitte,Oststadt
+291,Alnatura,Organic Grocery,52.38904076535864,9.748910855955454,4ec78f5a7ee537da7e9c0d88,Mitte,Oststadt
+292,Back-Factory,Bakery,52.38417430751467,9.746470266227663,4c49507e9e3e2d7fbec09948,Mitte,Oststadt
+293,Block House,Steakhouse,52.374482427279034,9.74487841129303,56d0e479cd10af7328c8e9c0,Mitte,Oststadt
+294,Göing,Bakery,52.383919,9.746226,4da93326a86e771ea705df13,Mitte,Oststadt
+295,Crowne Plaza Hannover,Hotel,52.3765934,9.7471507,4b82cc0ef964a5209ae530e3,Mitte,Oststadt
+296,Kastens Hotel Luisenhof,Hotel,52.37448094336911,9.74073815451376,4b8af1b1f964a5208a8a32e3,Mitte,Oststadt
+297,Cumberlandsche Galerie,Theater,52.373287048411825,9.743274450302124,4d02bb65dc45a09338e1dfc6,Mitte,Oststadt
+298,Künstlerhaus Hannover,Art Gallery,52.372759925237524,9.743205678096274,4e00cdd51495692a4bb6ee30,Mitte,Oststadt
+299,L'Osteria,Trattoria/Osteria,52.37421440441493,9.744877316824674,4f872ed4e4b0767178c22c84,Mitte,Oststadt
+300,Kreipe's Coffee Time,Coffee Shop,52.37403047962073,9.741225242614746,4bf949f1b182c9b6caa5785a,Mitte,Oststadt
+301,Lindenblatt Burger-Bar,Burger Joint,52.379839947113,9.732465147972107,5810ebdd38fad64cda55da15,Mitte,Oststadt
+302,Amici Miei,Italian Restaurant,52.38024744730372,9.744213024235492,4c6c22746af58cfa11ed8517,Mitte,Oststadt
+303,heimW,Café,52.373971529585205,9.743295907974243,4b812dbef964a5207f9930e3,Mitte,Oststadt
+304,CODO - Street Kitchen,Vietnamese Restaurant,52.386605,9.748258,5ae8b58335f983002c3e4aa4,Mitte,Oststadt
+305,WORMLAND Hannover,Men's Store,52.3741143,9.7376583,4be8015188ed2d7f664ccb1d,Mitte,Oststadt
+306,dean&david,Salad Place,52.37735136062691,9.742100248571527,568fc51d498ec7434c1d1cf7,Mitte,Oststadt
+307,Pommesglück,Friterie,52.37505195570465,9.739167470860943,50f803ace4b09b9b5e78504e,Mitte,Oststadt
+308,Lister Döner,Doner Restaurant,52.388651,9.750833,4c112731f1b6a5933b0d7d27,Mitte,Oststadt
+309,Darry’s Donuts,Donut Shop,52.37713179552461,9.737663269042969,504706b6e4b092e662a18bcb,Mitte,Oststadt
+310,Ernst-August-Galerie,Shopping Mall,52.377387,9.738191,4b6ac23df964a52027df2be3,Mitte,Oststadt
+311,Hugo's,Lounge,52.37564097649186,9.742519530876603,4d7151cb7e95224b630d346f,Mitte,Oststadt
+312,Thürnau's Fischhalle,Fish Market,52.388100632295355,9.749614343322712,4ca317711ee76dcb62dff5dd,Mitte,Oststadt
+313,Balzac Coffee,Coffee Shop,52.376509584877454,9.739240407943726,4d2883b2068e8cfa3533c64c,Mitte,Oststadt
+314,Panama Kaffee,Coffee Shop,52.38858145800084,9.749972160677427,4b8fca48f964a520706233e3,Mitte,Oststadt
+315,Mangal's Kitchen,Indian Restaurant,52.389575,9.749899,58592c5f3ef0f621412f9574,Mitte,Oststadt
+316,Da Andrea,Italian Restaurant,52.376240175579916,9.754033654339397,4b98e273f964a5203b5435e3,Mitte,Oststadt
+317,Ernst-August-Denkmal („Unterm Schwanz“),Outdoor Sculpture,52.37619507531763,9.740677453547574,4b71a0c1f964a52019522de3,Mitte,Oststadt
+318,BECKERS,German Restaurant,52.384536,9.752289,57078faf498e4d9b8d7ffce4,Mitte,Oststadt
+319,Barracuda,Cocktail Bar,52.38116879264962,9.732972618203448,4e21f802fa761d671082151a,Mitte,Oststadt
+320,Schauspielhaus,Theater,52.37302471517209,9.743999050443334,4b7af768f964a520ed482fe3,Mitte,Oststadt
+321,La cantina,Spanish Restaurant,52.383000621580265,9.739925747485588,4c93c02cf244b1f71eaa1b1d,Mitte,Oststadt
+322,Shakespeare,Pub,52.37324425462111,9.749858661464527,4b7c57f9f964a520ae8d2fe3,Mitte,Oststadt
+323,Urfa Sofrasi,Turkish Restaurant,52.37598825,9.73392364,4fe5d879e4b067dfbe50edff,Mitte,Oststadt
+324,Der musikalische Gulli-Deckel,Public Art,52.375763,9.740462,4de3b71be4cd056f74614724,Mitte,Oststadt
+325,Piccoli's Roadhouse,American Restaurant,52.37971686310955,9.73327382143783,4bd86fb435aad13a28de90f3,Mitte,Oststadt
+326,Hannoversche Kaffeemanufaktur,Coffee Roaster,52.375294908955574,9.739430357799824,52bd7cc9498e13f460df1c74,Mitte,Oststadt
+327,Mango,Women's Store,52.375561760176055,9.739849695580302,4c17508d955976b0d1cca5f6,Mitte,Oststadt
+328,Galerie Luise,Shopping Mall,52.37468219976994,9.742223024368286,4bab2a2df964a5208b973ae3,Mitte,Oststadt
+329,Mary's,French Restaurant,52.374259,9.740668,54647174498e67b981d32aed,Mitte,Oststadt
+330,Bäcker Göing,Bakery,52.37640565303788,9.756473511487755,526ce2c311d2c0a1abad22cd,Mitte,Oststadt
+331,Kumkapi,Seafood Restaurant,52.376092412148786,9.735264846987395,4d9e1ead7958f04d3ee625fa,Mitte,Oststadt
+332,Suite Novotel,Hotel,52.37917857005486,9.740944822090114,4e6a14ff45ddadf2d04cb07c,Mitte,Oststadt
+333,Starbucks,Coffee Shop,52.377054,9.737621,4b54a66ff964a520d3c427e3,Mitte,Oststadt
+334,Kurt16,Restaurant,52.37700652873893,9.735821241891404,5007ae1d011c79529978025e,Mitte,Oststadt
+335,Jim Block,Burger Joint,52.37385284920403,9.739565136457601,4e492451b61c03d0cd2e853a,Mitte,Oststadt
+336,Taj Mahal,Indian Restaurant,52.374692,9.748481,4cd6dfc5a5b3468812139650,Mitte,Oststadt
+337,Combi Markt Hannover-List,Supermarket,52.39642674,9.7576887,4cea4168fe90a35df6b84c0e,Vahrenwald-List,List
+338,Hofbäckerei,Bakery,52.39600032687798,9.765204567083856,4baf1434f964a52032ea3be3,Vahrenwald-List,List
+339,Das Ding,Steakhouse,52.3969688541757,9.74896797537303,4bce139eb6c49c7433819691,Vahrenwald-List,List
+340,Costas Greek Taverna,Taverna,52.392711550131,9.750709528980341,4dab4a4d93a04642f092b149,Vahrenwald-List,List
+341,Bistro da Toni,Italian Restaurant,52.390421953494275,9.749366752259414,4cd072892fd9b60cd96581eb,Vahrenwald-List,List
+342,Spielpark Wakitu,Playground,52.387793289682556,9.754492950596614,4cb02eaf39458cfa41b800a0,Vahrenwald-List,List
+343,Buck's Backparadies,Bakery,52.39623891249165,9.770820876122022,4e2bdb826284b96d7b87f01f,Vahrenwald-List,List
+344,Adesso,Italian Restaurant,52.389180365963675,9.750246243033189,4be3f7a4d27a20a1b359935b,Vahrenwald-List,List
+345,Harry's New-York Bar,Hotel Bar,52.39875442609367,9.7706945149405,4bbbbee0e4529521581f55a4,Vahrenwald-List,List
+346,Alnatura,Organic Grocery,52.38904076535864,9.748910855955454,4ec78f5a7ee537da7e9c0d88,Vahrenwald-List,List
+347,Mangal's Kitchen,Indian Restaurant,52.389575,9.749899,58592c5f3ef0f621412f9574,Vahrenwald-List,List
+348,Wochen- & Bauernmarkt Moltkeplatz,Farmers Market,52.392680993868595,9.746158798349775,4b8e6021f964a520a91f33e3,Vahrenwald-List,List
+349,Achilles,Greek Restaurant,52.396017292775404,9.754420250190222,4f29271de4b092dd9d2dd1a5,Vahrenwald-List,List
+350,Biergarten Lister Turm,Beer Garden,52.38956553560994,9.755827912512018,4bd32effb221c9b6b10fd9d0,Vahrenwald-List,List
+351,Jo's Food & Craft,Gastropub,52.395069,9.744884,57669379498e91e5174fae01,Vahrenwald-List,List
+352,Lister Döner,Doner Restaurant,52.388651,9.750833,4c112731f1b6a5933b0d7d27,Vahrenwald-List,List
+353,Sheraton Hannover Pelikan Hotel,Hotel,52.3988734,9.7705934,4bf5b0ed5efe2d7f41cb6534,Vahrenwald-List,List
+354,Sindo,Japanese Restaurant,52.389616,9.752664,4d51a5ef7ee1a35d71d19134,Vahrenwald-List,List
+355,Novotel,Hotel,52.39037656630044,9.753028700156165,4b9fc62ef964a520683d37e3,Vahrenwald-List,List
+356,Panama Kaffee,Coffee Shop,52.38858145800084,9.749972160677427,4b8fca48f964a520706233e3,Vahrenwald-List,List
+357,Sheraton Club Lounge,Lounge,52.39895584374671,9.770575501194227,5134f64ae4b0835c787bf489,Vahrenwald-List,List
+358,Sports & Spa,Gym / Fitness Center,52.389940900971496,9.751199399670902,4da748981e725f12297fd7df,Vahrenwald-List,List
+359,Moltkeplatz,Plaza,52.39273004324774,9.745795726776123,4c331754ed37a5935bba6c03,Vahrenwald-List,List
+360,Finesse,Bistro,52.39518754,9.76378533,4f868e39e4b0270510f134db,Vahrenwald-List,List
+361,Guru,Indian Restaurant,52.389784,9.746645,54cd28d5498e7db4b0c68dab,Vahrenwald-List,List
+362,India Tandoori Haus,Indian Restaurant,52.388845757310484,9.749590627168983,5190dda6498ea99a8ad4441c,Vahrenwald-List,List
+363,Falkners,Cocktail Bar,52.38963601503739,9.749584659925361,4ba549f6f964a52092f638e3,Vahrenwald-List,List
+364,REWE City,Supermarket,52.3905521,9.753132,4b7e8412f964a5207cf02fe3,Vahrenwald-List,List
+365,12 Apostel,Italian Restaurant,52.39826872,9.77050615,4b6c1d17f964a52086242ce3,Vahrenwald-List,List
+366,Café Langrehr,Bakery,52.39618012184899,9.757451567932202,4b78ed55f964a5207ae62ee3,Vahrenwald-List,List
+367,Lister Platz,Plaza,52.38881128485943,9.750232586401383,5027c354e4b092aac66d8bba,Vahrenwald-List,List
+368,Physical Park,Gym / Fitness Center,52.39881226101632,9.770207448828154,4b82a965f964a5200ddd30e3,Vahrenwald-List,List
+369,Göing,Bakery,52.38870991043069,9.750283353923137,4ec906c002d5888e9da62ad8,Vahrenwald-List,List
+370,Stromboli,Italian Restaurant,52.39045339596639,9.75349515649354,4d970b2bc19fb60cb0098c65,Vahrenwald-List,List
+371,Lidl,Supermarket,52.400222707251324,9.765068739652634,4dbfa5484b2221ec2d5f3273,Vahrenwald-List,List
+372,Treibhaus,Café,52.39031817397061,9.749097248849592,4b5c41f5f964a520d22829e3,Vahrenwald-List,List
+373,REWE,Supermarket,52.39942310767101,9.765081779098523,52e14ce9498e1c687338a10d,Vahrenwald-List,List
+374,Marijas Nudelparadies,Gourmet Shop,52.39487093420562,9.762479066848755,4d760c3db8e28cfab36b0067,Vahrenwald-List,List
+375,Asia Saigon,Asian Restaurant,52.395318098884765,9.762752079100188,4c31c38fed37a59344c46a03,Vahrenwald-List,List
+376,Haus Martens,Hotel,52.39204414609048,9.753399907406884,4bc8ec80762beee196b43d38,Vahrenwald-List,List
+377,Hol' Ab! Getränkemarkt,Liquor Store,52.39829770662822,9.763280706688967,52580f9b498e968304284a40,Vahrenwald-List,List
+378,ALDI NORD,Supermarket,52.39713761553058,9.749593121236193,52d52414498e8ba7b6d54e16,Vahrenwald-List,List
+379,H Constantinstraße,Bus Stop,52.401903883018285,9.763379408051634,50335f06e4b0943845f9351a,Vahrenwald-List,List
+380,The Wine Bar,Wine Bar,52.39698553494043,9.768540859222412,4bd5da58637ba5936827f770,Vahrenwald-List,List
+381,Hotel Waldersee,Hotel,52.39470952842516,9.768902141414312,4bd09b7e1f89ce7299ba67ea,Vahrenwald-List,List
+382,Dolzer Maßkonfektionäre,Tailor Shop,52.39780057844743,9.769254326820374,4cf676d081cd6dcb7ba87b0d,Vahrenwald-List,List
+383,VHV Zentrale / Hannoversche Leben / Hannoversche Direkt,Insurance Office,52.401463838147436,9.766566076622366,4bd07c0acaff95212ee2cef0,Vahrenwald-List,List
+384,Restaurant 5th Avenue,Restaurant,52.39909853879061,9.770586052264454,4d26f3de77a2a1cd27ea53b7,Vahrenwald-List,List
+385,Basil,Restaurant,52.39450457013248,9.737933775853687,4b632444f964a520fc652ae3,Vahrenwald-List,Vahrenwald
+386,Das Ding,Steakhouse,52.3969688541757,9.74896797537303,4bce139eb6c49c7433819691,Vahrenwald-List,Vahrenwald
+387,Jo's Food & Craft,Gastropub,52.395069,9.744884,57669379498e91e5174fae01,Vahrenwald-List,Vahrenwald
+388,Kaffee Kann Ich,Café,52.389911372476234,9.743424654006958,5065454ee4b0679aca4f4a0a,Vahrenwald-List,Vahrenwald
+389,Da Pino,Pizza Place,52.3892185518,9.74242286711984,4be94e76c5220f47cea4aaca,Vahrenwald-List,Vahrenwald
+390,REWE,Supermarket,52.3992487,9.7334836,4cb99c3aa33bb1f778cc88fd,Vahrenwald-List,Vahrenwald
+391,Plümecke,Pub,52.38963978732624,9.743219277407002,4b4771b1f964a5204b3226e3,Vahrenwald-List,Vahrenwald
+392,Wochen- & Bauernmarkt Moltkeplatz,Farmers Market,52.392680993868595,9.746158798349775,4b8e6021f964a520a91f33e3,Vahrenwald-List,Vahrenwald
+393,REWE City,Supermarket,52.3979994,9.7394951,4c17cfc4d4d9c928d281ee29,Vahrenwald-List,Vahrenwald
+394,Kenpokan,Martial Arts School,52.40468689999999,9.738185999999999,4eca71aa8b81dcfdc6e0a2ff,Vahrenwald-List,Vahrenwald
+395,Costas Greek Taverna,Taverna,52.392711550131,9.750709528980341,4dab4a4d93a04642f092b149,Vahrenwald-List,Vahrenwald
+396,Louis Giga Store,Motorcycle Shop,52.40531201765672,9.733564853668213,4c165622a9c220a18f745a9d,Vahrenwald-List,Vahrenwald
+397,Urfa Palace,Turkish Restaurant,52.39886039297908,9.732514278268674,4d3edbf3af8ca143a3c219f7,Vahrenwald-List,Vahrenwald
+398,Moltkeplatz,Plaza,52.39273004324774,9.745795726776123,4c331754ed37a5935bba6c03,Vahrenwald-List,Vahrenwald
+399,Rossmann,Drugstore,52.3987085172675,9.73285577791786,503fbd097e2752ec471b53e7,Vahrenwald-List,Vahrenwald
+400,Marktkauf,Big Box Store,52.398913342128544,9.73658983341271,4b4f6b2df964a520c00527e3,Vahrenwald-List,Vahrenwald
+401,Lidl,Supermarket,52.39500362977671,9.739061301938818,4cb43f81db32f04d05fedb4d,Vahrenwald-List,Vahrenwald
+402,Rossmann,Drugstore,52.39187560624269,9.734994319544217,503fbd097e2752ec471b53f0,Vahrenwald-List,Vahrenwald
+403,Centro Ristorante & Gelateria,Italian Restaurant,52.398262149394796,9.730976037762627,4f9e76a5e4b0614494666c01,Vahrenwald-List,Vahrenwald
+404,Torai Cafe,Hookah Bar,52.39847755194446,9.729841531491857,54972a7c498e8ccd4a9fc59d,Vahrenwald-List,Vahrenwald
+405,Aral,Gas Station,52.39833443,9.74146393,4d7b1686fe20b1f72c6b1e2c,Vahrenwald-List,Vahrenwald
+406,ibis Hannover City,Hotel,52.39601870908098,9.735281734375917,4b8c035df964a52069b832e3,Vahrenwald-List,Vahrenwald
+407,Acanto,Nightclub,52.394420831961064,9.737271666526793,4b8997ddf964a520964432e3,Vahrenwald-List,Vahrenwald
+408,REWE,Supermarket,52.3882982,9.7378398,4d3ab8e41fc36dcbfa5a69f5,Vahrenwald-List,Vahrenwald
+409,H Dragonerstraße,Tram Station,52.394107096925524,9.735250588997081,4be432542468c928f166fe42,Vahrenwald-List,Vahrenwald
+410,REWE City,Supermarket,52.3912842406802,9.74446867984011,4fd337bde4b065401a6eff07,Vahrenwald-List,Vahrenwald
+411,H Vahrenwalder Platz,Tram Station,52.39083219697745,9.734678199225135,4b4f6a9ff964a520a00527e3,Vahrenwald-List,Vahrenwald
+412,Öz Antep,Turkish Restaurant,52.40149205471973,9.735797489896324,5098f849e4b0c4f0feac6e78,Vahrenwald-List,Vahrenwald
+413,H Lister Kirchweg,Bus Stop,52.39493088317425,9.744613421555666,4dfe029945ddebdfeaafb568,Vahrenwald-List,Vahrenwald
+414,Ristorante Fellini,Italian Restaurant,52.38953390292343,9.743000221997784,4bb862af53649c74cefc46fb,Vahrenwald-List,Vahrenwald
+415,H Melanchtonstraße,Bus Stop,52.39787052199636,9.729968040282582,5371cdac498e31c897025286,Vahrenwald-List,Vahrenwald
+416,"Westfalen Tankstelle - Hannover, Melanchthonstr. 40",Gas Station,52.3982,9.73002,5b97db2f9e0d54002c146685,Vahrenwald-List,Vahrenwald
+417,Ristorante Il Mercato,Restaurant,52.393111,9.745632,5e39264773adb800076d933b,Vahrenwald-List,Vahrenwald
+418,Bäckerlädchen,Bakery,52.39468587818428,9.728699893420382,4f8936f3e4b00a6261aabe2b,Vahrenwald-List,Vahrenwald
+419,H Moltkeplatz,Bus Stop,52.39302229722183,9.746240543722068,4e70de11fa76e1a41fb02d54,Vahrenwald-List,Vahrenwald
+420,H Jahnplatz,Bus Stop,52.393867776842036,9.729004281100782,5004480ce4b0382ba0f1870b,Vahrenwald-List,Vahrenwald
+421,Mamas Tapas Factory,Tapas Restaurant,52.39173445713925,9.732371539636794,4c9f7b45031337048a8c72d5,Vahrenwald-List,Vahrenwald
+422,ALDI NORD,Supermarket,52.39713761553058,9.749593121236193,52d52414498e8ba7b6d54e16,Vahrenwald-List,Vahrenwald
+423,Imbiss Vahrenwald,Snack Place,52.404141257155125,9.734961844362255,4f0c2161e4b0614b146f02ef,Vahrenwald-List,Vahrenwald
+424,Europcar,Rental Car Location,52.40497,9.7345,4d8ce2f36174a093c1f6a3e3,Vahrenwald-List,Vahrenwald
+425,PENNY,Supermarket,52.39285890268457,9.75040185899411,4da6c21e4df0260c3e98b5d6,Vahrenwald-List,Vahrenwald
+426,Eiscafé Gondola,Ice Cream Shop,52.4115007338069,9.749195265019194,4e3eb46cfa76455375c8542f,Bothfeld-Vahrenheide,Vahrenheide
+427,Rossmann,Drugstore,52.41153909005906,9.751737107889218,4f4fbf00e4b0b5f5b169287d,Bothfeld-Vahrenheide,Vahrenheide
+428,Lidl,Supermarket,52.41111082485544,9.751774370670319,4bf7e24d508c0f474d1c3e31,Bothfeld-Vahrenheide,Vahrenheide
+429,REWE,Supermarket,52.4176787601588,9.76551624421495,4b915100f964a52085b233e3,Bothfeld-Vahrenheide,Vahrenheide
+430,H Papenwinkel,Tram Station,52.41489521762745,9.752025315260893,4f6c9a78e4b058b4bfdba253,Bothfeld-Vahrenheide,Vahrenheide
+431,Bäckerei Künne,Bakery,52.41019471093499,9.762882903565524,505c2954e4b04d802a56b2c8,Bothfeld-Vahrenheide,Vahrenheide
+432,H Sahlkamp,Bus Stop,52.40983050256554,9.762968460129724,50655e7ce4b07b9787f84429,Bothfeld-Vahrenheide,Vahrenheide
+433,Istanbul Kebab,Doner Restaurant,52.4116206545615,9.751168960775727,533c4f5e498ec31afa6f4ade,Bothfeld-Vahrenheide,Vahrenheide
+434,H Zehlendorfweg,Tram Station,52.41897877253287,9.760781869544964,4f6c9a1ee4b0ca47b01bf90f,Bothfeld-Vahrenheide,Vahrenheide
+435,Wiesen-Apotheke,Pharmacy,52.4175232,9.764831899999999,51ad8def498e3364107a4308,Bothfeld-Vahrenheide,Vahrenheide
+436,Star Tankstelle,Gas Station,52.41133916072006,9.749992568026498,4f4fc85fc2ee5788d2facb27,Bothfeld-Vahrenheide,Vahrenheide
+437,Mix Markt,Grocery Store,52.411323129331294,9.749980262541822,4bf7e19db182c9b6ba5f765a,Bothfeld-Vahrenheide,Vahrenheide
+438,Pâtisserie Elysée,Pastry Shop,52.41165068922608,9.749412919603758,4e59ebde1495a8911285ffc9,Bothfeld-Vahrenheide,Vahrenheide
+439,H Vahrenheider Markt,Tram Station,52.41166229654355,9.749314835054745,4d3694711b39224be79c9c87,Bothfeld-Vahrenheide,Vahrenheide
+440,Vahrenheider Markt,Plaza,52.411091410668114,9.74929784287456,516d6e94e4b0ffff579f3227,Bothfeld-Vahrenheide,Vahrenheide
+441,H Tempelhofweg,Tram Station,52.418721512997635,9.765871126594016,5234ccb611d211f57bdc8930,Bothfeld-Vahrenheide,Vahrenheide
+442,Brot Henke Bistro Vital,Bakery,52.418730877514996,9.766176641876617,567666e8498e3b0c1c5df2a7,Bothfeld-Vahrenheide,Vahrenheide
+443,J-F-Elektrotechnik GmbH,Construction & Landscaping,52.41862,9.768680000000018,5682fa34498ed3cdabc0c989,Bothfeld-Vahrenheide,Vahrenheide
+444,Fleischgroßhandel Demirci,Convenience Store,52.41675,9.744869999999999,5a17dce9acb00b186a20d9f2,Bothfeld-Vahrenheide,Vahrenheide
+445,REWE,Supermarket,52.41447447433167,9.779657942939025,4c8388c074d7b60cb46a8ad8,Bothfeld-Vahrenheide,Sahlkamp
+446,REWE,Supermarket,52.4176787601588,9.76551624421495,4b915100f964a52085b233e3,Bothfeld-Vahrenheide,Sahlkamp
+447,Schiller,German Restaurant,52.414571,9.778223,564624ac498e035a07aeb720,Bothfeld-Vahrenheide,Sahlkamp
+448,Bäckerei Künne,Bakery,52.41019471093499,9.762882903565524,505c2954e4b04d802a56b2c8,Bothfeld-Vahrenheide,Sahlkamp
+449,H Sahlkamp,Bus Stop,52.40983050256554,9.762968460129724,50655e7ce4b07b9787f84429,Bothfeld-Vahrenheide,Sahlkamp
+450,H Alte Heide,Tram Station,52.41582291741402,9.780453470055544,4bda0250c79cc92856077de9,Bothfeld-Vahrenheide,Sahlkamp
+451,J-F-Elektrotechnik GmbH,Construction & Landscaping,52.41862,9.768680000000018,5682fa34498ed3cdabc0c989,Bothfeld-Vahrenheide,Sahlkamp
+452,Wiesen-Apotheke,Pharmacy,52.4175232,9.764831899999999,51ad8def498e3364107a4308,Bothfeld-Vahrenheide,Sahlkamp
+453,Centik,Grocery Store,52.4152239774991,9.782661611773081,4ccaff6e511b236a85bfe7c9,Bothfeld-Vahrenheide,Sahlkamp
+454,Brot Henke Bistro Vital,Bakery,52.418730877514996,9.766176641876617,567666e8498e3b0c1c5df2a7,Bothfeld-Vahrenheide,Sahlkamp
+455,H Tempelhofweg,Tram Station,52.418721512997635,9.765871126594016,5234ccb611d211f57bdc8930,Bothfeld-Vahrenheide,Sahlkamp
+456,SC Germania List,Sports Club,52.40414011803285,9.77156042050845,51911dd7498e2fe607e27675,Bothfeld-Vahrenheide,Sahlkamp
+457,Tanzpädagogin Petra Kostka,Dance Studio,52.41978509,9.77615257,5e58f9fcc237e80008f17626,Bothfeld-Vahrenheide,Sahlkamp
+458,Spielplatz Grete-Jürgens-Straße,Playground,52.40582255272968,9.781930446624756,4dbd49651e72b351cac6a554,Bothfeld-Vahrenheide,Sahlkamp
+459,HSC Hannover,Soccer Field,52.403348366158845,9.768519401550293,506ffa4f498e0b3d24c7ee01,Bothfeld-Vahrenheide,Sahlkamp
+460,ALDI NORD,Supermarket,52.4254500706283,9.781761005773118,52220a3f11d2f5e7f3aa247b,Bothfeld-Vahrenheide,Bothfeld
+461,Meierwiesen,Bus Stop,52.42269787627304,9.786100784009054,501d4422e4b04e60b87c2b58,Bothfeld-Vahrenheide,Bothfeld
+462,H Kiefernpfad,Bus Stop,52.42132364297351,9.781614040954663,50742b2e498e0f9c47c78630,Bothfeld-Vahrenheide,Bothfeld
+463,Elektrotechnik Uwe Sommer,Electronics Store,52.42134,9.788810000000012,587696fc790bea55eeac1c7c,Bothfeld-Vahrenheide,Bothfeld
+464,OBI,Hardware Store,52.4250581,9.8325135,573b4803498eccd6f167d642,Bothfeld-Vahrenheide,Lahe
+465,Möbel Höffner,Furniture / Home Store,52.42251650000001,9.8369023,54ca5835498eaf9753975076,Bothfeld-Vahrenheide,Lahe
+466,Baumschule Gehlhaar,Garden Center,52.42112277163987,9.837934970855711,4de66007d4c09fc98b7d6c11,Bothfeld-Vahrenheide,Lahe
+467,Rossmann,Drugstore,52.424570442935014,9.842409489146492,4d68eacdb6f46dcb68951ab2,Bothfeld-Vahrenheide,Lahe
+468,dm-drogerie markt,Drugstore,52.424453,9.8290925,4f9a805fe4b017646487b678,Bothfeld-Vahrenheide,Lahe
+469,Kentucky Fried Chicken,Fried Chicken Joint,52.42386889521437,9.837025944531579,57249146498e8f4ce14e5ec6,Bothfeld-Vahrenheide,Lahe
+470,C&A,Clothing Store,52.42360743079401,9.83317655170209,5542106e498e74843b0df3ad,Bothfeld-Vahrenheide,Lahe
+471,A2 Center,Shopping Mall,52.423452022823156,9.833793640136719,5245a47f11d2c2e557c71ecf,Bothfeld-Vahrenheide,Lahe
+472,Saturn,Electronics Store,52.4235439,9.8337098,4be99580a9900f47f37d1540,Bothfeld-Vahrenheide,Lahe
+473,B&B Hotel Hannover,Hotel,52.41969199693608,9.831255364417984,4be3e82af07b0f475013f943,Bothfeld-Vahrenheide,Lahe
+474,Aral,Gas Station,52.414372,9.826168,4dbc6e150437955ec0335203,Bothfeld-Vahrenheide,Lahe
+475,Mercure Hotel Hannover Oldenburger Allee,Hotel,52.41663877499773,9.827192638067128,4c060d6991d776b0344ff8f9,Bothfeld-Vahrenheide,Lahe
+476,A.T.U Hannover - Lahe,Automotive Shop,52.420083,9.833639,4ddcfe58d164236dd37f8d5a,Bothfeld-Vahrenheide,Lahe
+477,real Drive,Food Service,52.42196026937994,9.837205410003662,4cca7dc4c010f04d4973efcc,Bothfeld-Vahrenheide,Lahe
+478,Mios Großhandel GmbH,Grocery Store,52.42101808330379,9.830918312072754,4c1965319990d13a243a7c17,Bothfeld-Vahrenheide,Lahe
+479,H Oldenburger Allee,Tram Station,52.417306,9.83031,4e8eeffacc21c15fa2dfe6b5,Bothfeld-Vahrenheide,Lahe
+480,H Opelstraße,Tram Station,52.422898543695545,9.83967326365522,50b0a35ae4b0c59eea09861f,Bothfeld-Vahrenheide,Lahe
+481,Intersport Voswinkel,Sporting Goods Shop,52.42338659609892,9.832849502563477,519b7004498e20ec73bf1684,Bothfeld-Vahrenheide,Lahe
+482,BEST WESTERN - Der Föhrenhof,Hotel,52.41365765786306,9.824848507678679,4b8c490ff964a52092c832e3,Bothfeld-Vahrenheide,Lahe
+483,real Getränkemarkt,Food & Drink Shop,52.423673,9.83161,586787bbb210145ef6827483,Bothfeld-Vahrenheide,Lahe
+484,Salamander,Shoe Store,52.42504552192753,9.834320258278339,4d0cc7fce0b98cfa3b3fd793,Bothfeld-Vahrenheide,Lahe
+485,ALDI NORD,Supermarket,52.42536634479217,9.842148453177517,51a38038498e1300fc74b8a6,Bothfeld-Vahrenheide,Lahe
+486,BabyOne,Baby Store,52.426418057112045,9.831666790717412,4e56545fb0fbb294aaa6843c,Bothfeld-Vahrenheide,Lahe
+487,Veosion UG (haftungsbeschränkt),IT Services,52.42230049829265,9.824438095092773,523b4fcb93cd5d8ce32c1fcc,Bothfeld-Vahrenheide,Lahe
+488,tedox,Hardware Store,52.42542,9.82741,5c2e857cb04056002cf86afb,Bothfeld-Vahrenheide,Lahe
+489,Saray Event Center,Event Service,52.42572712500605,9.82668175562292,54e8f399498ef3cbef9225b5,Bothfeld-Vahrenheide,Lahe
+490,TresOr,Asian Restaurant,52.43425918475218,9.802143573760986,5609742d498ede736c01d45e,Bothfeld-Vahrenheide,Isernhagen-Süd
+491,Restaurant Fasanenkrug,German Restaurant,52.436954233022924,9.802292175980952,4c0a6451a1b32d7f632e99f0,Bothfeld-Vahrenheide,Isernhagen-Süd
+492,Zeus,Greek Restaurant,52.43700828197641,9.802362626312112,4fe63391e4b0899a0a398ff7,Bothfeld-Vahrenheide,Isernhagen-Süd
+493,La Scala,Italian Restaurant,52.43699377310419,9.802245232470458,4d381fc20f81b60cf8e13c3a,Bothfeld-Vahrenheide,Isernhagen-Süd
+494,H Fasanenkrug,Tram Station,52.436992372522006,9.802253653213453,4c66ea53e75ac9285ff5f8da,Bothfeld-Vahrenheide,Isernhagen-Süd
+495,Parkhotel Welfenhof,Hotel,52.436959459067864,9.80232824315017,4bc8ec7e762beee190b43d38,Bothfeld-Vahrenheide,Isernhagen-Süd
+496,Rosen-Kroppen,Flower Shop,52.43694090055603,9.802261727335233,4fef3235e4b0b6774f7d5044,Bothfeld-Vahrenheide,Isernhagen-Süd
+497,Lidl,Supermarket,52.42969328584465,9.801738560199738,4e73dd811fc77084d0f4c4eb,Bothfeld-Vahrenheide,Isernhagen-Süd
+498,toeffeldesign,Jewelry Store,52.42935311398488,9.798742532730103,4fccab8e4fc6a3d63855398f,Bothfeld-Vahrenheide,Isernhagen-Süd
+499,EDEKA Center Wucherpfennig,Supermarket,52.388069,9.813463,54b002e0498ea51da48953de,Buchholz-Kleefeld,Groß-Buchholz
+500,Ambrosia,Greek Restaurant,52.40079941801953,9.803414465760877,4e3edb3852b1a04aff2ad15f,Buchholz-Kleefeld,Groß-Buchholz
+501,Rossmann,Drugstore,52.3899866054325,9.81431527471256,503fbd097e2752ec471b53fb,Buchholz-Kleefeld,Groß-Buchholz
+502,Große Mauer,Chinese Restaurant,52.399611,9.805562,4bf515c86a31d13ac56c962e,Buchholz-Kleefeld,Groß-Buchholz
+503,Gallo Nero,Italian Restaurant,52.40021943419401,9.803978204727173,4b8d558bf964a52045f532e3,Buchholz-Kleefeld,Groß-Buchholz
+504,Mercure Hotel Hannover Medical Park,Hotel,52.3880844,9.8060655,4b9fcba3f964a5206d3f37e3,Buchholz-Kleefeld,Groß-Buchholz
+505,Discgolf Roderbruch,Disc Golf,52.39276932658593,9.809739589691162,4fd255357b0c5e8ae08f52f4,Buchholz-Kleefeld,Groß-Buchholz
+506,Nallban Döner,Doner Restaurant,52.38929552319287,9.813481472380792,500e76f7e4b02345770e04cf,Buchholz-Kleefeld,Groß-Buchholz
+507,Bäckerei Pieper,Bakery,52.38881828302276,9.81334486804017,4bc40f14f8219c7420f4b610,Buchholz-Kleefeld,Groß-Buchholz
+508,PENNY,Supermarket,52.38873011,9.81459546,4e0b4b48a8097aad936d30ec,Buchholz-Kleefeld,Groß-Buchholz
+509,H Roderbruch,Tram Station,52.390006,9.818501,4bf2488978cec928c851bb86,Buchholz-Kleefeld,Groß-Buchholz
+510,Zur Eiche,German Restaurant,52.39983409191517,9.805299129596277,4d5c22ed9c31b60c9196b1ee,Buchholz-Kleefeld,Groß-Buchholz
+511,Starcar,Rental Car Location,52.391538432039575,9.798635244369507,4c0cb5c4b1b676b0d273df86,Buchholz-Kleefeld,Groß-Buchholz
+512,MTV Groß-Buchholz v. 1898 e. V.,Sports Club,52.386132,9.816649,4d9de0317509b1f7741a4ba0,Buchholz-Kleefeld,Groß-Buchholz
+513,Tanara,Mediterranean Restaurant,52.372982,9.78613,4cc1bc7ed327199cc30cc91d,Buchholz-Kleefeld,Kleefeld
+514,Eisstadion am Pferdeturm,Hockey Rink,52.371833261461454,9.780847220815769,4ca8dfc2a643b713ecd7e8a6,Buchholz-Kleefeld,Kleefeld
+515,Rossmann,Drugstore,52.374347682548574,9.790831137760025,5012b09ae4b0befd12880637,Buchholz-Kleefeld,Kleefeld
+516,EDEKA Hannover - Kleefeld,Supermarket,52.3741798,9.7898715,5c48925b1c675b002c81a46c,Buchholz-Kleefeld,Kleefeld
+517,Kleefelder Kaffeeklatsch,Café,52.37232236509889,9.78541813360735,516118f8e4b07ee818264a35,Buchholz-Kleefeld,Kleefeld
+518,Pferdeturm,Historic Site,52.37180669878165,9.780417680740356,4d941a5faf67370477457409,Buchholz-Kleefeld,Kleefeld
+519,Monte Collo,Italian Restaurant,52.370753456565865,9.804595270976526,4c925a37ae96a093af30ab46,Buchholz-Kleefeld,Kleefeld
+520,Malatya Grill,Fast Food Restaurant,52.37226246387663,9.785120380389005,4c31fc11452620a1ae50210f,Buchholz-Kleefeld,Kleefeld
+521,Lidl,Supermarket,52.37710670292147,9.799571492232076,5bed94938194fc0039a81d92,Buchholz-Kleefeld,Kleefeld
+522,GHOTEL hotel & living,Hotel,52.379220585499674,9.795397264229182,4b4ce4e7f964a52043c326e3,Buchholz-Kleefeld,Kleefeld
+523,S Hannover-Kleefeld,Light Rail Station,52.37369970340345,9.79107141494751,4cc528f91e596dcbbf46d667,Buchholz-Kleefeld,Kleefeld
+524,BEKI Frischmarkt,Grocery Store,52.37175222334214,9.792038876740481,4fbf2a85e4b082ac65f2375b,Buchholz-Kleefeld,Kleefeld
+525,H Uhlhornstraße,Tram Station,52.37155818957671,9.793312681672713,4fa8d249e4b075cdbffabd2c,Buchholz-Kleefeld,Kleefeld
+526,Kantplatz,Plaza,52.371985,9.785165,5814830038faa541c347ecba,Buchholz-Kleefeld,Kleefeld
+527,Hotel Kleefelder Hof,Hotel,52.37276552835836,9.783808512110664,4ddf4d84b0fbefa198c281cf,Buchholz-Kleefeld,Kleefeld
+528,H Schaperplatz,Bus Stop,52.376760055283626,9.796457218042343,4cce685e72106dcbd6f8a899,Buchholz-Kleefeld,Kleefeld
+529,Piepers Bäckerlädchen,Bakery,52.37615244341522,9.798134405976121,508bbf36e4b00ac3c6ec29aa,Buchholz-Kleefeld,Kleefeld
+530,Brasserie,German Restaurant,52.3778558899124,9.797458330968762,4e8e97eddab454671ecd4ecc,Buchholz-Kleefeld,Kleefeld
+531,Hexenspielplatz,Playground,52.36715080680864,9.791130423545837,4d865d9902eb5481afac56f5,Buchholz-Kleefeld,Kleefeld
+532,H Nackenberg,Tram Station,52.370579,9.803233,4d470d472e326ea8f38ffda6,Buchholz-Kleefeld,Kleefeld
+533,Hermann-Löns-Park,Park,52.370927513010955,9.81923460960388,4b76b810f964a520795a2ee3,Buchholz-Kleefeld,Heideviertel
+534,Kleefelder Bad,Pool,52.372448626395496,9.81404185295105,4c304ed3a0ced13a9205126e,Buchholz-Kleefeld,Heideviertel
+535,Ginkgo Restaurant,Asian Restaurant,52.379815,9.810756,4d4a9063183f224be264e9a8,Buchholz-Kleefeld,Heideviertel
+536,Shell,Gas Station,52.3793412,9.80732225,584fa797d8f3e947d689effb,Buchholz-Kleefeld,Heideviertel
+537,Profi-Teppichreinigung,Dry Cleaner,52.380892708489284,9.828093945980072,5391d030498e6350ffc24fde,Buchholz-Kleefeld,Heideviertel
+538,Netto Marken-Discount,Supermarket,52.38405106,9.8192512,4dbaebf80437955ec0095269,Buchholz-Kleefeld,Heideviertel
+539,E. Mohr & Co Dienstleistungs GmbH,Business Service,52.38063,9.82969,5bba82c0b25fee002ccd5f86,Buchholz-Kleefeld,Heideviertel
+540,Brela,Restaurant,52.37986416859908,9.812479719827074,51c6ec34498e5b521f0bd683,Buchholz-Kleefeld,Heideviertel
+541,REWE CITY,Supermarket,52.38110515814025,9.812732364458952,4f71e882e4b0c719b2c7426c,Buchholz-Kleefeld,Heideviertel
+542,TRIO Ristorantino,Mediterranean Restaurant,52.38002,9.81108,505de89a183f9b7167425ecf,Buchholz-Kleefeld,Heideviertel
+543,MTV Groß-Buchholz v. 1898 e. V.,Sports Club,52.386132,9.816649,4d9de0317509b1f7741a4ba0,Buchholz-Kleefeld,Heideviertel
+544,H Heidering,Bus Stop,52.37909751088419,9.808558414286283,4e40f76fae60920b0173b9f6,Buchholz-Kleefeld,Heideviertel
+545,Annateich,Lake,52.37097479911704,9.816627502441406,5024cce4e4b0eda9fdf106e0,Buchholz-Kleefeld,Heideviertel
+546,S Hannover Karl-Wiechert-Allee,Light Rail Station,52.3744928720615,9.808869965294086,4ba1e10df964a52044d037e3,Buchholz-Kleefeld,Heideviertel
+547,H Misburger Straße,Tram Station,52.37915073317369,9.808601887755756,4b4f65ddf964a520ca0427e3,Buchholz-Kleefeld,Heideviertel
+548,Rossmann,Drugstore,52.390346255548465,9.85379894103927,4b486175f964a520764c26e3,Misburg-Anderten,Misburg-Nord
+549,Mephisto,Gastropub,52.388762793955394,9.855903361139102,4d879348e83fa143f646a7a1,Misburg-Anderten,Misburg-Nord
+550,Lidl,Supermarket,52.3948595,9.8435877,4fbe3ffbe4b0e542bf1d5e34,Misburg-Anderten,Misburg-Nord
+551,H Meyers Garten,Bus Stop,52.38988991158026,9.852739658040168,4c1623267f7f2d7f376ce368,Misburg-Anderten,Misburg-Nord
+552,H Misburg,Tram Station,52.391443821988915,9.853553473949432,5495ef9a498e8683bf0451c0,Misburg-Anderten,Misburg-Nord
+553,EDEKA Wucherpfennig,Supermarket,52.389489,9.857052099999999,4f7c31c5e4b0abe223681c89,Misburg-Anderten,Misburg-Nord
+554,Trinkgut,Liquor Store,52.38805181348265,9.855816263116616,4b486346f964a520994c26e3,Misburg-Anderten,Misburg-Nord
+555,H Am Forstkamp,Tram Station,52.39290418665642,9.847361399442272,5495f07b498ed521a2a676da,Misburg-Anderten,Misburg-Nord
+556,Optisport Health Club,Gym / Fitness Center,52.3931915548969,9.85989581149439,4bd41a71caff9521ee33d6f0,Misburg-Anderten,Misburg-Nord
+557,Restaurant Bei Ranko,Eastern European Restaurant,52.396050273688665,9.856231269304669,56f3ef6a498e5b7c44919b8d,Misburg-Anderten,Misburg-Nord
+558,EASYFITNESS Misburg,Gym / Fitness Center,52.38535909387278,9.86064926544927,509639d4e4b0a40e1cd7033b,Misburg-Anderten,Misburg-Nord
+559,Mediencenter Sparborth,Electronics Store,52.3879946,9.8403088,57a56a44498ebb22ff603829,Misburg-Anderten,Misburg-Nord
+560,Alter Bahnhof Anderten,Gastropub,52.36888206,9.86115732,4b67c2ecf964a520075d2be3,Misburg-Anderten,Misburg-Süd
+561,Lidl,Supermarket,52.3801745,9.8632084,4fcf61123ac6d9ec99037063,Misburg-Anderten,Misburg-Süd
+562,McDonald's,Fast Food Restaurant,52.380882223365184,9.861260451098445,4c4c58ef42b4d13a751df67f,Misburg-Anderten,Misburg-Süd
+563,S Hannover-Anderten/Misburg,Light Rail Station,52.36926120417073,9.861404796463827,50cba43de4b0af4457c7da29,Misburg-Anderten,Misburg-Süd
+564,Sportplatz am Kanal,Soccer Field,52.370260793996835,9.852612018585203,4bebd8956295c9b65b208808,Misburg-Anderten,Misburg-Süd
+565,Ballorig,Indoor Play Area,52.366380223333024,9.863341067907509,4cc06837ca4aa1cd32cc1fb4,Misburg-Anderten,Misburg-Süd
+566,Star Tankstelle,Gas Station,52.38135,9.86179,504cea60e4b086a8fab0821a,Misburg-Anderten,Misburg-Süd
+567,Damm Stahlrohrgerätebau GmbH,Construction & Landscaping,52.378026,9.87291,5873d78d1b36d47bd1a4f7db,Misburg-Anderten,Misburg-Süd
+568,Teraske - Sanitätsfachhändler und Sanitätshäuser,Medical Supply Store,52.377781,9.87366,5da45b68bc323e0007f40508,Misburg-Anderten,Misburg-Süd
+569,AS Hannover-Anderten (58),Intersection,52.35884169459703,9.885549545288086,50e33c22e889f0cc75aba8a0,Misburg-Anderten,Anderten
+570,PORTAS-Fachbetrieb Hoffmann GmbH,Miscellaneous Shop,52.35596,9.88361,5ef363897d243b00082cc8a7,Misburg-Anderten,Anderten
+571,Tropeano Di-Vino,Italian Restaurant,52.3586370536212,9.825584077059448,4ecf73dfbe7b9eecdecc2792,Kirchrode-Bemerode-Wülferode,Kirchrode
+572,Eiscafé Soravia,Ice Cream Shop,52.360865989539974,9.828775709017654,4ba24262f964a520b0e737e3,Kirchrode-Bemerode-Wülferode,Kirchrode
+573,Bambus Garden,Asian Restaurant,52.360982,9.831542,4dfe394c1838062026548bbc,Kirchrode-Bemerode-Wülferode,Kirchrode
+574,EDEKA Beki Schnellkauf,Supermarket,52.3607794,9.8155703,5352b8c8498edd0b05e057e6,Kirchrode-Bemerode-Wülferode,Kirchrode
+575,Taverne,Italian Restaurant,52.36111330532901,9.83267044824298,4b8ebf5ff964a520a73433e3,Kirchrode-Bemerode-Wülferode,Kirchrode
+576,dm-drogerie markt,Drugstore,52.361564,9.827161,55771e3d498ee58e119208d1,Kirchrode-Bemerode-Wülferode,Kirchrode
+577,Rossmann,Drugstore,52.35932006036854,9.826853284172365,4f2a60c7e4b0b70f2a6aaa0e,Kirchrode-Bemerode-Wülferode,Kirchrode
+578,Gianni,Italian Restaurant,52.360824093905165,9.82527647661867,4c5557acf5f3d13a49ef9bfb,Kirchrode-Bemerode-Wülferode,Kirchrode
+579,Tiergartenschänke,Beer Garden,52.361457,9.83385,4e9c46a14690c21335c666d2,Kirchrode-Bemerode-Wülferode,Kirchrode
+580,Leonardo Hotel Hannover,Hotel,52.36254198609759,9.832872525299502,4b8bfab5f964a52024b632e3,Kirchrode-Bemerode-Wülferode,Kirchrode
+581,Bäckerei Göing,Bakery,52.36101,9.8258915,5780ab83498ee3d0f9880e9c,Kirchrode-Bemerode-Wülferode,Kirchrode
+582,H Saarbrückener Straße,Tram Station,52.36265,9.81906,56e4290f498e13426b588806,Kirchrode-Bemerode-Wülferode,Kirchrode
+583,Wassermeloni / Tonisport,Sports Club,52.363187650032415,9.816335555644535,55eac56a498e1ee2dcde931a,Kirchrode-Bemerode-Wülferode,Kirchrode
+584,Quick Reifendiscount Friedel Filipczak Reifenmarkt GmbH,Automotive Shop,52.3517927,9.820872999999999,5e05d8e992f0060008bad4a4,Kirchrode-Bemerode-Wülferode,Kirchrode
+585,TKH Hasenheide,Sports Club,52.365914,9.814962,4dc67894d164eb9ca008b80a,Kirchrode-Bemerode-Wülferode,Kirchrode
+586,H Tiergarten,Tram Station,52.36133703987719,9.834112299931103,4e149baf1f6e33e7180c4057,Kirchrode-Bemerode-Wülferode,Kirchrode
+587,H Bleekstraße,Tram Station,52.365672,9.813192,4cd7acc72a87a1434cafa809,Kirchrode-Bemerode-Wülferode,Kirchrode
+588,Rembetiko,Greek Restaurant,52.342197,9.826504,591c71b973fe25192ffe28c0,Kirchrode-Bemerode-Wülferode,Bemerode
+589,Getränke Schlüter,Beer Store,52.344569027480304,9.822939756785908,4b61bad7f964a5202e1f2ae3,Kirchrode-Bemerode-Wülferode,Bemerode
+590,Kytaro,Greek Restaurant,52.33961122535828,9.829134900691011,4b8ea612f964a5205e2e33e3,Kirchrode-Bemerode-Wülferode,Bemerode
+591,Pizza Pazza da Leo,Pizza Place,52.33960948186309,9.823796948012637,4cc867803477b60c23af7b6a,Kirchrode-Bemerode-Wülferode,Bemerode
+592,Rossmann,Drugstore,52.3382168,9.83306,4e43e4db1838e44e898541d4,Kirchrode-Bemerode-Wülferode,Bemerode
+593,REWE,Supermarket,52.34638978295546,9.820499606655858,4c794415df08a1cd0f07da5d,Kirchrode-Bemerode-Wülferode,Bemerode
+594,REWE,Supermarket,52.34631537,9.8206206,4c0a4f1e009a0f47d01de9bf,Kirchrode-Bemerode-Wülferode,Bemerode
+595,H Brabeckstraße,Tram Station,52.34455868307968,9.828343739024664,4dd4af7a52b18e28aa1b25b0,Kirchrode-Bemerode-Wülferode,Bemerode
+596,U Brabeckstraße,Metro Station,52.34442523322824,9.828089641586798,4bc2d153461576b0a4de7d32,Kirchrode-Bemerode-Wülferode,Bemerode
+597,Á La Minute,Doner Restaurant,52.34647537048216,9.82080544401512,5533fb7e498e14c3cd247859,Kirchrode-Bemerode-Wülferode,Bemerode
+598,H Emslandstraße,Tram Station,52.345566082311294,9.82043943942419,4e36c278483bf3839a3c05e4,Kirchrode-Bemerode-Wülferode,Bemerode
+599,Netto Marken-Discount,Supermarket,52.3463675,9.819242599999999,57151ca8498ec90dc1b4d53a,Kirchrode-Bemerode-Wülferode,Bemerode
+600,EDEKA Wucherpfennig,Supermarket,52.3469616977099,9.818954097741047,50a117d2e4b094dc6506d5e5,Kirchrode-Bemerode-Wülferode,Bemerode
+601,Quick Reifendiscount Friedel Filipczak Reifenmarkt GmbH,Automotive Shop,52.3517927,9.820872999999999,5e05d8e992f0060008bad4a4,Kirchrode-Bemerode-Wülferode,Bemerode
+602,H+ Hotel Hannover,Hotel,52.33810878374338,9.831580817699432,4be80afb6af1ef3b1d9a1b96,Kirchrode-Bemerode-Wülferode,Bemerode
+603,ALDI NORD,Supermarket,52.33922172080285,9.83359402473825,4da87fb75da3ef8bf15fbade,Kirchrode-Bemerode-Wülferode,Bemerode
+604,H Kronsberg,Tram Station,52.338727,9.833389,4c923c54029776b0e4d59c55,Kirchrode-Bemerode-Wülferode,Bemerode
+605,AXXE Restaurant,Restaurant,52.33976951015163,9.865203108449032,509d1f413d7c56bd1382bad6,Kirchrode-Bemerode-Wülferode,Wülferode
+606,NORDSEE Autobahnraststätte Hannover-Wülferode West,Seafood Restaurant,52.337594,9.8635833,5ddd5f3754c26100082cac09,Kirchrode-Bemerode-Wülferode,Wülferode
+607,Raststätte Wülferode West,Rest Area,52.339778352328,9.865247689946141,4c52584e2543a593cb4f6185,Kirchrode-Bemerode-Wülferode,Wülferode
+608,NORDSEE,Seafood Restaurant,52.33350684,9.86579493,585c70e42ec364572e1fb2c9,Kirchrode-Bemerode-Wülferode,Wülferode
+609,Raststätte Wülferode Ost,Rest Area,52.33355254593851,9.865661117539695,4bd8904811dcc928e8ddf633,Kirchrode-Bemerode-Wülferode,Wülferode
+610,Craft Beer Kontor,Beer Store,52.363865970136715,9.750544715191822,53654379498ed129446fae12,Südstadt-Bult,Südstadt
+611,REWE,Supermarket,52.363526,9.748372,4b699636f964a52086a82be3,Südstadt-Bult,Südstadt
+612,Eis 2000,Ice Cream Shop,52.360818022239926,9.749896273092325,4c0134596f422d7f24d6401e,Südstadt-Bult,Südstadt
+613,Käse Schaub,Cheese Shop,52.364670225446346,9.74689801390582,4d3ad297bf6d5481a3bed0e1,Südstadt-Bult,Südstadt
+614,Koh-I-Noor Dhaba,Indian Restaurant,52.35988033679035,9.750737097739103,4d8e3434788c54810a7233fd,Südstadt-Bult,Südstadt
+615,Beef & Reef,Steakhouse,52.363288,9.754754,54e787dc498e7116ea423237,Südstadt-Bult,Südstadt
+616,Maschpark,Park,52.36642855096776,9.736933708190918,4bd1ab37462cb7132693da07,Südstadt-Bult,Südstadt
+617,Sprengel Museum,Art Museum,52.36321156821663,9.73983564224909,4bf571052c6b76b09880a18c,Südstadt-Bult,Südstadt
+618,Niedersächsisches Landesmuseum,History Museum,52.365498281147914,9.740087985992432,4b867bb5f964a520198c31e3,Südstadt-Bult,Südstadt
+619,Neues Rathaus,City Hall,52.367335053857246,9.73738431930542,4b7e851af964a520aef02fe3,Südstadt-Bult,Südstadt
+620,Dormero Hotel,Hotel,52.364218365742815,9.747243757095347,4c63be3758810f47176a0a1e,Südstadt-Bult,Südstadt
+621,Maschsee,Lake,52.35300980557111,9.744400978088379,4beffa22c8d920a1d0469430,Südstadt-Bult,Südstadt
+622,Courtyard by Marriott Hannover Maschsee,Hotel,52.36199345733106,9.735091015372745,4b631899f964a520ae622ae3,Südstadt-Bult,Südstadt
+623,Wochenmarkt Stephansplatz,Farmers Market,52.360650079131766,9.755151271820067,4bda9c2363c5c9b641772468,Südstadt-Bult,Südstadt
+624,Pier 51,Restaurant,52.3541402037382,9.74587619304657,4b5a29caf964a5204cb128e3,Südstadt-Bult,Südstadt
+625,Maschseeperle,Snack Place,52.36255482900513,9.73894605114481,4da2d0ba63b5a35d324b041a,Südstadt-Bult,Südstadt
+626,Borchers,Bakery,52.363721,9.747423,4c7a052b81bca093077eff14,Südstadt-Bult,Südstadt
+627,Wohnzimmer,Pub,52.36741475501757,9.742562348949455,5324baf1498eeebd83ff767d,Südstadt-Bult,Südstadt
+628,Ausbildungsrestaurant Café Nanas,Restaurant,52.36530914575765,9.743441391619854,5070243429a671ddcf86f2d8,Südstadt-Bult,Südstadt
+629,Block House,Steakhouse,52.36794183537129,9.744567275047302,4b51bd4ff964a520ff5327e3,Südstadt-Bult,Südstadt
+630,Toscanini,Italian Restaurant,52.36166027038472,9.749720289902346,5068af78e4b087b18833ee2f,Südstadt-Bult,Südstadt
+631,Mimi's Thai Kitchen,Thai Restaurant,52.359493053068036,9.751110738607634,56252528498ebd5d2de97487,Südstadt-Bult,Südstadt
+632,Theater am Aegi,Theater,52.36781081712642,9.743188619613646,4b7d3ef9f964a52078b42fe3,Südstadt-Bult,Südstadt
+633,Loretta's,Mediterranean Restaurant,52.36431502452826,9.736459206480209,4ba3af0cf964a520ff5338e3,Südstadt-Bult,Südstadt
+634,HDI Arena,Soccer Stadium,52.360217646084486,9.731054306030273,4b442f81f964a52076f225e3,Südstadt-Bult,Südstadt
+635,Nordkurve,Sports Bar,52.362363792523695,9.732926657320457,4b76a76af964a520a0562ee3,Südstadt-Bult,Südstadt
+636,Rossmann,Drugstore,52.35874249637448,9.751562177256206,4c35b88e6f1fef3bf92aed3d,Südstadt-Bult,Südstadt
+637,Piergarten,Beer Garden,52.35428502108184,9.745773074286541,4da1e838d686b60c389dae28,Südstadt-Bult,Südstadt
+638,Spandau Süd,Bar,52.366503,9.751994,4d8a372f5ecdf04d0f36ba8a,Südstadt-Bult,Südstadt
+639,KINDAI Restaurant,Sushi Restaurant,52.36930726615503,9.751127587748387,531e1993498e912dfac32629,Südstadt-Bult,Südstadt
+640,Ständige Vertretung,Rhenisch Restaurant,52.36793943599416,9.742615970148107,4b4e166bf964a52012e126e3,Südstadt-Bult,Südstadt
+641,Stadionbad,Pool,52.359327172848296,9.733918905258179,4b97f67cf964a5208f2235e3,Südstadt-Bult,Südstadt
+642,Aegidienkirche,Historic Site,52.36941104375509,9.739288556954778,4bf83989d4cdb71301ba84fe,Südstadt-Bult,Südstadt
+643,Baba,Falafel Restaurant,52.36433283116797,9.75713902139282,4b6f17fdf964a5207bdc2ce3,Südstadt-Bult,Südstadt
+644,Mercure Hotel Hannover City,Hotel,52.366808572558995,9.740293877829458,4baa62b8f964a52039653ae3,Südstadt-Bult,Südstadt
+645,Schönwalds im LaSall,Café,52.36170837520807,9.7594998920125,4b7070fbf964a520971a2de3,Südstadt-Bult,Südstadt
+646,Papa Enzos,Italian Restaurant,52.363331,9.747754,4f3a40d7e4b0a4d443731d12,Südstadt-Bult,Südstadt
+647,Stephans Eck,Pub,52.360129752618356,9.754922709023795,4dffb4f745ddd9364c2cfd21,Südstadt-Bult,Südstadt
+648,Högers 1910,German Restaurant,52.36239695743845,9.75415427345457,4b9b83c0f964a520400c36e3,Südstadt-Bult,Südstadt
+649,Bella Italia,Italian Restaurant,52.36651,9.742576,4c6c167165eda09341ec4ad0,Südstadt-Bult,Südstadt
+650,Rossmann,Drugstore,52.36378014675808,9.7477857803989,4d38177f3d958cfa9416af71,Südstadt-Bult,Südstadt
+651,REWE CITY,Supermarket,52.35975905,9.75722286,4e6651aa81301b932312f1c6,Südstadt-Bult,Südstadt
+652,Lühmanns Hotel am Rathaus,Hotel,52.36810733145675,9.73935139937763,4b882152f964a520e3e131e3,Südstadt-Bult,Südstadt
+653,Bar Sena,Bar,52.363353575598595,9.755176285163124,4b8d57f0f964a520e1f532e3,Südstadt-Bult,Südstadt
+654,Fielmann,Optical Shop,52.3681374,9.7443902,535a7b8f498e69f55262d369,Südstadt-Bult,Südstadt
+655,McFIT,Gym / Fitness Center,52.3635177,9.7483912,4fa940dce4b01128c17ad4b0,Südstadt-Bult,Südstadt
+656,Gartensaal,Restaurant,52.366913331701376,9.737148284912108,4e5a257718388cd5cbacb3a4,Südstadt-Bult,Südstadt
+657,See Biergarten,Beer Garden,52.36118757298199,9.7352753217924,4bf0dc5721072d7f426c208b,Südstadt-Bult,Südstadt
+658,Cafe Lucas,Café,52.36933483108503,9.750685554039688,4d207b995acaa35d7a2cc835,Südstadt-Bult,Südstadt
+659,Buongiorno,Italian Restaurant,52.362406,9.758687,4bfbf258d2b720a12c9b336a,Südstadt-Bult,Südstadt
+660,Sonderbar,Hotel Bar,52.364235170308056,9.747211676223955,4cb73e3b55af224b3dce9f7e,Südstadt-Bult,Südstadt
+661,EDEKA Karakis,Supermarket,52.3619968,9.7535153,4e43b2147d8bee2823935411,Südstadt-Bult,Südstadt
+662,Goldfisch,Cocktail Bar,52.36471619776797,9.756880349562016,4b6f15d0f964a520e5db2ce3,Südstadt-Bult,Südstadt
+663,Ichiban,Sushi Restaurant,52.36816310916945,9.740731224014041,4e6cb6c745dd435bc12557e9,Südstadt-Bult,Südstadt
+664,REWE,Supermarket,52.365089648637586,9.747136486636805,4db85a05a86e0cd3b663d8f5,Südstadt-Bult,Südstadt
+665,Trammplatz,Plaza,52.36810488839328,9.737947083231184,4dcea94afa7664b7c6ad2bd1,Südstadt-Bult,Südstadt
+666,Massimo's Eiscafe,Ice Cream Shop,52.36953273350713,9.743080415604222,5321d691498e8e92fd9a602d,Südstadt-Bult,Südstadt
+667,Tai-Pai,Chinese Restaurant,52.3613246252631,9.74971775093726,4b9294e9f964a5208b0634e3,Südstadt-Bult,Südstadt
+668,Meiers Lebenslust,Brewery,52.36829920227966,9.740571130594768,4fca46c9bb3d59690c9a726c,Südstadt-Bult,Südstadt
+669,Aegidientorplatz,Plaza,52.368361,9.743259,527abe9e11d295bc8ff4843e,Südstadt-Bult,Südstadt
+670,Museum August Kestner,Museum,52.368183059813134,9.736507676531751,4cb07c03b4b0a35d1d8449ce,Südstadt-Bult,Südstadt
+671,Rossmann,Drugstore,52.3692244530564,9.7491846904268,4df23d9b45dd4e26933ba5c6,Südstadt-Bult,Südstadt
+672,REWE City,Supermarket,52.36947600655506,9.749870332675641,4beeb7c8e24d20a11c3c7314,Südstadt-Bult,Südstadt
+673,Cafe Gleichklang,Vegetarian / Vegan Restaurant,52.36918945450624,9.748842860489173,520bb42b11d2852bfa2e6fd1,Südstadt-Bult,Südstadt
+674,Bell'ARTE,Italian Restaurant,52.36294526901867,9.73962370075016,4bb9fdd4cf2fc9b62bfba002,Südstadt-Bult,Südstadt
+675,SUBWAY,Sandwich Place,52.369178009340224,9.750660178888666,4b617c5af964a5203b152ae3,Südstadt-Bult,Südstadt
+676,Ido Kebap Salon,Middle Eastern Restaurant,52.36931004742283,9.750134288687788,4e6a488c18381ea1bdd5258b,Südstadt-Bult,Südstadt
+677,Meli's Backshop,Bakery,52.36199378549185,9.74916981028903,4f0c18a6e4b0f615a3106aaa,Südstadt-Bult,Südstadt
+678,Da Lello,Italian Restaurant,52.36915929109937,9.744992,4b96c3eaf964a5201be334e3,Südstadt-Bult,Südstadt
+679,BibaFresh,Café,52.36447627200393,9.743489027023315,53c66ef9498e769a4a519d1d,Südstadt-Bult,Südstadt
+680,Esplanade,Furniture / Home Store,52.35996211547643,9.75437879562378,4e648dce1520355eb6f23c96,Südstadt-Bult,Südstadt
+681,Spielplatz Stephansplatz,Playground,52.36086298814615,9.755065076684787,4ea97795f5b9df9610aa9bdf,Südstadt-Bult,Südstadt
+682,Julian's Bar & Restaurant,Restaurant,52.361822,9.735201,4b63eb39f964a52010972ae3,Südstadt-Bult,Südstadt
+683,Fantasy-In,Toy / Game Store,52.36782719442828,9.744545817375181,4fca056be4b0c11681eb9ba9,Südstadt-Bult,Südstadt
+684,Weltfein Whisky & Spirituosen,Liquor Store,52.36620289298336,9.75377636913252,54ccd029498e4249447cb2fa,Südstadt-Bult,Südstadt
+685,ELEA - Olivenöl. Wein. Gutes.,Gourmet Shop,52.36114681048685,9.757502451603552,4c9550f9f7cfa1cd958dbc15,Südstadt-Bult,Südstadt
+686,Segel- und Yachtschule Hannover,Boat or Ferry,52.35385145268156,9.745945719916593,4c55569bf5f3d13a3c459afb,Südstadt-Bult,Südstadt
+687,Hannover 96 Fanshop,Sporting Goods Shop,52.36097767710775,9.733028411865234,4bed39dbe3562d7f5aa9fef8,Südstadt-Bult,Südstadt
+688,Hannoverscher Yacht Club,Harbor / Marina,52.35396065260942,9.739986062049866,5204efcb498eea2f46729f92,Südstadt-Bult,Südstadt
+689,Fährhaus,Gastropub,52.35373188343552,9.740873868833019,4e41544a52b17005f5c8780a,Südstadt-Bult,Südstadt
+690,Hannoverscher Ruder-Club von 1880 e.V.,Sports Club,52.35382893756213,9.74013090133667,4ed29f5b29c223f92b896feb,Südstadt-Bult,Südstadt
+691,H Lutherstraße,Bus Stop,52.367106317413935,9.755039887640663,4cbd8d264352a1cda518a4f5,Südstadt-Bult,Südstadt
+692,Hannoverscher Kanu-Club von 1921 e.V.,Sports Club,52.353633,9.73914,4ff192dce4b073b851e4d64f,Südstadt-Bult,Südstadt
+693,VGH Versicherung,Insurance Office,52.370174,9.744542,4b879aa3f964a5201ec431e3,Südstadt-Bult,Südstadt
+694,EDEKA Center Wucherpfennig,Supermarket,52.36182569,9.76580061,4b966c7af964a52074cb34e3,Südstadt-Bult,Bult
+695,Ilion,Greek Restaurant,52.36078447512583,9.76275482784133,4d0a4a4ac370a35d1ec60f22,Südstadt-Bult,Bult
+696,Lidl,Supermarket,52.3627964,9.7637243,4cef70cced62721e996660fd,Südstadt-Bult,Bult
+697,Kale Restaurant,Turkish Restaurant,52.35682683118844,9.769012928009033,518ab053498e78f2f5b052d4,Südstadt-Bult,Bult
+698,La Forchetta,Italian Restaurant,52.36289869,9.76219253,5790fe30498e651433472652,Südstadt-Bult,Bult
+699,dm-drogerie markt,Drugstore,52.3613263,9.765654,5092c54be4b06d614611f184,Südstadt-Bult,Bult
+700,Handwerk,Modern European Restaurant,52.35675658778103,9.76391372649232,5884dbcbaf7d1717ff3a9b2b,Südstadt-Bult,Bult
+701,Schönwalds im LaSall,Café,52.36170837520807,9.7594998920125,4b7070fbf964a520971a2de3,Südstadt-Bult,Bult
+702,Baba,Falafel Restaurant,52.36433283116797,9.75713902139282,4b6f17fdf964a5207bdc2ce3,Südstadt-Bult,Bult
+703,Café Extrablatt,Café,52.357854143651736,9.767169179411047,584bdbe4d25ded7db6a1262f,Südstadt-Bult,Bult
+704,Aral,Gas Station,52.35786338,9.76818666,4c0490a439d476b0eab431a7,Südstadt-Bult,Bult
+705,REWE CITY,Supermarket,52.35975905,9.75722286,4e6651aa81301b932312f1c6,Südstadt-Bult,Bult
+706,Buongiorno,Italian Restaurant,52.362406,9.758687,4bfbf258d2b720a12c9b336a,Südstadt-Bult,Bult
+707,Alnatura,Organic Grocery,52.36149581912073,9.764237172562714,517152fee4b086c56fc9f44a,Südstadt-Bult,Bult
+708,Goldfisch,Cocktail Bar,52.36471619776797,9.756880349562016,4b6f15d0f964a520e5db2ce3,Südstadt-Bult,Bult
+709,Sofa LOFT,Furniture / Home Store,52.359915130032256,9.765248063122382,4baddda4f964a520746e3be3,Südstadt-Bult,Bult
+710,Rudolf-Kalweit-Stadion,Soccer Field,52.362664025661815,9.779982433527575,4db2cc56fa8c350240bd336e,Südstadt-Bult,Bult
+711,LTG Tankstelle,Gas Station,52.35870644343483,9.770424606853878,4be6632c910020a14d52d414,Südstadt-Bult,Bult
+712,BackWerk,Bakery,52.35719928631698,9.75926043056856,4d8849cc5ecdf04d5807938a,Südstadt-Bult,Bult
+713,Hol Ab! Getränkemarkt,Liquor Store,52.365832729452485,9.761478137616647,4c1cc4fcb9f876b06b607c46,Südstadt-Bult,Bult
+714,Petros,Greek Restaurant,52.3652973,9.772687554359436,4c1145806e5dc9b6e1d1af2d,Südstadt-Bult,Bult
+715,H Kinderkrankenhaus auf der Bult,Tram Station,52.362615087018796,9.77749207543336,4db143ce4df03036e8ca71ca,Südstadt-Bult,Bult
+716,H Heinrich-Heine-Straße,Bus Stop,52.360199975656315,9.763933895693926,4e3f4ed41838cb1b830a967f,Südstadt-Bult,Bult
+717,Geibelplatz,Plaza,52.362638085431975,9.762889879315077,4da2e842b3e7236ac1dc2679,Südstadt-Bult,Bult
+718,Alte Bult,Field,52.35843545310866,9.776222705841064,4d7cc4e1da568cfa96206cff,Südstadt-Bult,Bult
+719,SV Arminia Hannover e.V.,Sports Club,52.36416800761176,9.778980612679998,4c5d55e07735c9b671b18e72,Südstadt-Bult,Bult
+720,EASYFITNESS Hannover Südstadt,Gym / Fitness Center,52.365657,9.762898,56f183c7498e79133ed9b7a7,Südstadt-Bult,Bult
+721,Göing,Bakery,52.361773276170794,9.759232980157703,4d07149b9d33a1432b00ca78,Südstadt-Bult,Bult
+722,Gerstenkorn,Bowling Alley,52.36532687913018,9.759707025359369,4ec7d27de5fa232a758b8e23,Südstadt-Bult,Bult
+723,Sallplatz,Plaza,52.361341315484175,9.757901473772554,4f46258ae4b0ab39f539d5d0,Südstadt-Bult,Bult
+724,Döner King,Doner Restaurant,52.34493624294484,9.762897491455078,4b585b21f964a520285428e3,Döhren-Wülfel,Waldhausen
+725,Lidl,Supermarket,52.3440453,9.7639444,4cc2c1b242d1b60c19681213,Döhren-Wülfel,Waldhausen
+726,dm-drogerie markt,Drugstore,52.3441022,9.7646503,4d9ddadb7958f04d26491ffa,Döhren-Wülfel,Waldhausen
+727,Das AbendMahl,Italian Restaurant,52.344019,9.763559,4cd6f2da7da9a35ddd3df2b9,Döhren-Wülfel,Waldhausen
+728,Restaurant „Die Insel“,German Restaurant,52.343424283811835,9.754828757343903,4b900260f964a520d66f33e3,Döhren-Wülfel,Waldhausen
+729,Aspria Hannover Maschsee,Gym / Fitness Center,52.34273066140017,9.75386381149292,4c8498e08ce59c74305c88b0,Döhren-Wülfel,Waldhausen
+730,Miss Saigon,Asian Restaurant,52.345667640928326,9.7622352536564,4c3616c7dfb0e21e9078aaa8,Döhren-Wülfel,Waldhausen
+731,Rossmann,Drugstore,52.3383614748882,9.7689769396481,4f6d9379e4b0e0075ab078ea,Döhren-Wülfel,Waldhausen
+732,Döhrener Turm,Historic Site,52.34694120298111,9.760633707046509,4bf54579ff90c9b63b235628,Döhren-Wülfel,Waldhausen
+733,Bowling am Maschsee,Bowling Alley,52.34256000000001,9.76013,4cd2fcd34aa9f04d2b515acb,Döhren-Wülfel,Waldhausen
+734,Ristorante da Vinci,Italian Restaurant,52.34161400081584,9.765518521084177,4b8e37faf964a520c31b33e3,Döhren-Wülfel,Waldhausen
+735,Vier Jahreszeiten,German Restaurant,52.34686707418537,9.76129286502393,4b632219f964a52071652ae3,Döhren-Wülfel,Waldhausen
+736,Strandbad Maschsee,Beach,52.34317147070516,9.754105611032019,4e142f2445dd91b5f72c6c6a,Döhren-Wülfel,Waldhausen
+737,Atrium Fitness Hannover,Gym,52.34451622652169,9.767482447232624,4ead4610722eefae845d7565,Döhren-Wülfel,Waldhausen
+738,J's Sports & Health Club,Gym / Fitness Center,52.343800850710096,9.765478910202125,4e661111e4cdf1e2c0d1651f,Döhren-Wülfel,Waldhausen
+739,Sapori Italiani,Italian Restaurant,52.3395869849904,9.76710319519043,4d6fe08127316ea8f982b6aa,Döhren-Wülfel,Waldhausen
+740,Döhrener Markt,Farmers Market,52.34001322313568,9.763600625723155,555216db498ee536fa75a549,Döhren-Wülfel,Waldhausen
+741,Café KostBar,Café,52.33959517887292,9.764404892921448,518a0103498eada1433ba7fa,Döhren-Wülfel,Waldhausen
+742,Fiedelerplatz,Plaza,52.339739,9.763588,4baccee8f964a520f30d3be3,Döhren-Wülfel,Waldhausen
+743,EDEKA Wucherpfennig,Supermarket,52.3386136,9.7664408,4f27ed72e4b0d4bbe52be42e,Döhren-Wülfel,Waldhausen
+744,Delphi,Greek Restaurant,52.33787579592849,9.769280033184362,4d6d43bc183a236a2e5f5e3a,Döhren-Wülfel,Waldhausen
+745,H Liebrechtstraße,Bus Stop,52.351169502080346,9.773435930167897,5080d094e4b0ba1a306f0cf8,Döhren-Wülfel,Waldhausen
+746,Back for you,Bakery,52.337352858183124,9.769430058080772,53ca5cc5498e5c3c5e53cd1a,Döhren-Wülfel,Waldhausen
+747,83 Seaside,Restaurant,52.342562903249366,9.753069877624512,4dbab7aaa86ede8c0fa08139,Döhren-Wülfel,Waldhausen
+748,Netto City,Supermarket,52.3360694,9.7698085,4b9a69d0f964a5203db335e3,Döhren-Wülfel,Waldhausen
+749,Haltestelle Eupener Strasse,Bus Stop,52.34325660587766,9.78188201573027,505efb1ae4b0533a72560c14,Döhren-Wülfel,Waldheim
+750,H Liebrechtstraße,Bus Stop,52.351169502080346,9.773435930167897,5080d094e4b0ba1a306f0cf8,Döhren-Wülfel,Waldheim
+751,Seelhorster Kreuz,Intersection,52.35040869535071,9.793036251366921,4ec9d7fc5c5ce271c060337a,Döhren-Wülfel,Waldheim
+752,Hotel Hubertus,Hotel,52.34953390561653,9.769329407950906,4bd09b771f89ce7292ba67ea,Döhren-Wülfel,Waldheim
+753,Pizzeria Gentilli,Pizza Place,52.33284462601719,9.773133034160075,50520d15e4b01a2792d1c86f,Döhren-Wülfel,Döhren
+754,Rossmann,Drugstore,52.3383614748882,9.7689769396481,4f6d9379e4b0e0075ab078ea,Döhren-Wülfel,Döhren
+755,Lidl,Supermarket,52.3440453,9.7639444,4cc2c1b242d1b60c19681213,Döhren-Wülfel,Döhren
+756,Rossmann,Drugstore,52.33584092293364,9.77338638942928,503fbd0c7e2752ec471b58ba,Döhren-Wülfel,Döhren
+757,dm-drogerie markt,Drugstore,52.3441022,9.7646503,4d9ddadb7958f04d26491ffa,Döhren-Wülfel,Döhren
+758,Das AbendMahl,Italian Restaurant,52.344019,9.763559,4cd6f2da7da9a35ddd3df2b9,Döhren-Wülfel,Döhren
+759,Ristorante da Vinci,Italian Restaurant,52.34161400081584,9.765518521084177,4b8e37faf964a520c31b33e3,Döhren-Wülfel,Döhren
+760,Bowling am Maschsee,Bowling Alley,52.34256000000001,9.76013,4cd2fcd34aa9f04d2b515acb,Döhren-Wülfel,Döhren
+761,Donau Grill,Mediterranean Restaurant,52.3293165241277,9.776358960404565,4b26c489f964a5209f8024e3,Döhren-Wülfel,Döhren
+762,REWE,Supermarket,52.33518234,9.77371281,4b9a690df964a520f3b235e3,Döhren-Wülfel,Döhren
+763,Wang,Chinese Restaurant,52.333506,9.762799,4cb2f02e39458cfa758316a0,Döhren-Wülfel,Döhren
+764,Ouzeri,Greek Restaurant,52.33143171,9.77490726,4c3f6581d691c9b69bac890a,Döhren-Wülfel,Döhren
+765,Freizeitheim Döhren,Recreation Center,52.33509624332121,9.772062199611094,4e05b31fe4cdefcff6d0cf2e,Döhren-Wülfel,Döhren
+766,Medimax,Electronics Store,52.33595147108674,9.77333576656249,4bf14de63f252d7f41549771,Döhren-Wülfel,Döhren
+767,EDEKA Wucherpfennig,Supermarket,52.3386136,9.7664408,4f27ed72e4b0d4bbe52be42e,Döhren-Wülfel,Döhren
+768,Sapori Italiani,Italian Restaurant,52.3395869849904,9.76710319519043,4d6fe08127316ea8f982b6aa,Döhren-Wülfel,Döhren
+769,Restaurant Titus,French Restaurant,52.33359930875893,9.763161620809742,4bbb8db2afe1b71378572f4b,Döhren-Wülfel,Döhren
+770,Café KostBar,Café,52.33959517887292,9.764404892921448,518a0103498eada1433ba7fa,Döhren-Wülfel,Döhren
+771,il mio sogno,Italian Restaurant,52.33934,9.763416,50ae6e53e4b082345644c101,Döhren-Wülfel,Döhren
+772,Döhrener Markt,Farmers Market,52.34001322313568,9.763600625723155,555216db498ee536fa75a549,Döhren-Wülfel,Döhren
+773,Göing,Bakery,52.339901,9.762957,4cb00478562d224b22301388,Döhren-Wülfel,Döhren
+774,H Wiehbergstraße,Tram Station,52.328791924724115,9.776655957728982,4e038d41fa760072401a9661,Döhren-Wülfel,Döhren
+775,Atrium Fitness Hannover,Gym,52.34451622652169,9.767482447232624,4ead4610722eefae845d7565,Döhren-Wülfel,Döhren
+776,Bosporus,Snack Place,52.33457792907317,9.798716646889414,512f54d0e4b01d8d1fd7142c,Döhren-Wülfel,Seelhorst
+777,Seelhorst,Forest,52.34338878338363,9.804182052612305,515590a4e4b065694586d95d,Döhren-Wülfel,Seelhorst
+778,H Stadtfriedhof Seelhorst,Tram Station,52.33518173393839,9.791715145111084,4c6704f79cedd13a876d77a1,Döhren-Wülfel,Seelhorst
+779,H Am Mittelfelde,Tram Station,52.334768,9.7978,56e7e1da498e7a17302c8746,Döhren-Wülfel,Seelhorst
+780,Restaurant & Cafe Korthaus,Restaurant,52.334858,9.790498,52bac4d4498e512c4d8e0d17,Döhren-Wülfel,Seelhorst
+781,Haltestelle Eupener Strasse,Bus Stop,52.34325660587766,9.78188201573027,505efb1ae4b0533a72560c14,Döhren-Wülfel,Seelhorst
+782,Seelhorster Kreuz,Intersection,52.35040869535071,9.793036251366921,4ec9d7fc5c5ce271c060337a,Döhren-Wülfel,Seelhorst
+783,Pizzeria Gentilli,Pizza Place,52.33284462601719,9.773133034160075,50520d15e4b01a2792d1c86f,Döhren-Wülfel,Wülfel
+784,escaladrome BLOC:WERK,Climbing Gym,52.328898899137876,9.783709244936393,4b607bb3f964a520c8e829e3,Döhren-Wülfel,Wülfel
+785,Soccer Park Hannover,Soccer Field,52.33055637190719,9.782964963870253,4bace720f964a52099173be3,Döhren-Wülfel,Wülfel
+786,Rossmann,Drugstore,52.3383614748882,9.7689769396481,4f6d9379e4b0e0075ab078ea,Döhren-Wülfel,Wülfel
+787,Rossmann,Drugstore,52.33584092293364,9.77338638942928,503fbd0c7e2752ec471b58ba,Döhren-Wülfel,Wülfel
+788,Wienecke XI. Brauereigaststätte,Gastropub,52.32756784650968,9.77772388092243,4fe8b1aae4b0176e6a468617,Döhren-Wülfel,Wülfel
+789,Donau Grill,Mediterranean Restaurant,52.3293165241277,9.776358960404565,4b26c489f964a5209f8024e3,Döhren-Wülfel,Wülfel
+790,REWE,Supermarket,52.3306249,9.787956,50e3d15ae4b05f45b45e1e75,Döhren-Wülfel,Wülfel
+791,Wülfeler Biergarten,Beer Garden,52.32770264119787,9.776804319003439,4c01662358dbc928ec47ee6b,Döhren-Wülfel,Wülfel
+792,Ouzeri,Greek Restaurant,52.33143171,9.77490726,4c3f6581d691c9b69bac890a,Döhren-Wülfel,Wülfel
+793,REWE,Supermarket,52.33518234,9.77371281,4b9a690df964a520f3b235e3,Döhren-Wülfel,Wülfel
+794,Rübezahlplatz,Plaza,52.33353406491109,9.78987823681993,4e9560b6f5b90ceed05c8f32,Döhren-Wülfel,Wülfel
+795,Medimax,Electronics Store,52.33595147108674,9.77333576656249,4bf14de63f252d7f41549771,Döhren-Wülfel,Wülfel
+796,Restaurant & Cafe Korthaus,Restaurant,52.334858,9.790498,52bac4d4498e512c4d8e0d17,Döhren-Wülfel,Wülfel
+797,Freizeitheim Döhren,Recreation Center,52.33509624332121,9.772062199611094,4e05b31fe4cdefcff6d0cf2e,Döhren-Wülfel,Wülfel
+798,H Stadtfriedhof Seelhorst,Tram Station,52.33518173393839,9.791715145111084,4c6704f79cedd13a876d77a1,Döhren-Wülfel,Wülfel
+799,Bed'nBudget,Hostel,52.327783070120134,9.77786444715423,4dca744f31510397611233f8,Döhren-Wülfel,Wülfel
+800,Steinecke,Bakery,52.32997434340107,9.787679560871062,50e3d2cbe4b0454c7b0a8803,Döhren-Wülfel,Wülfel
+801,Bäckerei Heiser,Bakery,52.3333046046536,9.792800422599157,4c0dd705d64c0f47855b275d,Döhren-Wülfel,Wülfel
+802,H Wiehbergstraße,Tram Station,52.328791924724115,9.776655957728982,4e038d41fa760072401a9661,Döhren-Wülfel,Wülfel
+803,Mobiler-Crepe,Miscellaneous Shop,52.34233,9.779099999999971,55f7471e498e8fb9df6421ce,Döhren-Wülfel,Wülfel
+804,DJ Service Hannover,Miscellaneous Shop,52.34233,9.779099999999971,55fc9a6f498e81836a14449b,Döhren-Wülfel,Wülfel
+805,Hannover-Whisky,Liquor Store,52.32873099895395,9.788411793422487,545b75b8498e24e65e3cf8c3,Döhren-Wülfel,Wülfel
+806,ALDI NORD,Supermarket,52.32733336158943,9.782440476076504,51018616e4b01e6ecff11962,Döhren-Wülfel,Wülfel
+807,Haltestelle Eupener Strasse,Bus Stop,52.34325660587766,9.78188201573027,505efb1ae4b0533a72560c14,Döhren-Wülfel,Wülfel
+808,Designhotel Wienecke XI. Hannover,Hotel,52.327209706142646,9.777327465088623,4d0a557786b0236a75d0b806,Döhren-Wülfel,Wülfel
+809,Aral,Gas Station,52.32964144,9.81225302,50006d19e4b0fbfbe8d905f3,Döhren-Wülfel,Mittelfeld
+810,Bosporus,Snack Place,52.33457792907317,9.798716646889414,512f54d0e4b01d8d1fd7142c,Döhren-Wülfel,Mittelfeld
+811,Münchner Halle,Bavarian Restaurant,52.32730111245756,9.811519035242453,5138bc9be4b071615a0df2ab,Döhren-Wülfel,Mittelfeld
+812,Lidl,Supermarket,52.3381913,9.8132746,4c793ea2566db60cc228440e,Döhren-Wülfel,Mittelfeld
+813,H Messe/Nord,Tram Station,52.327641967786214,9.804246425628662,4d6d0478cb7a8cfa29a15879,Döhren-Wülfel,Mittelfeld
+814,Hubschrauber-Landeplatz Messe Hannover,Heliport,52.33031709278928,9.80777621269226,4e758ef162e126351679eaf1,Döhren-Wülfel,Mittelfeld
+815,H Am Mittelfelde,Tram Station,52.334768,9.7978,56e7e1da498e7a17302c8746,Döhren-Wülfel,Mittelfeld
+816,Aussteller Service Center,Event Service,52.327144,9.805169,4f575b2de4b04e88c17eaf17,Döhren-Wülfel,Mittelfeld
+817,The Burger Shop,Burger Joint,52.32619943128839,9.810104370117188,587b7049cc05d15ae407ce2c,Döhren-Wülfel,Mittelfeld
+818,Seelhorst,Forest,52.34338878338363,9.804182052612305,515590a4e4b065694586d95d,Döhren-Wülfel,Mittelfeld
+819,BeneFit Fitness & Wellness,Gym / Fitness Center,52.348256102479134,9.668348018986746,51028df8e4b0c4c529053c15,Ricklingen,Bornum
+820,Restaurant Poreč-Grill,Eastern European Restaurant,52.34408440361068,9.672911380335641,50a679f1498e538a8f0dbc15,Ricklingen,Bornum
+821,Raute,Bakery,52.35550647249722,9.671493172645569,4bf8a9f95ec320a1603b89d3,Ricklingen,Bornum
+822,dm-drogerie markt,Drugstore,52.3597135154578,9.678788160713225,4d90c0a01716a143641e69f7,Ricklingen,Bornum
+823,REWE,Supermarket,52.35516315340511,9.669194441309628,51b2232eabd8e472cca1275d,Ricklingen,Bornum
+824,EDEKA Center Cramer,Supermarket,52.3445076,9.670862999999999,4e9c5b879adf277db86d2e1b,Ricklingen,Bornum
+825,McDonald's,Fast Food Restaurant,52.3486712721131,9.690352712540527,4bb6778cf562ef3b40363097,Ricklingen,Bornum
+826,S Hannover-Bornum,Light Rail Station,52.350834117295186,9.680328369140625,4bae19b0f964a52019843be3,Ricklingen,Bornum
+827,Kaufland,Big Box Store,52.35196128830456,9.693006776899175,58c6a28393eaf85f3c0b1e5d,Ricklingen,Bornum
+828,Hotel Am Lindenhof,Hotel,52.349369,9.687666,5262c209498eab638c5efd90,Ricklingen,Bornum
+829,H Safariweg,Tram Station,52.351072785995335,9.672258728173622,4c96430a94a0236ad44b9d12,Ricklingen,Bornum
+830,Badenstedter SC,Sports Club,52.356868062727436,9.683920906218109,50746212e4b095d925b61778,Ricklingen,Bornum
+831,H Eichenfeldstraße,Tram Station,52.35553606795766,9.671273058819688,4c98a59ab6ee236a66a3a9a7,Ricklingen,Bornum
+832,H Am Soltekampe,Tram Station,52.3577815187861,9.675109018594267,4e29bc1a483bb05f058b95ff,Ricklingen,Bornum
+833,Ententeich Mühlenberg,Lake,52.34317903750938,9.675908088684082,541050b6498e9db793f27dd8,Ricklingen,Bornum
+834,familia,Big Box Store,52.3519366662186,9.693968316966487,4e8571355503b4de73300ea9,Ricklingen,Bornum
+835,METRO Cash & Carry,Big Box Store,52.3504892,9.6942873,4e57917be4cd6acbd75cffde,Ricklingen,Bornum
+836,Rick's,Bistro,52.34229031498046,9.724531467268104,4d24cc9e836f5481f12446f7,Ricklingen,Ricklingen
+837,Rossini Gastronomie,Gourmet Shop,52.33904467297568,9.71826401890024,4fd33e80e4b0352ac41259a1,Ricklingen,Ricklingen
+838,EDEKA Center Wucherpfennig,Supermarket,52.34531171,9.71811178,4b78f332f964a52023e72ee3,Ricklingen,Ricklingen
+839,dm-drogerie markt,Drugstore,52.343776643781084,9.718423518751706,4eeb8b8830f81a645c636c06,Ricklingen,Ricklingen
+840,Lidl,Supermarket,52.3370636,9.7181924,4b78f690f964a52082e72ee3,Ricklingen,Ricklingen
+841,Rossmann,Drugstore,52.341644566341834,9.718716718508777,4ee0ef0ebe7b7e4d12e5d17a,Ricklingen,Ricklingen
+842,Rossmann,Drugstore,52.3473687366969,9.723860544466293,503fbd0c7e2752ec471b580c,Ricklingen,Ricklingen
+843,Aral,Gas Station,52.34596551630672,9.717070607387846,4d558c47143ca09307adb0fc,Ricklingen,Ricklingen
+844,A&N Sonnenschutz,Construction & Landscaping,52.3430747,9.726426800000013,5775368b498e9116b791489e,Ricklingen,Ricklingen
+845,Landwehrkreisel,Intersection,52.338333098227004,9.72047433257103,4ec1fd495c5c3d470db56527,Ricklingen,Ricklingen
+846,Öz Antalya Kebap,Falafel Restaurant,52.34653610174684,9.724226618360122,4bfd1125f7c82d7f80938d04,Ricklingen,Ricklingen
+847,Jasmin,Chinese Restaurant,52.34661377381705,9.723339251510348,4eb549e5dab4fe511191ea37,Ricklingen,Ricklingen
+848,Ricklinger Gasthaus,German Restaurant,52.339257779675044,9.71691404905289,4fc90158e4b07b99f08b9238,Ricklingen,Ricklingen
+849,H Schünemannplatz,Tram Station,52.347451391385846,9.723827680889242,4cb4608e562d224b54c33388,Ricklingen,Ricklingen
+850,ALDI NORD,Supermarket,52.33682130797843,9.71800894453233,4b78f647f964a5207be72ee3,Ricklingen,Ricklingen
+851,Großer Ricklinger Teich,Lake,52.339990736744994,9.739113673567772,4c2de9b83a4d0f476695e486,Ricklingen,Ricklingen
+852,Ricklinger Kreisel,Intersection,52.346659294193756,9.719322522836709,4d8b5f90bc848cfa84e4ee2b,Ricklingen,Ricklingen
+853,Bizim Markt,Food & Drink Shop,52.34529806191481,9.71719586098207,5481d8be498e1787e8f62d42,Ricklingen,Ricklingen
+854,Ricklinger Holz,Forest,52.33328052278609,9.730668067932129,4f943a13e4b0e29f55769941,Ricklingen,Ricklingen
+855,Rossini Gastronomie,Gourmet Shop,52.33904467297568,9.71826401890024,4fd33e80e4b0352ac41259a1,Ricklingen,Oberricklingen
+856,EDEKA Center Wucherpfennig,Supermarket,52.34531171,9.71811178,4b78f332f964a52023e72ee3,Ricklingen,Oberricklingen
+857,REWE,Supermarket,52.34094712867482,9.693556309192672,5410a27f498e1fb707a5ff83,Ricklingen,Oberricklingen
+858,Lidl,Supermarket,52.3370636,9.7181924,4b78f690f964a52082e72ee3,Ricklingen,Oberricklingen
+859,dm-drogerie markt,Drugstore,52.343776643781084,9.718423518751706,4eeb8b8830f81a645c636c06,Ricklingen,Oberricklingen
+860,Rossmann,Drugstore,52.341644566341834,9.718716718508777,4ee0ef0ebe7b7e4d12e5d17a,Ricklingen,Oberricklingen
+861,Rossmann,Drugstore,52.34042594229509,9.69321975612103,540d5815498e51f0a53e227f,Ricklingen,Oberricklingen
+862,Lidl,Supermarket,52.337515,9.693031,4ed11277775bbb5f33a69358,Ricklingen,Oberricklingen
+863,Aral,Gas Station,52.34596551630672,9.717070607387846,4d558c47143ca09307adb0fc,Ricklingen,Oberricklingen
+864,H Am Sauerwinkel,Tram Station,52.341373913713596,9.70212409253322,4f846ccbe4b0d7b7e673da13,Ricklingen,Oberricklingen
+865,H Bartold-Knaust Straße,Tram Station,52.3420248880115,9.710002411801849,51589204e4b0226abb0738f4,Ricklingen,Oberricklingen
+866,Ricklinger Gasthaus,German Restaurant,52.339257779675044,9.71691404905289,4fc90158e4b07b99f08b9238,Ricklingen,Oberricklingen
+867,Rossini,Wine Shop,52.347946,9.708928,5d248523c1959800230bbda0,Ricklingen,Oberricklingen
+868,H Mühlenberger Markt,Tram Station,52.34114417498859,9.69344822009536,54082fc6498eb58d4b3cf24a,Ricklingen,Oberricklingen
+869,Raute Backstube im Lidl,Bakery,52.33736528137077,9.693855600916178,50e5d41be4b04e9b0cca7b51,Ricklingen,Oberricklingen
+870,Göing,Bakery,52.33983643690585,9.692699895617938,501fbf0ae4b04a79196ed37c,Ricklingen,Oberricklingen
+871,Tönniesbergkreisel,Intersection,52.34756880105981,9.698869282621594,534cdca3498e3674d5051873,Ricklingen,Oberricklingen
+872,Bizim Markt,Food & Drink Shop,52.34529806191481,9.71719586098207,5481d8be498e1787e8f62d42,Ricklingen,Oberricklingen
+873,ALDI NORD,Supermarket,52.33682130797843,9.71800894453233,4b78f647f964a5207be72ee3,Ricklingen,Oberricklingen
+874,Antalya Kebap,Turkish Restaurant,52.340264,9.691743,4dce85c2fa7664b7c6a93085,Ricklingen,Oberricklingen
+875,Lütjer Kreuger,German Restaurant,52.38002656840387,9.48595762292575,4faf8c32e4b06952dfdeea64,Ricklingen,Mühlenberg
+876,NP-Markt Hannover - Wettbergen,Supermarket,52.32911064,9.6911526,58745fffe7535634613d945b,Ricklingen,Wettbergen
+877,REWE,Supermarket,52.328801894707105,9.70510539937737,515deb82e4b09c75b74385f8,Ricklingen,Wettbergen
+878,Lidl,Supermarket,52.337515,9.693031,4ed11277775bbb5f33a69358,Ricklingen,Wettbergen
+879,Herzensbäcker Künne,Bakery,52.329382,9.691326,5262337a11d29e2c2394dc69,Ricklingen,Wettbergen
+880,Landbäckerei Krause,Bakery,52.328662,9.691035,5699e8d4498e38b72bec73d4,Ricklingen,Wettbergen
+881,H Wettbergen,Tram Station,52.33296989007552,9.69064753598201,4c61131f832fa593c435f1d3,Ricklingen,Wettbergen
+882,Bettina Schneider - Body Spirit Yoga und Theta Healing,Yoga Studio,52.32629787,9.68837679,5e5687fc0599aa0008f16b6c,Ricklingen,Wettbergen
+883,moringafarm GmbH,Health Food Store,52.325213,9.690777,5464ddee498eb0c8aa46a6b6,Ricklingen,Wettbergen
+884,Meier's Gasthaus,German Restaurant,52.327583710807765,9.685257699137042,4bfaacb3b182c9b67aa97a5a,Ricklingen,Wettbergen
+885,H Tresckowstraße,Tram Station,52.33613283080674,9.691094032661823,4dbd6e8f815439392faf6aa4,Ricklingen,Wettbergen
+886,Raute Backstube im Lidl,Bakery,52.33736528137077,9.693855600916178,50e5d41be4b04e9b0cca7b51,Ricklingen,Wettbergen
+887,TuS Wettbergen,Sports Club,52.32329947839655,9.699757355121736,4fe5b07ce4b045277eea5605,Ricklingen,Wettbergen
+888,Calenberger Landterrassen,German Restaurant,52.33829971,9.68619622,5da054519766eb0008981b31,Ricklingen,Wettbergen
+889,Lindwurm,Bar,52.37461967869214,9.709900858048222,5156d77fe4b028505df09ad9,Linden-Limmer,Linden-Nord
+890,Doppelkorn Bio Bäckerei,Bakery,52.373925761831174,9.706109084447368,4be165afea6e20a18cfb9267,Linden-Limmer,Linden-Nord
+891,Apollo,Optical Shop,52.37406900975333,9.707066191039985,4c2ba9e9d1a10f471e4df864,Linden-Limmer,Linden-Nord
+892,Lamara,Creperie,52.373309973790306,9.707520604133606,50a8d774e4b0785850734ef3,Linden-Limmer,Linden-Nord
+893,Menagerie,Breakfast Spot,52.375559,9.704108,4c70fda4d97fa143e3aef7ca,Linden-Limmer,Linden-Nord
+894,Café BAR,Café,52.372654935120735,9.709886583086845,4c4abdcb5609c9b66cc61f90,Linden-Limmer,Linden-Nord
+895,Das kleine Museum,Pub,52.37233313037633,9.70742811386283,4dc0634281545e1cc7e39ee8,Linden-Limmer,Linden-Nord
+896,Street Kitchen Viet Cuisine,Vietnamese Restaurant,52.372735958698485,9.709700064802842,4c0fe794f1b6a593ce097b27,Linden-Limmer,Linden-Nord
+897,EDEKA Wucherpfennig,Supermarket,52.3744872,9.7057895,4c7f7613171b224b45c910b1,Linden-Limmer,Linden-Nord
+898,Strandleben,Beach Bar,52.37719730381999,9.713121951347249,4dc92789ae60385d1115385a,Linden-Limmer,Linden-Nord
+899,Biergarten Gretchen,Beer Garden,52.37693391108346,9.711524339412408,4c250632b7b8a5933d803de8,Linden-Limmer,Linden-Nord
+900,Francesca & Fratelli,Pizza Place,52.37345256443237,9.707483545417848,5425a8bf498ecea0c876d704,Linden-Limmer,Linden-Nord
+901,Bar Anejo,Bar,52.37384016055341,9.708903263218225,4cdde26294c3b60ca5d461ea,Linden-Limmer,Linden-Nord
+902,Lindener Bäckerei,Bakery,52.376888160812186,9.704634894172884,4d8dbd64cb9b224b66327341,Linden-Limmer,Linden-Nord
+903,IhmeRauschen,Wine Bar,52.37074917542834,9.713406073404476,4bdc9e53c79cc928a36287e9,Linden-Limmer,Linden-Nord
+904,O'Atlantico,Spanish Restaurant,52.37113176722991,9.706387556621584,4c263a30c11dc9b6218b2824,Linden-Limmer,Linden-Nord
+905,CORNER,Breakfast Spot,52.37288,9.706377,5b390aff25ecca002c78dd73,Linden-Limmer,Linden-Nord
+906,11a,German Restaurant,52.370506570955015,9.713469414896228,4b8967caf964a520163332e3,Linden-Limmer,Linden-Nord
+907,60er-Jahre-Halle,Rock Club,52.37666396731641,9.711070511860072,4cf044ce7bf3b60ca583587f,Linden-Limmer,Linden-Nord
+908,Mr. Thang,Asian Restaurant,52.373865,9.707209,4ce83f12e1eeb60cb329a2ae,Linden-Limmer,Linden-Nord
+909,Bistro bei Jacqueline,Café,52.37181702505902,9.712327654233814,4d1878e7cc216ea8454176d3,Linden-Limmer,Linden-Nord
+910,Nature's Food,Health Food Store,52.37497611352806,9.702711173630368,4d7e5c2c555c5941806ed077,Linden-Limmer,Linden-Nord
+911,Eismanufaktur Frioli,Ice Cream Shop,52.368237950754725,9.71451954727639,4fd32c49e4b0aa9a72193183,Linden-Limmer,Linden-Nord
+912,Pizza Günes,Pizza Place,52.376748405307026,9.711016184471058,5027b8c1e4b0352ef999266f,Linden-Limmer,Linden-Nord
+913,Kaffeebar Rossi,Café,52.37481588831058,9.694337173854176,4c601f15de6920a10f369564,Linden-Limmer,Linden-Nord
+914,Duke Burger,Burger Joint,52.371255,9.712646,5884e34838730349af2d4a4b,Linden-Limmer,Linden-Nord
+915,Das Ei,German Restaurant,52.371009307396406,9.71132754490199,4be5bc9dcf200f47fea4133c,Linden-Limmer,Linden-Nord
+916,MarktCafé,Café,52.367358391761904,9.71420131623745,4bb7174446d4a593d716c7c0,Linden-Limmer,Linden-Nord
+917,Notre Dame,Gastropub,52.37430298506734,9.704929484804106,4c1e01f463750f47c712b967,Linden-Limmer,Linden-Nord
+918,El Hadi,Falafel Restaurant,52.373852968082936,9.706496351907592,4c127e2e8aedd13a944d5137,Linden-Limmer,Linden-Nord
+919,Der Nachbarin Café,Café,52.375879,9.710468,55f56925498e38dafc8173a2,Linden-Limmer,Linden-Nord
+920,CampusFit,College Rec Center,52.37929447122708,9.713314717911997,537f93dc498e54e075c2c01d,Linden-Limmer,Linden-Nord
+921,Mephisto,Nightclub,52.376451334310566,9.711026108403445,4b7af7ebf964a52014492fe3,Linden-Limmer,Linden-Nord
+922,Wochenmarkt Pfarrlandplatz,Farmers Market,52.37559161937762,9.707113291903987,50e7f1dde4b098a1e25880a9,Linden-Limmer,Linden-Nord
+923,Béi Chéz Heinz,Nightclub,52.37197882714583,9.696673315107041,4b4de46bf964a52051da26e3,Linden-Limmer,Linden-Nord
+924,Lindenblatt Grill-Garten,Steakhouse,52.372484161869046,9.710322533660856,527d3bbf498e6cd0c8c2db1a,Linden-Limmer,Linden-Nord
+925,und der böse Wolf,Pub,52.36761853691269,9.715712070465088,4b56ec67f964a5206c1f28e3,Linden-Limmer,Linden-Nord
+926,Pizzeria Parma,Italian Restaurant,52.372716162923155,9.709691149315628,4e6527f51f6ef7d07bde4ffd,Linden-Limmer,Linden-Nord
+927,Café Safran,Café,52.3740931599467,9.718944665439366,4b81a131f964a520e4b330e3,Linden-Limmer,Linden-Nord
+928,Restaurant Zwiespalt,German Restaurant,52.36697465787527,9.712428662526484,4bc73b9092b376b0c1454f3a,Linden-Limmer,Linden-Nord
+929,Jalda,Persian Restaurant,52.375209677102774,9.701310202458778,4c98ff0005a1b1f70e569253,Linden-Limmer,Linden-Nord
+930,Café K,Café,52.367352020012866,9.710864574946326,4c557bdef5f3d13a5da4d9fb,Linden-Limmer,Linden-Nord
+931,Antalya Kebap,Turkish Restaurant,52.36726900038827,9.708134276680388,4c780cb393ef236a8dedaa0f,Linden-Limmer,Linden-Nord
+932,Am Küchengarten,Plaza,52.37083068892153,9.714124202728271,4b87e018f964a52096d031e3,Linden-Limmer,Linden-Nord
+933,WASCHweiber,Laundromat,52.371353936608536,9.713150609869922,4bf91dda5efe2d7fe5b66b34,Linden-Limmer,Linden-Nord
+934,Cafe Glocksee,Rock Club,52.37169452964308,9.720481600131537,4b8aca51f964a520318132e3,Linden-Limmer,Linden-Nord
+935,Havana Cuba-Linden,Cocktail Bar,52.3733766605183,9.70979731673984,4bb61fbf6edc76b0ca6c301c,Linden-Limmer,Linden-Nord
+936,Centrum,Bar,52.367140705504845,9.714365384692623,4b86caedf964a520bc9d31e3,Linden-Limmer,Linden-Nord
+937,Restaurant Plenum,Indian Restaurant,52.36684485498441,9.71246180973497,4d85157999b78cfa34f1c61f,Linden-Limmer,Linden-Nord
+938,Fischers,Mexican Restaurant,52.37354445539977,9.707092701622798,4b8eb9e7f964a520683333e3,Linden-Limmer,Linden-Nord
+939,Rossmann,Drugstore,52.372079,9.710837,5a218de3e179100e04907426,Linden-Limmer,Linden-Nord
+940,Flohmarkt Faustgelände,Flea Market,52.37616709981925,9.710761934370678,4e6352b01f6ef7d07b158d98,Linden-Limmer,Linden-Nord
+941,REWE,Supermarket,52.37685675302521,9.693246108958306,54133570498efefba0b9f886,Linden-Limmer,Linden-Nord
+942,Fössebad,Pool,52.37187236336282,9.696476358792212,4d76a64546a8b60c8dda3a2a,Linden-Limmer,Linden-Nord
+943,Café Kalah,Café,52.37308176542163,9.706676063155458,4ce2ba07db12548116e448ce,Linden-Limmer,Linden-Nord
+944,REWE,Supermarket,52.3717121,9.7129471,4cbdce5d4495721ed990617a,Linden-Limmer,Linden-Nord
+945,Istanbul Kebap,Turkish Restaurant,52.37237636072141,9.710518543986764,4c73ee853adda143e02103af,Linden-Limmer,Linden-Nord
+946,Burgernah,Burger Joint,52.375154,9.704743,5764284438faa6615ec53d90,Linden-Limmer,Linden-Nord
+947,Barkarole,Bar,52.36955611063222,9.70856212568715,4caf8f05c5e6a1cd5dc1cdf6,Linden-Limmer,Linden-Nord
+948,Debakel,Pub,52.37516926925483,9.702059125217588,4c990136671db60c1d49bef6,Linden-Limmer,Linden-Nord
+949,Linden Burger,Burger Joint,52.37327573184847,9.70800653248648,4c55aa2f728920a1e27fd684,Linden-Limmer,Linden-Nord
+950,Shandiz,Persian Restaurant,52.3671591590341,9.710603503093633,4ef6486e6c25c411ea60b668,Linden-Limmer,Linden-Nord
+951,Schmuckplatz,Plaza,52.37243552592521,9.705862998962402,4d8342e9f9f3a1cd0f2c9c64,Linden-Limmer,Linden-Nord
+952,Packstation 119,Shipping Store,52.37486102178348,9.700195519281351,4e3d2d717d8b0e96106591d3,Linden-Limmer,Linden-Nord
+953,Hotel Amadeus,Hotel,52.369120780784534,9.702909535275467,4bc8f023762beee1f3b83d38,Linden-Limmer,Linden-Nord
+954,Yasar Kiosk,Convenience Store,52.367167687098494,9.70896005673175,4f7f555fe4b00dcb6a62d947,Linden-Limmer,Linden-Nord
+955,Minigolfanlage Steintormarsch,Mini Golf,52.38294085504581,9.709478616714478,4fd49158e4b03121ce75c788,Linden-Limmer,Linden-Nord
+956,Steintormarsch Restaurant & Café,German Restaurant,52.38328161029206,9.708565362417271,4c7547113adda1431cd306af,Linden-Limmer,Linden-Nord
+957,Poco,Furniture / Home Store,52.367052266605405,9.700707293501797,4bed2486e3562d7f2892fef8,Linden-Limmer,Linden-Nord
+958,MarktCafé,Café,52.367358391761904,9.71420131623745,4bb7174446d4a593d716c7c0,Linden-Limmer,Linden-Mitte
+959,Eismanufaktur Frioli,Ice Cream Shop,52.368237950754725,9.71451954727639,4fd32c49e4b0aa9a72193183,Linden-Limmer,Linden-Mitte
+960,Lindener Marktplatz,Plaza,52.36705745467738,9.714531898498535,4cb981947148f04d73f0d6ab,Linden-Limmer,Linden-Mitte
+961,IhmeRauschen,Wine Bar,52.37074917542834,9.713406073404476,4bdc9e53c79cc928a36287e9,Linden-Limmer,Linden-Mitte
+962,11a,German Restaurant,52.370506570955015,9.713469414896228,4b8967caf964a520163332e3,Linden-Limmer,Linden-Mitte
+963,und der böse Wolf,Pub,52.36761853691269,9.715712070465088,4b56ec67f964a5206c1f28e3,Linden-Limmer,Linden-Mitte
+964,Lindener Lehmofen,Turkish Restaurant,52.36688907014812,9.716190365534846,4f54b49be4b0195da64dd2f5,Linden-Limmer,Linden-Mitte
+965,Parga,Greek Restaurant,52.36621168785832,9.714433948640856,4ba12637f964a520859c37e3,Linden-Limmer,Linden-Mitte
+966,The Harp,Irish Pub,52.36794183537129,9.720851182937622,4c23aee4b7b8a593f5403be8,Linden-Limmer,Linden-Mitte
+967,Restaurant Zwiespalt,German Restaurant,52.36697465787527,9.712428662526484,4bc73b9092b376b0c1454f3a,Linden-Limmer,Linden-Mitte
+968,Café BAR,Café,52.372654935120735,9.709886583086845,4c4abdcb5609c9b66cc61f90,Linden-Limmer,Linden-Mitte
+969,Street Kitchen Viet Cuisine,Vietnamese Restaurant,52.372735958698485,9.709700064802842,4c0fe794f1b6a593ce097b27,Linden-Limmer,Linden-Mitte
+970,V17,Coffee Shop,52.364049,9.717476,5603e76b498e2c9abda720e7,Linden-Limmer,Linden-Mitte
+971,Café K,Café,52.367352020012866,9.710864574946326,4c557bdef5f3d13a5da4d9fb,Linden-Limmer,Linden-Mitte
+972,Capitol,Music Venue,52.36834205275971,9.720443487167358,4b559fb5f964a52082e927e3,Linden-Limmer,Linden-Mitte
+973,Pastelaria Luis,Pastry Shop,52.36323,9.716454,4be585f0bcef2d7f84df03e5,Linden-Limmer,Linden-Mitte
+974,Das kleine Museum,Pub,52.37233313037633,9.70742811386283,4dc0634281545e1cc7e39ee8,Linden-Limmer,Linden-Mitte
+975,Bistro bei Jacqueline,Café,52.37181702505902,9.712327654233814,4d1878e7cc216ea8454176d3,Linden-Limmer,Linden-Mitte
+976,Duke Burger,Burger Joint,52.371255,9.712646,5884e34838730349af2d4a4b,Linden-Limmer,Linden-Mitte
+977,Lindwurm,Bar,52.37461967869214,9.709900858048222,5156d77fe4b028505df09ad9,Linden-Limmer,Linden-Mitte
+978,Bronco's,Nightclub,52.36757972877005,9.719631532347766,4b6ddd1af964a520b5962ce3,Linden-Limmer,Linden-Mitte
+979,Centrum,Bar,52.367140705504845,9.714365384692623,4b86caedf964a520bc9d31e3,Linden-Limmer,Linden-Mitte
+980,Lamara,Creperie,52.373309973790306,9.707520604133606,50a8d774e4b0785850734ef3,Linden-Limmer,Linden-Mitte
+981,Restaurant Plenum,Indian Restaurant,52.36684485498441,9.71246180973497,4d85157999b78cfa34f1c61f,Linden-Limmer,Linden-Mitte
+982,Das Ei,German Restaurant,52.371009307396406,9.71132754490199,4be5bc9dcf200f47fea4133c,Linden-Limmer,Linden-Mitte
+983,Apollo,Optical Shop,52.37406900975333,9.707066191039985,4c2ba9e9d1a10f471e4df864,Linden-Limmer,Linden-Mitte
+984,Tandure,Turkish Restaurant,52.36749999923411,9.720787905244736,4ba10368f964a520e08e37e3,Linden-Limmer,Linden-Mitte
+985,Doppelkorn Bio Bäckerei,Bakery,52.373925761831174,9.706109084447368,4be165afea6e20a18cfb9267,Linden-Limmer,Linden-Mitte
+986,O'Atlantico,Spanish Restaurant,52.37113176722991,9.706387556621584,4c263a30c11dc9b6218b2824,Linden-Limmer,Linden-Mitte
+987,Happy Döner,Doner Restaurant,52.367904,9.720646,4c9e0e0f0e9bb1f7301ae35f,Linden-Limmer,Linden-Mitte
+988,Antalya Kebap,Turkish Restaurant,52.36726900038827,9.708134276680388,4c780cb393ef236a8dedaa0f,Linden-Limmer,Linden-Mitte
+989,Jazz Club Hannover,Jazz Club,52.36300570801795,9.705479598137364,4c38625b93db0f4780712192,Linden-Limmer,Linden-Mitte
+990,Rias Baixas 1,Spanish Restaurant,52.362432182788716,9.716334342956543,4e9ea2e8c2ee5d0054a6ce73,Linden-Limmer,Linden-Mitte
+991,Strandleben,Beach Bar,52.37719730381999,9.713121951347249,4dc92789ae60385d1115385a,Linden-Limmer,Linden-Mitte
+992,Am Küchengarten,Plaza,52.37083068892153,9.714124202728271,4b87e018f964a52096d031e3,Linden-Limmer,Linden-Mitte
+993,Francesca & Fratelli,Pizza Place,52.37345256443237,9.707483545417848,5425a8bf498ecea0c876d704,Linden-Limmer,Linden-Mitte
+994,LUX,Nightclub,52.368071047546394,9.720461034749906,5091785ee4b0e6b4437d2d5a,Linden-Limmer,Linden-Mitte
+995,Biergarten Lindener Turm,Beer Garden,52.362112044864375,9.705319762256899,4db43f2b5da3a76f443a3af1,Linden-Limmer,Linden-Mitte
+996,Biergarten Gretchen,Beer Garden,52.37693391108346,9.711524339412408,4c250632b7b8a5933d803de8,Linden-Limmer,Linden-Mitte
+997,Bar Anejo,Bar,52.37384016055341,9.708903263218225,4cdde26294c3b60ca5d461ea,Linden-Limmer,Linden-Mitte
+998,EDEKA Wucherpfennig,Supermarket,52.3744872,9.7057895,4c7f7613171b224b45c910b1,Linden-Limmer,Linden-Mitte
+999,Cafe Glocksee,Rock Club,52.37169452964308,9.720481600131537,4b8aca51f964a520318132e3,Linden-Limmer,Linden-Mitte
+1000,Mio Mio,Italian Restaurant,52.36531648494948,9.718644421644074,4c03c6ea3f03b71383065241,Linden-Limmer,Linden-Mitte
+1001,WASCHweiber,Laundromat,52.371353936608536,9.713150609869922,4bf91dda5efe2d7fe5b66b34,Linden-Limmer,Linden-Mitte
+1002,CORNER,Breakfast Spot,52.37288,9.706377,5b390aff25ecca002c78dd73,Linden-Limmer,Linden-Mitte
+1003,Von-Alten-Garten,Park,52.36464660850309,9.712944030761719,4c7909c4a86837043e160f4d,Linden-Limmer,Linden-Mitte
+1004,GIG Linden,Bar,52.366784,9.714156,4be561a7bcef2d7fe0b303e5,Linden-Limmer,Linden-Mitte
+1005,Curry Culum,Fast Food Restaurant,52.37137604597419,9.723296332458089,4dda2bc21838b8561d296f5e,Linden-Limmer,Linden-Mitte
+1006,Café Safran,Café,52.3740931599467,9.718944665439366,4b81a131f964a520e4b330e3,Linden-Limmer,Linden-Mitte
+1007,Pizzeria Napoli,Pizza Place,52.364936344929895,9.718290702266195,4b76dd64f964a5204c652ee3,Linden-Limmer,Linden-Mitte
+1008,Mr. Thang,Asian Restaurant,52.373865,9.707209,4ce83f12e1eeb60cb329a2ae,Linden-Limmer,Linden-Mitte
+1009,Fernost,Asian Restaurant,52.36581529288186,9.719199688847104,4bdc3fb163c5c9b656e72a68,Linden-Limmer,Linden-Mitte
+1010,Kulturpalast Linden,Bar,52.3663360475219,9.719479960126336,4b47c0e5f964a5203e3d26e3,Linden-Limmer,Linden-Mitte
+1011,Lindenblatt Grill-Garten,Steakhouse,52.372484161869046,9.710322533660856,527d3bbf498e6cd0c8c2db1a,Linden-Limmer,Linden-Mitte
+1012,60er-Jahre-Halle,Rock Club,52.37666396731641,9.711070511860072,4cf044ce7bf3b60ca583587f,Linden-Limmer,Linden-Mitte
+1013,Pfannkuchenhaus,Pub,52.370018,9.727002,4c72ba3313228cfaa7d72b65,Linden-Limmer,Linden-Mitte
+1014,Francesca & Fratelli,Pizza Place,52.36981865551878,9.724492408144082,5802a84cd67c1565be9385c2,Linden-Limmer,Linden-Mitte
+1015,Pizzeria Parma,Italian Restaurant,52.372716162923155,9.709691149315628,4e6527f51f6ef7d07bde4ffd,Linden-Limmer,Linden-Mitte
+1016,Sushi Bar Gim,Sushi Restaurant,52.373147,9.724387,4b9a9b21f964a520bac535e3,Linden-Limmer,Linden-Mitte
+1017,Pizza Günes,Pizza Place,52.376748405307026,9.711016184471058,5027b8c1e4b0352ef999266f,Linden-Limmer,Linden-Mitte
+1018,Mi Pueblito Mexicano,Mexican Restaurant,52.37081431273319,9.726070761680603,4f5280b9e4b0ef967184c126,Linden-Limmer,Linden-Mitte
+1019,El Hadi,Falafel Restaurant,52.373852968082936,9.706496351907592,4c127e2e8aedd13a944d5137,Linden-Limmer,Linden-Mitte
+1020,Rossmann,Drugstore,52.372079,9.710837,5a218de3e179100e04907426,Linden-Limmer,Linden-Mitte
+1021,Der Nachbarin Café,Café,52.375879,9.710468,55f56925498e38dafc8173a2,Linden-Limmer,Linden-Mitte
+1022,Notre Dame,Gastropub,52.37430298506734,9.704929484804106,4c1e01f463750f47c712b967,Linden-Limmer,Linden-Mitte
+1023,Mephisto,Nightclub,52.376451334310566,9.711026108403445,4b7af7ebf964a52014492fe3,Linden-Limmer,Linden-Mitte
+1024,REWE,Supermarket,52.3717121,9.7129471,4cbdce5d4495721ed990617a,Linden-Limmer,Linden-Mitte
+1025,Rossmann,Drugstore,52.367261681994314,9.719912461841638,503fbd0a7e2752ec471b5416,Linden-Limmer,Linden-Mitte
+1026,Wochenmarkt Pfarrlandplatz,Farmers Market,52.37559161937762,9.707113291903987,50e7f1dde4b098a1e25880a9,Linden-Limmer,Linden-Mitte
+1027,Shandiz,Persian Restaurant,52.3671591590341,9.710603503093633,4ef6486e6c25c411ea60b668,Linden-Limmer,Linden-Mitte
+1028,Havana Cuba-Linden,Cocktail Bar,52.3733766605183,9.70979731673984,4bb61fbf6edc76b0ca6c301c,Linden-Limmer,Linden-Mitte
+1029,fitmaX,Gym / Fitness Center,52.366465378526705,9.714294590739113,4f1477046d863f284d1c116f,Linden-Limmer,Linden-Mitte
+1030,Barkarole,Bar,52.36955611063222,9.70856212568715,4caf8f05c5e6a1cd5dc1cdf6,Linden-Limmer,Linden-Mitte
+1031,Istanbul Kebap,Turkish Restaurant,52.37237636072141,9.710518543986764,4c73ee853adda143e02103af,Linden-Limmer,Linden-Mitte
+1032,Fischers,Mexican Restaurant,52.37354445539977,9.707092701622798,4b8eb9e7f964a520683333e3,Linden-Limmer,Linden-Mitte
+1033,Flohmarkt Faustgelände,Flea Market,52.37616709981925,9.710761934370678,4e6352b01f6ef7d07b158d98,Linden-Limmer,Linden-Mitte
+1034,Rias Baixas 2,Spanish Restaurant,52.3611334132334,9.716182023799403,4be06874cb81c9b63bc2658b,Linden-Limmer,Linden-Mitte
+1035,Café Kalah,Café,52.37308176542163,9.706676063155458,4ce2ba07db12548116e448ce,Linden-Limmer,Linden-Mitte
+1036,Berliner Döner,Turkish Restaurant,52.36701762263194,9.719616080940991,4bae36d8f964a5203c933be3,Linden-Limmer,Linden-Mitte
+1037,El Mercado,Spanish Restaurant,52.36682693584229,9.714672558342516,4d6c2e323a6bf04dcbc55c7d,Linden-Limmer,Linden-Mitte
+1038,Beckmanns Weinhaus,Italian Restaurant,52.37041,9.727731,4bd337f241b9ef3b5294ffe5,Linden-Limmer,Linden-Mitte
+1039,Schwarzer Bär,Plaza,52.367977865320526,9.719628095626831,4c0f7e0998102d7fc13fe506,Linden-Limmer,Linden-Mitte
+1040,Tandori,Pizza Place,52.36064106441198,9.718131217160721,51adcdf1498e1584828b66e8,Linden-Limmer,Linden-Mitte
+1041,Linden Burger,Burger Joint,52.37327573184847,9.70800653248648,4c55aa2f728920a1e27fd684,Linden-Limmer,Linden-Mitte
+1042,Hotel Amadeus,Hotel,52.369120780784534,9.702909535275467,4bc8f023762beee1f3b83d38,Linden-Limmer,Linden-Mitte
+1043,Burgernah,Burger Joint,52.375154,9.704743,5764284438faa6615ec53d90,Linden-Limmer,Linden-Mitte
+1044,Salerno (bei Toto),Italian Restaurant,52.37006446779761,9.706273375024793,4db5bbe943a1369cb5d67053,Linden-Limmer,Linden-Mitte
+1045,Ihme,River,52.36678231040608,9.721291065216064,51aa428aabd8e5eea7413d5e,Linden-Limmer,Linden-Mitte
+1046,Domino's Pizza Hannover Linden Nord,Pizza Place,52.36919197327536,9.704914044964084,52344a0911d2188c516ed342,Linden-Limmer,Linden-Mitte
+1047,idee+spiel,Toy / Game Store,52.369795701885344,9.72341537475586,4d9722990caaa1434c7589b3,Linden-Limmer,Linden-Mitte
+1048,Izarro,Pub,52.37271729877416,9.706245042407513,4e6bf5f3e4cd4bedeb6d26d7,Linden-Limmer,Linden-Mitte
+1049,Hotel Meyer,Hotel,52.37252530823644,9.705629289265806,51402db5e4b086bae2e22389,Linden-Limmer,Linden-Mitte
+1050,H Leinaustraße,Tram Station,52.37377926271271,9.706711130597684,506b51e1e4b002afa269bd2b,Linden-Limmer,Linden-Mitte
+1051,Sultan Ahmet Köftecisi,Mediterranean Restaurant,52.37305288136458,9.724246859550476,4ba162acf964a52070b237e3,Linden-Limmer,Linden-Mitte
+1052,Stubenwechsel,Cocktail Bar,52.37444861394378,9.704781071515336,4c267bc9f1272d7f16af86c5,Linden-Limmer,Linden-Mitte
+1053,Stadtfriedhof Lindener Berg,Cemetery,52.363251313900015,9.703239277310598,4d8cab35d265236a69a6df16,Linden-Limmer,Linden-Mitte
+1054,H Bernhard-Caspar-Straße,Tram Station,52.366262461243466,9.700293178235334,4e9b210b8b81c0254e9ee893,Linden-Limmer,Linden-Mitte
+1055,Enrique Tomás JAMON-TAPAS-VINO,Fruit & Vegetable Store,52.37012680012577,9.726963571970524,4e2ff776d22daa76ed9b1916,Linden-Limmer,Linden-Mitte
+1056,Hotel Marjani,Hotel,52.36046655298701,9.718283405140664,4bcc5d97aeaaeee17eef3d6d,Linden-Limmer,Linden-Mitte
+1057,Deutscher Ruderclub 1884 e.V.,Food Service,52.3620134,9.722932000000014,504e1308e4b0c450c3817e01,Linden-Limmer,Linden-Mitte
+1058,Pastelaria Luis,Pastry Shop,52.36323,9.716454,4be585f0bcef2d7f84df03e5,Linden-Limmer,Linden-Süd
+1059,Rias Baixas 1,Spanish Restaurant,52.362432182788716,9.716334342956543,4e9ea2e8c2ee5d0054a6ce73,Linden-Limmer,Linden-Süd
+1060,V17,Coffee Shop,52.364049,9.717476,5603e76b498e2c9abda720e7,Linden-Limmer,Linden-Süd
+1061,Lindener Marktplatz,Plaza,52.36705745467738,9.714531898498535,4cb981947148f04d73f0d6ab,Linden-Limmer,Linden-Süd
+1062,MarktCafé,Café,52.367358391761904,9.71420131623745,4bb7174446d4a593d716c7c0,Linden-Limmer,Linden-Süd
+1063,The Harp,Irish Pub,52.36794183537129,9.720851182937622,4c23aee4b7b8a593f5403be8,Linden-Limmer,Linden-Süd
+1064,Eismanufaktur Frioli,Ice Cream Shop,52.368237950754725,9.71451954727639,4fd32c49e4b0aa9a72193183,Linden-Limmer,Linden-Süd
+1065,Parga,Greek Restaurant,52.36621168785832,9.714433948640856,4ba12637f964a520859c37e3,Linden-Limmer,Linden-Süd
+1066,Lindener Lehmofen,Turkish Restaurant,52.36688907014812,9.716190365534846,4f54b49be4b0195da64dd2f5,Linden-Limmer,Linden-Süd
+1067,Coimbra,Portuguese Restaurant,52.35733462314612,9.718379473037782,4e70f529d4c03fcb6591309d,Linden-Limmer,Linden-Süd
+1068,und der böse Wolf,Pub,52.36761853691269,9.715712070465088,4b56ec67f964a5206c1f28e3,Linden-Limmer,Linden-Süd
+1069,Jazz Club Hannover,Jazz Club,52.36300570801795,9.705479598137364,4c38625b93db0f4780712192,Linden-Limmer,Linden-Süd
+1070,REWE,Supermarket,52.35737656846202,9.715242205040454,52723b4611d2014e2710248b,Linden-Limmer,Linden-Süd
+1071,HDI Arena,Soccer Stadium,52.360217646084486,9.731054306030273,4b442f81f964a52076f225e3,Linden-Limmer,Linden-Süd
+1072,Tandure,Turkish Restaurant,52.36749999923411,9.720787905244736,4ba10368f964a520e08e37e3,Linden-Limmer,Linden-Süd
+1073,Capitol,Music Venue,52.36834205275971,9.720443487167358,4b559fb5f964a52082e927e3,Linden-Limmer,Linden-Süd
+1074,Biergarten Lindener Turm,Beer Garden,52.362112044864375,9.705319762256899,4db43f2b5da3a76f443a3af1,Linden-Limmer,Linden-Süd
+1075,Bronco's,Nightclub,52.36757972877005,9.719631532347766,4b6ddd1af964a520b5962ce3,Linden-Limmer,Linden-Süd
+1076,Mio Mio,Italian Restaurant,52.36531648494948,9.718644421644074,4c03c6ea3f03b71383065241,Linden-Limmer,Linden-Süd
+1077,Restaurant Zwiespalt,German Restaurant,52.36697465787527,9.712428662526484,4bc73b9092b376b0c1454f3a,Linden-Limmer,Linden-Süd
+1078,Happy Döner,Doner Restaurant,52.367904,9.720646,4c9e0e0f0e9bb1f7301ae35f,Linden-Limmer,Linden-Süd
+1079,Gästeblock,Soccer Stadium,52.35924793235075,9.730281829833983,51726277e4b01233a7fab4fe,Linden-Limmer,Linden-Süd
+1080,Pizzeria Napoli,Pizza Place,52.364936344929895,9.718290702266195,4b76dd64f964a5204c652ee3,Linden-Limmer,Linden-Süd
+1081,Centrum,Bar,52.367140705504845,9.714365384692623,4b86caedf964a520bc9d31e3,Linden-Limmer,Linden-Süd
+1082,Algarve,Portuguese Restaurant,52.358862413387655,9.719944363523302,4e627e1b1495676d55c51475,Linden-Limmer,Linden-Süd
+1083,Nordkurve,Sports Bar,52.362363792523695,9.732926657320457,4b76a76af964a520a0562ee3,Linden-Limmer,Linden-Süd
+1084,Von-Alten-Garten,Park,52.36464660850309,9.712944030761719,4c7909c4a86837043e160f4d,Linden-Limmer,Linden-Süd
+1085,LUX,Nightclub,52.368071047546394,9.720461034749906,5091785ee4b0e6b4437d2d5a,Linden-Limmer,Linden-Süd
+1086,Café K,Café,52.367352020012866,9.710864574946326,4c557bdef5f3d13a5da4d9fb,Linden-Limmer,Linden-Süd
+1087,Restaurant Plenum,Indian Restaurant,52.36684485498441,9.71246180973497,4d85157999b78cfa34f1c61f,Linden-Limmer,Linden-Süd
+1088,Fernost,Asian Restaurant,52.36581529288186,9.719199688847104,4bdc3fb163c5c9b656e72a68,Linden-Limmer,Linden-Süd
+1089,Kulturpalast Linden,Bar,52.3663360475219,9.719479960126336,4b47c0e5f964a5203e3d26e3,Linden-Limmer,Linden-Süd
+1090,Rias Baixas 2,Spanish Restaurant,52.3611334132334,9.716182023799403,4be06874cb81c9b63bc2658b,Linden-Limmer,Linden-Süd
+1091,GIG Linden,Bar,52.366784,9.714156,4be561a7bcef2d7fe0b303e5,Linden-Limmer,Linden-Süd
+1092,Tandori,Pizza Place,52.36064106441198,9.718131217160721,51adcdf1498e1584828b66e8,Linden-Limmer,Linden-Süd
+1093,Gilde Parkbühne,Indie Movie Theater,52.356232103454204,9.730145603211936,4c5e861985a1e21e2a7d5c11,Linden-Limmer,Linden-Süd
+1094,Rossmann,Drugstore,52.367261681994314,9.719912461841638,503fbd0a7e2752ec471b5416,Linden-Limmer,Linden-Süd
+1095,Schützenplatz,Plaza,52.36323956660088,9.728863245989457,4c2e2803e116e21e7cce8f60,Linden-Limmer,Linden-Süd
+1096,Waterlooplatz,Plaza,52.367293291260246,9.728779792785645,4c698d8e8d22c9287a8bb745,Linden-Limmer,Linden-Süd
+1097,OBI,Hardware Store,52.355722461419276,9.713578378473118,4bb0ad2ff964a5202f543ce3,Linden-Limmer,Linden-Süd
+1098,fitmaX,Gym / Fitness Center,52.366465378526705,9.714294590739113,4f1477046d863f284d1c116f,Linden-Limmer,Linden-Süd
+1099,Shandiz,Persian Restaurant,52.3671591590341,9.710603503093633,4ef6486e6c25c411ea60b668,Linden-Limmer,Linden-Süd
+1100,Berliner Döner,Turkish Restaurant,52.36701762263194,9.719616080940991,4bae36d8f964a5203c933be3,Linden-Limmer,Linden-Süd
+1101,Schwarzer Bär,Plaza,52.367977865320526,9.719628095626831,4c0f7e0998102d7fc13fe506,Linden-Limmer,Linden-Süd
+1102,El Mercado,Spanish Restaurant,52.36682693584229,9.714672558342516,4d6c2e323a6bf04dcbc55c7d,Linden-Limmer,Linden-Süd
+1103,RS-Möbel,Furniture / Home Store,52.355821211771236,9.714443023065677,514d780de4b045df9c8ef8a5,Linden-Limmer,Linden-Süd
+1104,Bratwurststand,Bratwurst Joint,52.35581853657292,9.71444365152436,4fa948d0e4b02c573aa397e1,Linden-Limmer,Linden-Süd
+1105,Bäckerei Borchers,Bakery,52.35579893175312,9.714412383651947,508eaff5e4b0661bf62ccde3,Linden-Limmer,Linden-Süd
+1106,Pastelaria Estrela,Dessert Shop,52.3683464016896,9.719672479660124,515fe6bd498e357fdbd657c7,Linden-Limmer,Linden-Süd
+1107,Biologisch,Health Food Store,52.368404,9.714658,4d2f392a940137048e64edda,Linden-Limmer,Linden-Süd
+1108,Spielplatz Stephanusstraße,Playground,52.369042870610315,9.714676770915368,500ea2a5e4b031973ea201cf,Linden-Limmer,Linden-Süd
+1109,Hannover 96 Fanshop,Sporting Goods Shop,52.36097767710775,9.733028411865234,4bed39dbe3562d7f5aa9fef8,Linden-Limmer,Linden-Süd
+1110,Lichtenbergplatz,Plaza,52.36893680921995,9.712886859940877,4db9725e43a1e5b1e2c83e13,Linden-Limmer,Linden-Süd
+1111,Biergarten Kaiserschänke,Beer Garden,52.35580247188124,9.730683580982987,4db180974b22ba776d8398b3,Linden-Limmer,Linden-Süd
+1112,S+H Hannover-Linden / Fischerhof,Light Rail Station,52.352649659429005,9.722373358767065,4b70f6d8f964a520f2352de3,Linden-Limmer,Linden-Süd
+1113,Kaffeebar Rossi,Café,52.37481588831058,9.694337173854176,4c601f15de6920a10f369564,Linden-Limmer,Limmer
+1114,Hannoversche Kaffeemanufaktur,Coffee Shop,52.373102913791556,9.69251030677663,515afc8ae4b06ba4b0b6df03,Linden-Limmer,Limmer
+1115,Béi Chéz Heinz,Nightclub,52.37197882714583,9.696673315107041,4b4de46bf964a52051da26e3,Linden-Limmer,Limmer
+1116,Menagerie,Breakfast Spot,52.375559,9.704108,4c70fda4d97fa143e3aef7ca,Linden-Limmer,Limmer
+1117,REWE,Supermarket,52.37685675302521,9.693246108958306,54133570498efefba0b9f886,Linden-Limmer,Limmer
+1118,Lindener Bäckerei,Bakery,52.376888160812186,9.704634894172884,4d8dbd64cb9b224b66327341,Linden-Limmer,Limmer
+1119,Nature's Food,Health Food Store,52.37497611352806,9.702711173630368,4d7e5c2c555c5941806ed077,Linden-Limmer,Limmer
+1120,Fössebad,Pool,52.37187236336282,9.696476358792212,4d76a64546a8b60c8dda3a2a,Linden-Limmer,Limmer
+1121,Jalda,Persian Restaurant,52.375209677102774,9.701310202458778,4c98ff0005a1b1f70e569253,Linden-Limmer,Limmer
+1122,Notre Dame,Gastropub,52.37430298506734,9.704929484804106,4c1e01f463750f47c712b967,Linden-Limmer,Limmer
+1123,ALDI NORD,Supermarket,52.37692831294111,9.689227324346128,4c665c1c19f3c9b631b99fff,Linden-Limmer,Limmer
+1124,Debakel,Pub,52.37516926925483,9.702059125217588,4c990136671db60c1d49bef6,Linden-Limmer,Limmer
+1125,Burgernah,Burger Joint,52.375154,9.704743,5764284438faa6615ec53d90,Linden-Limmer,Limmer
+1126,H Brunnenstraße,Tram Station,52.37726335839243,9.684306611199046,4ebc049377c8d9bd1bc7d3ee,Linden-Limmer,Limmer
+1127,Packstation 119,Shipping Store,52.37486102178348,9.700195519281351,4e3d2d717d8b0e96106591d3,Linden-Limmer,Limmer
+1128,Wasserkunst,Bridge,52.38091357613782,9.691688493498038,4d327ed32e56236a1dae1db4,Linden-Limmer,Limmer
+1129,SG von 1874 Hannover,Sports Club,52.383170058181726,9.695820808410645,4eb65b8661af0dda90bffbea,Linden-Limmer,Limmer
+1130,Sonepar Niederlassung ist für Sie geöffnet,Electronics Store,52.36825,9.68208,563b5ed4cd100c2a70b422ad,Linden-Limmer,Limmer
+1131,dm-drogerie markt,Drugstore,52.3597135154578,9.678788160713225,4d90c0a01716a143641e69f7,Ahlem-Badenstedt-Davenstedt,Davenstedt
+1132,REWE,Supermarket,52.3601389,9.6786387,4d90bcc3ca75b60cfac82ea9,Ahlem-Badenstedt-Davenstedt,Davenstedt
+1133,Altes Dorf,Bus Stop,52.36574172973633,9.669706344604492,5260d1c4498e5eb0507e09b6,Ahlem-Badenstedt-Davenstedt,Davenstedt
+1134,H Am Soltekampe,Tram Station,52.3577815187861,9.675109018594267,4e29bc1a483bb05f058b95ff,Ahlem-Badenstedt-Davenstedt,Davenstedt
+1135,BeneFit Fitness & Wellness,Gym / Fitness Center,52.348256102479134,9.668348018986746,51028df8e4b0c4c529053c15,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1136,Raute,Bakery,52.35550647249722,9.671493172645569,4bf8a9f95ec320a1603b89d3,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1137,REWE,Supermarket,52.35516315340511,9.669194441309628,51b2232eabd8e472cca1275d,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1138,dm-drogerie markt,Drugstore,52.3597135154578,9.678788160713225,4d90c0a01716a143641e69f7,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1139,EDEKA Center Cramer,Supermarket,52.3445076,9.670862999999999,4e9c5b879adf277db86d2e1b,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1140,Rossmann,Drugstore,52.344224185804386,9.669306383231126,503fbd0d7e2752ec471b59d4,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1141,barista,Café,52.344037678381284,9.670372009277344,4faf828fe4b0c546fae1680c,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1142,H Safariweg,Tram Station,52.351072785995335,9.672258728173622,4c96430a94a0236ad44b9d12,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1143,Hotel Kischer's Landhaus,Hotel,52.35564407995902,9.667325019836426,4bd09b751f89ce7291ba67ea,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1144,H Am Soltekampe,Tram Station,52.3577815187861,9.675109018594267,4e29bc1a483bb05f058b95ff,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1145,S Hannover-Bornum,Light Rail Station,52.350834117295186,9.680328369140625,4bae19b0f964a52019843be3,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1146,Löwen Play,Casino,52.34520019,9.66949281,51ca6b75498e0917e840e2c5,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1147,H Empelde,Tram Station,52.34399941080928,9.667393333651072,4c1861031436a593d4538d75,Ahlem-Badenstedt-Davenstedt,Badenstedt
+1148,Bäcker Göing,Bakery,52.384274,9.664043,501fb288e4b04e60b99b1776,Ahlem-Badenstedt-Davenstedt,Ahlem
+1149,Lukullus,Greek Restaurant,52.38393,9.664961,4c3470fe7cc0c9b6b844f39a,Ahlem-Badenstedt-Davenstedt,Ahlem
+1150,EDEKA Center Krone,Supermarket,52.38490532,9.67045824,4ec54cadbe7bd3e1852b0206,Ahlem-Badenstedt-Davenstedt,Ahlem
+1151,Lidl,Supermarket,52.3775085,9.6606644,4fcf61173ac6d9ec9903730d,Ahlem-Badenstedt-Davenstedt,Ahlem
+1152,Volksbad Limmer,Pool,52.38760780723483,9.677737178584637,4e393560b0fb2f7ee8644830,Ahlem-Badenstedt-Davenstedt,Ahlem
+1153,REWE,Supermarket,52.3767162,9.6606472,4c82167474d7b60c55e47cd8,Ahlem-Badenstedt-Davenstedt,Ahlem
+1154,Stichkanal Hannover-Linden,Canal,52.38906344442449,9.668397903442383,51e23670498ed59ef98fe0fc,Ahlem-Badenstedt-Davenstedt,Ahlem
+1155,Willy-Spahn-Park,Park,52.38518699447024,9.657797813415527,50a79c1fe4b0ed1fd8613965,Ahlem-Badenstedt-Davenstedt,Ahlem
+1156,H Ahlem,Tram Station,52.3771673298134,9.664756162757344,4c6aad5ea3932c7af0c3fdf4,Ahlem-Badenstedt-Davenstedt,Ahlem
+1157,Netto Marken-Discount,Supermarket,52.38262076,9.67224105,4bd330efb221c9b6ca15d9d0,Ahlem-Badenstedt-Davenstedt,Ahlem
+1158,Leineabstiegsschleuse,Canal Lock,52.384899,9.679729,5010165ee4b05b0d863a0fc1,Ahlem-Badenstedt-Davenstedt,Ahlem
+1159,Bavaria Alm,German Restaurant,52.427173090003755,9.620020685715565,4bc1b60c920eb7130b101b2c,Herrenhausen-Stöcken,Herrenhausen
+1160,Aral,Gas Station,52.418476573913004,9.635167268911742,4bab0f6ef964a52078933ae3,Herrenhausen-Stöcken,Herrenhausen
+1161,McFIT Fitnessstudio,Gym / Fitness Center,52.4293868,9.6180107,4dfa279f1fc70cefb996cf18,Herrenhausen-Stöcken,Herrenhausen
+1162,Aral,Gas Station,52.41848969,9.63528428,5bbbe31fc21cb1002c9b76ec,Herrenhausen-Stöcken,Herrenhausen
+1163,Möbel Hesse,Furniture / Home Store,52.42738816557867,9.623032727726054,4bee94a5d355a5939a040b60,Herrenhausen-Stöcken,Herrenhausen
+1164,A.T.U,Automotive Shop,52.42085390971286,9.622327195104546,56a256e1498e9790d214a9a3,Herrenhausen-Stöcken,Herrenhausen
+1165,Café del Sol,American Restaurant,52.427621742961996,9.619005394729706,4c45aa69429a0f47ca654a1e,Herrenhausen-Stöcken,Herrenhausen
+1166,H Schönebecker Allee,Tram Station,52.41824962000005,9.615329291927631,4daabb65a86e771ea72a2442,Herrenhausen-Stöcken,Herrenhausen
+1167,Baby Starke,Baby Store,52.42770686121901,9.622695654112068,4c820ebce602b1f784bf987a,Herrenhausen-Stöcken,Herrenhausen
+1168,AS Hannover-Herrenhausen (42),Intersection,52.42116995264426,9.634942124512861,4dbd71b56a23e294ba453d31,Herrenhausen-Stöcken,Herrenhausen
+1169,H Wissenschaftspark Marienwerder,Tram Station,52.416300028944704,9.633910085044121,4c1f0350b4e62d7f651ddf93,Herrenhausen-Stöcken,Herrenhausen
+1170,H Skorpiongasse,Tram Station,52.416238887704964,9.610475816308975,4cb172fb562d224b9b3b1f88,Herrenhausen-Stöcken,Herrenhausen
+1171,REWE,Supermarket,52.41040932591758,9.693994917914665,4bb385724019a5932c0c38b8,Herrenhausen-Stöcken,Burg
+1172,BAUHAUS,Hardware Store,52.409903,9.706751,4b7664d3f964a520be4a2ee3,Herrenhausen-Stöcken,Burg
+1173,Möbel Staude,Furniture / Home Store,52.40748993654472,9.706715253300624,4ccd59a772106dcba84da299,Herrenhausen-Stöcken,Burg
+1174,McDonald's,Fast Food Restaurant,52.40578942279751,9.710552911806753,4c04ec6f39d476b0180f32a7,Herrenhausen-Stöcken,Burg
+1175,Netto Marken-Discount,Supermarket,52.40875346,9.69308367,4d8f328e3bfef04db1f1a886,Herrenhausen-Stöcken,Burg
+1176,ALDI NORD,Supermarket,52.40961455625793,9.693543598278492,4ccaca93c4d06dcbf1196503,Herrenhausen-Stöcken,Burg
+1177,S Hannover-Ledeburg,Light Rail Station,52.40916757690572,9.691493455371972,4e358946fa7656ba3171ba5a,Herrenhausen-Stöcken,Burg
+1178,Harley Davidson Hannover,Motorcycle Shop,52.40766953012739,9.705503762806138,4d62ce8929ef236a0a0bc059,Herrenhausen-Stöcken,Burg
+1179,CSL-Computer GmbH & Co. KG,Electronics Store,52.40886633320829,9.705288567580274,4ded5bca814d56e308309877,Herrenhausen-Stöcken,Burg
+1180,AURAS Autovermietung GmbH,Rental Car Location,52.407265,9.709604,4e730d9a88778d253af251ea,Herrenhausen-Stöcken,Burg
+1181,H Krepenstraße,Tram Station,52.40808297170142,9.709167829527175,4f0ad692e4b090ef2452a23e,Herrenhausen-Stöcken,Burg
+1182,Ata's Dönerladen,Doner Restaurant,52.404964,9.710617,595aa3c3772fbc4ee0fc206c,Herrenhausen-Stöcken,Burg
+1183,H Friedenauer Straße,Tram Station,52.41087385943525,9.706965204485385,4e9aabb530f87c966c5b4d32,Herrenhausen-Stöcken,Burg
+1184,POCO Einrichtungsmarkt,Furniture / Home Store,52.40423890422026,9.71059207003071,4fdb5692e4b09756c165104b,Herrenhausen-Stöcken,Burg
+1185,LieblingsBar,Cocktail Bar,52.39383622988522,9.683483085514244,58a0c7021470b07f6555e8bc,Herrenhausen-Stöcken,Leinhausen
+1186,Rautes Markt Café,Café,52.393520940836254,9.684743976869227,4c47ea4b89a6c9b636ed9b88,Herrenhausen-Stöcken,Leinhausen
+1187,Herrenhäuser Markt,Farmers Market,52.393764492824324,9.68470573425293,4dce4f44d164679b8cfc0371,Herrenhausen-Stöcken,Leinhausen
+1188,Privatbrauerei Herrenhausen,Brewery,52.39371866329309,9.682163000106812,4d9daa3048b6224b95f9289f,Herrenhausen-Stöcken,Leinhausen
+1189,EDEKA Wirth,Supermarket,52.39372684714142,9.684485793113708,52974bee11d2d40e520ec648,Herrenhausen-Stöcken,Leinhausen
+1190,Rossmann,Drugstore,52.39398903948586,9.684977421977885,5292496e498e454f0444133f,Herrenhausen-Stöcken,Leinhausen
+1191,S Hannover-Leinhausen,Light Rail Station,52.396940038438565,9.675577051716553,4debfd64d22da22d4efc5bb1,Herrenhausen-Stöcken,Leinhausen
+1192,Spätzle-Haus,Swabian Restaurant,52.39615550039182,9.691169981775793,4b928fe3f964a520840434e3,Herrenhausen-Stöcken,Leinhausen
+1193,Hotel Herrenhausen,Hotel,52.39340300248296,9.68296976155905,4bd09b6d1f89ce7289ba67ea,Herrenhausen-Stöcken,Leinhausen
+1194,La Luna,Ice Cream Shop,52.393567,9.683398,58a880fe9ab6634221365abb,Herrenhausen-Stöcken,Leinhausen
+1195,H Stadtfriedhof Stöcken,Tram Station,52.40025334135027,9.669047328139106,4e2e8d1845ddcf0f5c793732,Herrenhausen-Stöcken,Leinhausen
+1196,REWE,Supermarket,52.41040932591758,9.693994917914665,4bb385724019a5932c0c38b8,Herrenhausen-Stöcken,Ledeburg
+1197,Waldgasthaus Entenfang,German Restaurant,52.40603750006465,9.681000361653291,4ea7ed599adfcc4eb0bdee4f,Herrenhausen-Stöcken,Ledeburg
+1198,Netto Marken-Discount,Supermarket,52.40875346,9.69308367,4d8f328e3bfef04db1f1a886,Herrenhausen-Stöcken,Ledeburg
+1199,S Hannover-Ledeburg,Light Rail Station,52.40916757690572,9.691493455371972,4e358946fa7656ba3171ba5a,Herrenhausen-Stöcken,Ledeburg
+1200,ALDI NORD,Supermarket,52.40961455625793,9.693543598278492,4ccaca93c4d06dcbf1196503,Herrenhausen-Stöcken,Ledeburg
+1201,Mercure Hotel Am Entenfang,Hotel,52.40646840871059,9.680412652376276,4b8ce9abf964a520a1e032e3,Herrenhausen-Stöcken,Ledeburg
+1202,Merkur Apotheke Ledeburg,Pharmacy,52.41284,9.67871,4d3186c16c7c721efaaca656,Herrenhausen-Stöcken,Ledeburg
+1203,CSL-Computer GmbH & Co. KG,Electronics Store,52.40886633320829,9.705288567580274,4ded5bca814d56e308309877,Herrenhausen-Stöcken,Ledeburg
+1204,Lidl,Supermarket,52.4143775,9.6512783,4d2571c8d713b1f70d65df53,Herrenhausen-Stöcken,Stöcken
+1205,PENNY,Supermarket,52.4101667,9.6634782,4f50faf8c2ee57ad648c6bc9,Herrenhausen-Stöcken,Stöcken
+1206,H Stöckener Markt,Tram Station,52.409527027681015,9.662947654724121,4e0d6a007d8bb178a89f05dd,Herrenhausen-Stöcken,Stöcken
+1207,Rautes Marktbäckerei,Bakery,52.409850159615914,9.66458928308462,4fc4899de4b0830018655afd,Herrenhausen-Stöcken,Stöcken
+1208,Marktplatz Stöcken,Plaza,52.40979729794388,9.664606423545617,4fb20ce9e4b0968bdcfab9a4,Herrenhausen-Stöcken,Stöcken
+1209,Vergölst,Automotive Shop,52.4111697253064,9.654310941696167,4e968c39f5b91722c6ee790e,Herrenhausen-Stöcken,Stöcken
+1210,H Stöcken,Tram Station,52.414307758248405,9.667214981438976,4c877a82d92ea09344217672,Herrenhausen-Stöcken,Stöcken
+1211,von der Werth Dienstleistungen,Home Service,52.41433,9.654620000000023,558ecd70498e0b6633a2b1b5,Herrenhausen-Stöcken,Stöcken
+1212,H Lauckerthof,Tram Station,52.409984,9.652593,4fb6b44ce4b012942f42aaa9,Herrenhausen-Stöcken,Stöcken
+1213,Bäckerei Raute,Bakery,52.41440912897831,9.651371240615845,4d2572a619ff37040a100e70,Herrenhausen-Stöcken,Stöcken
+1214,H Auf der Klappenburg,Tram Station,52.41345,9.648115,506ee06be4b052d9948b006a,Herrenhausen-Stöcken,Stöcken
+1215,Hinüberscher Garten,Park,52.40828351070694,9.630932807922362,4dfb3b03b61c6408772e770c,Herrenhausen-Stöcken,Marienwerder
+1216,Netto Getränke-Discount,Liquor Store,52.40521673,9.61910064,5713cb2e498e057aae980455,Herrenhausen-Stöcken,Marienwerder
+1217,Hölty-Apotheke,Pharmacy,52.4045317,9.6163838,5c7f764e1ffe97002c43b8dc,Herrenhausen-Stöcken,Marienwerder
+1218,Pantharia-Day Spa,Cosmetics Shop,52.404459,9.615928,5b237d989d6a19002cb4ab3d,Herrenhausen-Stöcken,Marienwerder
+1219,KS-Brandschutztechnik GbR,Fire Station,52.4089999,9.614219,5ac1e3fd35f9831279cdf6f4,Herrenhausen-Stöcken,Marienwerder
+1220,Koenemann GmbH,Construction & Landscaping,52.41062,9.61472,5eb18cd27b2a510007c06b97,Herrenhausen-Stöcken,Marienwerder
+1221,Aral,Gas Station,52.418476573913004,9.635167268911742,4bab0f6ef964a52078933ae3,Herrenhausen-Stöcken,Nordhafen
+1222,Aral,Gas Station,52.41848969,9.63528428,5bbbe31fc21cb1002c9b76ec,Herrenhausen-Stöcken,Nordhafen
+1223,Trumpf Brandschutz Deutschland GmbH,Fire Station,52.4281583,9.6517837,58787322e0adac0ce91d9417,Herrenhausen-Stöcken,Nordhafen
+1224,AS Hannover-Herrenhausen (42),Intersection,52.42116995264426,9.634942124512861,4dbd71b56a23e294ba453d31,Herrenhausen-Stöcken,Nordhafen
+1225,Stöcken/Schwarze Heide,Bus Stop,52.43056452735813,9.646047779794657,4e10197c45dde6c62dc7cf36,Herrenhausen-Stöcken,Nordhafen
+1226,H Jädekamp,Tram Station,52.415848787570035,9.642434120178223,4d96df8e9079b1f737bb040a,Herrenhausen-Stöcken,Nordhafen
+1227,Jacques' Weindepot,Wine Shop,52.414592,9.645213,4e42a0307d8bec1e4d194f28,Herrenhausen-Stöcken,Nordhafen
+1228,Kuriosum,Pub,52.38868529759637,9.716451170644216,4c8961b91107b7130e1b7f3a,Nord,Nordstadt
+1229,REWE,Supermarket,52.3878127,9.7245385,4cada5ad55238cfa0122b3fb,Nord,Nordstadt
+1230,Gaststätte Kaiser,Gastropub,52.388545266798786,9.716350681191901,4c2cc9208abca593dc390220,Nord,Nordstadt
+1231,Onkel Olli's Kiosk,Convenience Store,52.38756453317137,9.720752853344369,4daf0aa06e81e2dffdd52d90,Nord,Nordstadt
+1232,Yufka Bäckerei,Pastry Shop,52.39034533199845,9.721192551308937,5623ab48498e7f70115df483,Nord,Nordstadt
+1233,Café Kopi,Café,52.387586897627564,9.720486402511597,509505fee4b0ad0d95664ff2,Nord,Nordstadt
+1234,Cafve,Café,52.38806368971119,9.726313403317043,57f66974cd10e038d272ebba,Nord,Nordstadt
+1235,24grad,Coffee Shop,52.38585819471601,9.724338054656982,4bc1e4122a89ef3b75d4f288,Nord,Nordstadt
+1236,Pasta & Pizza,Italian Restaurant,52.387970638963466,9.71990683439249,4da73f0393a04785b911bb6c,Nord,Nordstadt
+1237,Café 42,Café,52.38625654877105,9.718385331798345,57b8834e498e78978e2589ea,Nord,Nordstadt
+1238,REWE,Supermarket,52.3920239,9.7215832,4cebfb2af1c6236aa8e072f0,Nord,Nordstadt
+1239,dm-drogerie markt,Drugstore,52.3876364,9.7241401,4c2ef0543896e21e1b2ae390,Nord,Nordstadt
+1240,Musikzentrum Hannover,Music Venue,52.39268741908827,9.725446359228107,4bd9d78c3f01c9b6715a53a5,Nord,Nordstadt
+1241,Caffee Crêperie,Creperie,52.38596147629915,9.724105010715444,51c70ad8498ec876084b1b46,Nord,Nordstadt
+1242,Suppenhandlung,Soup Place,52.386909,9.72071,4c235566fbe5c9b6a4389b21,Nord,Nordstadt
+1243,Extrakt,Gastropub,52.38668128090788,9.719814051479343,4b7a85c4f964a520c32f2fe3,Nord,Nordstadt
+1244,S Bar,Bar,52.386839134159196,9.720802187225651,4d2797dc068e8cfa4356bc4c,Nord,Nordstadt
+1245,Klein Kröpcke,Beer Garden,52.3862274764582,9.717388315849572,4c0009a7daf9c9b68228fbef,Nord,Nordstadt
+1246,Hotel Schlafgut,Hotel,52.38899081629603,9.719075195459897,4bd09b721f89ce728dba67ea,Nord,Nordstadt
+1247,Lidl,Supermarket,52.3939118,9.7224374,4e39bcfb62e16ad099f60ff1,Nord,Nordstadt
+1248,Berliner Döner,Doner Restaurant,52.38836,9.722278,4ecfd5eb9adf25445636dd3f,Nord,Nordstadt
+1249,Rossmann,Drugstore,52.38665795955336,9.72384117478909,4f9a679ce4b0e5be3e34470b,Nord,Nordstadt
+1250,Lavash,Doner Restaurant,52.38743153708951,9.721346210982919,56686623498e360d3fe6fd18,Nord,Nordstadt
+1251,Torai Cafe,Hookah Bar,52.39847755194446,9.729841531491857,54972a7c498e8ccd4a9fc59d,Nord,Nordstadt
+1252,Deutsche Bank Filiale,Bank,52.387555530124395,9.723419172873378,4d9d9e2a7865a093b614eb7a,Nord,Nordstadt
+1253,Santana,Cocktail Bar,52.386377,9.717138,4c3f53f4d691c9b6e692890a,Nord,Nordstadt
+1254,H Bahnhof Nordstadt,Tram Station,52.393673677478525,9.71853460063421,52558310498e921c80917103,Nord,Nordstadt
+1255,H Haltenhoffstraße,Tram Station,52.39306443475653,9.713519148639993,4e21907b88774a43b76ab44b,Nord,Nordstadt
+1256,Smayli's Döner,Doner Restaurant,52.39134216308594,9.7207670211792,52fcf825498e72d45329b82d,Nord,Nordstadt
+1257,Tadim Kebap,Doner Restaurant,52.39089,9.721164,58e135a623188e4a076c29ce,Nord,Nordstadt
+1258,Simit Sarayi,Bakery,52.39043933486985,9.721254370785571,5363df40498e82a0e4827c4d,Nord,Nordstadt
+1259,Snack Fırın,Doner Restaurant,52.39850364531092,9.71500317695699,55082ce3498ed14f195c767a,Nord,Nordstadt
+1260,PENNY,Supermarket,52.3985325,9.7150727,4f4eb3e7e4b066791a10a835,Nord,Nordstadt
+1261,Eco-Express,Laundromat,52.389288,9.721735,5145996ee4b08875171e4610,Nord,Nordstadt
+1262,LEVEL UP - fitness wellness climbing,Gym / Fitness Center,52.38863461180422,9.719549530128925,4da6e279bf8841971845a66f,Nord,Nordstadt
+1263,H Jahnplatz,Bus Stop,52.393867776842036,9.729004281100782,5004480ce4b0382ba0f1870b,Nord,Nordstadt
+1264,Jahnplatz,Plaza,52.394273408422045,9.729552814354001,4b76f394f964a520d56d2ee3,Nord,Nordstadt
+1265,Mavi Market,Grocery Store,52.40079175068041,9.713471239003624,5640b9d5cd102a33a2da87ff,Nord,Nordstadt
+1266,Steinecke,Bakery,52.39075797465593,9.706214368343353,587cb2d65a5869013d89e0bc,Nord,Nordstadt
+1267,Jacques’ Wein-Depot,Wine Shop,52.38727418504483,9.72451303802859,4d935f0562ad54811675804b,Nord,Nordstadt
+1268,H Appelstraße,Tram Station,52.39000958702807,9.706402122974394,4ebce09e82317d5cdad4e93d,Nord,Nordstadt
+1269,H Hainhölzer Markt,Tram Station,52.40138383049059,9.712775359388758,4cee0edced62721ed4c259fd,Nord,Nordstadt
+1270,H Grabbestr.,Bus Stop,52.39402043083392,9.731406475565374,4eeee3f2722ea7761954a67b,Nord,Nordstadt
+1271,H Melanchtonstraße,Bus Stop,52.39787052199636,9.729968040282582,5371cdac498e31c897025286,Nord,Nordstadt
+1272,Berggarten,Botanical Garden,52.39423587952624,9.699490070343018,4c9a0adedb10b60cc50d8f6d,Nord,Hainholz
+1273,Herrenhäuser Gärten,Park,52.39038607411893,9.701807498931885,4b0d4c8bf964a520db4523e3,Nord,Hainholz
+1274,Schlossküche Herrenhausen,German Restaurant,52.39118159714918,9.697054624557495,4cb5c7b01b0af04d8ca9cb25,Nord,Hainholz
+1275,Kiosk an den Herrenhäuser Gärten,Snack Place,52.390939340625366,9.70216155052185,50f17652e4b0c79b18d20f65,Nord,Hainholz
+1276,Castello,Italian Restaurant,52.39185364471604,9.690870404138563,4d7000fe56dea09370f3c78c,Nord,Hainholz
+1277,Schloss Herrenhausen,Palace,52.391135764935854,9.697730541229248,50e5c942e4b05b3dbfe8c9d7,Nord,Hainholz
+1278,Grotte der Niki de Saint Phalle,Sculpture Garden,52.390769250830495,9.696891884451826,4e075ca3d22d658532a562fb,Nord,Hainholz
+1279,SEA LIFE Hannover,Aquarium,52.3926315,9.6988714,4b8a818cf964a520b86f32e3,Nord,Hainholz
+1280,REWE City,Supermarket,52.3938676,9.6937196,4ccc2f68ba0a548188613b59,Nord,Hainholz
+1281,Sultan Palace,Turkish Restaurant,52.39437176439282,9.6935616856259,4e6264b02271573ad797ede8,Nord,Hainholz
+1282,Spätzle-Haus,Swabian Restaurant,52.39615550039182,9.691169981775793,4b928fe3f964a520840434e3,Nord,Hainholz
+1283,H Schaumburgstraße,Tram Station,52.392145432726494,9.694761405641634,4d1b6d0c9aa55481680dcee0,Nord,Hainholz
+1284,Steinecke,Bakery,52.39075797465593,9.706214368343353,587cb2d65a5869013d89e0bc,Nord,Hainholz
+1285,Wendlandhalle,Athletics & Sports,52.39400031162102,9.690897182567783,4f5ba0dae4b06784f7c230a1,Nord,Hainholz
+1286,H Appelstraße,Tram Station,52.39000958702807,9.706402122974394,4ebce09e82317d5cdad4e93d,Nord,Hainholz
+1287,Gartentheater,Theater,52.38946940428858,9.699232578277588,5202a6d4454a1e05d8a75b27,Nord,Hainholz
+1288,H Hainhölzer Markt,Tram Station,52.40138383049059,9.712775359388758,4cee0edced62721ed4c259fd,Nord,Hainholz
+1289,Mavi Market,Grocery Store,52.40079175068041,9.713471239003624,5640b9d5cd102a33a2da87ff,Nord,Hainholz
+1290,Snack Fırın,Doner Restaurant,52.39850364531092,9.71500317695699,55082ce3498ed14f195c767a,Nord,Hainholz
+1291,PENNY,Supermarket,52.3985325,9.7150727,4f4eb3e7e4b066791a10a835,Nord,Hainholz
+1292,H Haltenhoffstraße,Tram Station,52.39306443475653,9.713519148639993,4e21907b88774a43b76ab44b,Nord,Hainholz
+1293,POCO Einrichtungsmarkt,Furniture / Home Store,52.40423890422026,9.71059207003071,4fdb5692e4b09756c165104b,Nord,Hainholz
+1294,Restaurant Trocadero,Mediterranean Restaurant,52.424632384816306,9.707254231418583,4cc710e7d43ba14337eb77f8,Nord,Vinnhorst
+1295,famila,Big Box Store,52.430569,9.716518,53163f4611d217703a247a2a,Nord,Vinnhorst
+1296,S Hannover-Vinnhorst,Light Rail Station,52.42395811695952,9.707781870728125,4bdb01de2a3a0f4783e8acb6,Nord,Vinnhorst
+1297,Netto Filiale,Supermarket,52.42664506,9.70881802,5065d7cbe4b0c6fb832fdbc4,Nord,Vinnhorst
+1298,Göing,Bakery,52.41943464190789,9.707622528076172,4ccbe45a54f0b1f7a98012ca,Nord,Vinnhorst
+1299,real,Big Box Store,52.430000665283714,9.71768017074698,4c65122c772bef3b7358c5aa,Nord,Vinnhorst
+1300,Hotel Mecklenheide,Hotel,52.41969218774268,9.69452593467494,4bc8ec85762beee19bb43d38,Nord,Vinnhorst
+1301,H Mecklenheidestraße,Tram Station,52.419965,9.693805,4f89d481e4b0ddfd82a09744,Nord,Vinnhorst
+1302,Zorbas,Greek Restaurant,52.414901,9.714989,4bfabdb44a67c92887ad28cf,Nord,Brink-Hafen
+1303,SUBWAY,Sandwich Place,52.41655124908784,9.733210669420123,4cbe9f84575d236abe06ba8e,Nord,Brink-Hafen
+1304,L'Osteria,Trattoria/Osteria,52.41582536860631,9.733048563159947,548c09aa498ec034bb293644,Nord,Brink-Hafen
+1305,FitX,Gym / Fitness Center,52.41707399035748,9.735009337647625,51a09088498ee3b3e9f78f03,Nord,Brink-Hafen
+1306,Superfly,Indoor Play Area,52.41757,9.734898,59481de9a0215b689b2d7676,Nord,Brink-Hafen
+1307,Kentucky Fried Chicken,Fried Chicken Joint,52.41630426534514,9.73433197062461,4bbb7f4bc585a593e750b6b7,Nord,Brink-Hafen
+1308,Wasserturm,Historic Site,52.41554777193245,9.732942581176758,4db2819c43a17e74378b1935,Nord,Brink-Hafen
+1309,Netto Marken-Discount,Supermarket,52.422648,9.7287339,54b1446e498e765424d1e072,Nord,Brink-Hafen
+1310,Medimax,Electronics Store,52.416333,9.733737,4c03d5eaf423a593bcb6d016,Nord,Brink-Hafen
+1311,H Alter Flughafen,Tram Station,52.41632542804061,9.733826339612348,4d8ca684c1b1721e60800546,Nord,Brink-Hafen
+1312,Securitas Sicherheitsdienst,Electronics Store,52.42028649,9.7350425,57a54c5c498ee2c3c88a777a,Nord,Brink-Hafen
+1313,H Wiesenau,Tram Station,52.42374942959991,9.732742485527476,4da606684b22737295b86161,Nord,Brink-Hafen
+1314,Göing,Bakery,52.41943464190789,9.707622528076172,4ccbe45a54f0b1f7a98012ca,Nord,Brink-Hafen
